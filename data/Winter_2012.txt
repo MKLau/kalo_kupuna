@@ -1,0 +1,5892 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/265294634
+
+Kalo [Hawaiian Taro, Colocasia esculenta (L.) Schott] Varieties: An assessment
+of nomenclatural synonymy and biodiversity
+Article in Ethnobotany Research and Applications · October 2012
+CITATIONS
+
+READS
+
+9
+
+1,370
+
+1 author:
+Kawika Winter
+University of Hawaiʻi at Mānoa
+61 PUBLICATIONS 975 CITATIONS
+SEE PROFILE
+
+Some of the authors of this publication are also working on these related projects:
+
+Quantum Ethnobotany View project
+
+Biocultural Ecology View project
+
+All content following this page was uploaded by Kawika Winter on 04 September 2014.
+
+The user has requested enhancement of the downloaded file.
+
+Kalo [Hawaiian Taro,
+Colocasia esculenta (L.)
+Schott] Varieties:
+An assessment of
+nomenclatural synonymy
+and biodiversity
+Kawika B. Winter
+Research
+Abstract
+The prominence of kalo (Colocasia esculenta (L.) Schott.)
+in Hawaiian culture has declined after experiencing a decrease in cultivation, biodiversity and associated cultural
+knowledge. There was no documentation of diversity at its
+height. Previous estimates of biodiversity lack any sense
+of a methodlogical approach. A new attempt was made
+to assess levels of biodiversity around the peak cultivation period. Results were then compared to current levels.
+Nomenclatural synonymy and extinction have presented
+some challenges which made standard methods for quantifying biodiversity not viable. A set of new tools was used
+to sort through a master list of 676 varietal names. A comparison of what is known from the nineteenth century and
+modern time periods makes it apparent that changes in
+biodiversity, varietal prominence, ethnonomenclature, and
+ethnotaxonomy have occurred. This paper discusses the
+direction of such trends, and postulates a new estimate
+for kalo diversity at the end of the 19th century (approximately 100 years after the assumed peak of cultivation
+and diversity) to be between 368-482 distinct cultivars,
+while only 65-73 still exist today.
+
+from that perspective, at least on a symbolic level. On a
+practical level its prominence is rivaled only by ʻuala or
+sweet potato (Ipomoea batatas (L.) Lam.) (Handy 1940,
+Handy et al. 1972, Ladefoged et al. 2009). This is true especially in the era prior to contact with foreigners in 1778
+(Handy 1940, Handy et al. 1972, Kamakau 1972, 1976,
+Kameʻeleihiwa 1990, MacCaughey & Emerson 1913,
+Malo 2006). Contemporarily, kalo continues to be held in
+the utmost level of respect among many staunch cultural
+practitioners, although its general prominence in the Hawaiian culture as a whole is no doubt less than has been
+in previous generations. This is due, in large part, to various reasons such as changes in land tenure and socioeconomic systems which, in many cases, resulted in a
+loss of cultural identity (Kameʻeleihiwa 1992, Trask 1999).
+Because of the glaring losses of both biodiversity and associated cultural knowledge it is important to gain a more
+refined understanding of kalo diversity at its height for
+several reasons, not the least of which includes quantifying its importance to the Hawaiian culture and gaining insight into the horticultural skills of the ancient Hawaiians.
+
+Introduction
+Taro, Colocasia esculenta (L.) Schott, has been historically one of the most important crop plants in the tropical
+Pacific with distribution reaching as far east as the islands
+of Polynesia. The global trends in loss of both biodiversity and associated cultural knowledge have not escaped
+this species throughout its range. The most remote island group of Polynesia is Hawaiʻi, where taro is known
+as kalo.
+
+Correspondence
+Kawika B. Winter, Department of Botany, University of Hawaiʻi at
+Mānoa, 3190 Maile Way, Room 101, Honolulu, Hawaiʻi 96822.
+U.S.A. and National Tropical Botanical Garden, 3530 Papalina
+Road, Kalaheo, Hawaiʻi 96741. U.S.A.
+
+Kalo is connected to origin stories of the Hawaiian culture
+(Handy et al. 1972, Kameʻeleihiwa 1990) and is, thereEthnobotany Research & Applications 10:423-447 (2012)
+fore, often considered to be the most important crop plant
+Published: October 20, 2012
+www.ethnobotanyjournal.org/vol10/i1547-3465-10-423.pdf
+
+424
+
+Ethnobotany Research & Applications
+
+The intensity of kalo cultivation has changed over time.
+Kalo was originally brought to Hawaiʻi in Polynesian voyaging canoes (Abbott 1995) at least 1,000 years ago (Burney & Kikuchi 2006), and the intensity of its cultivation
+undoubtedly increased as the Hawaiian population did. It
+is assumed that this period of intensified cultivation was
+accompanied by a corresponding increase in intraspecies diversity (i.e., cultivar diversity) via somatic mutations
+(Handy et al. 1972) and possibly even cross-breeding
+(Handy et al. 1972, Irwin et al. 1998). Cultivation is assumed to have reached its peak at the height of population density around the time of contact with foreign cultures in 1778. At that time the Hawaiian population was
+estimated to be approximately 1 million people. This period was followed by a 90% population collapse due to introduced diseases (Stannard 1989). The intensity of kalo
+cultivation decreased dramatically during this same period (Anonymous 1879, Cho et al. 2007, Handy et al. 1972,
+Ladefoged et al. 2009, Müller et al. 2010). During this post
+peak-cultivation period, several authors attempted to record kalo diversity (Handy 1940, Henriques n.d., Iokepa
+& Kekahuna n.d., Kalanianaʻole n.d., MacCaughey & Emerson 1913, 1914, Rooke n.d., Whitney et al. 1939, Wight
+n.d., Wilder 1934), likely in reaction to the extinction crisis
+that they were witnessing. All of these authors were documenting biodiversity in the late 19th and early 20th centuries during the period of rapid diversity loss (see below),
+so in analyzing the works of these authors we could, at
+best, only gauge post peak-diversity levels.
+The terms “cultivar” and “variety” are used throughout this
+paper. The word “cultivar” is used to describe an anthropomorphically recognized taxa that is genetically distinct
+from other taxa. The word “variety” is used to describe the
+name of a particular cultivar. It is important to note that a
+single cultivar can have several varietal names that are
+associated with it. These are considered to be synonyms.
+A good measure of a crop’s importance to any particular culture is the number of cultivars which are managed
+by that culture (Rhindos 1984). Kalo is no exception to
+this rule as the number of recorded varieties far surpasses that of any of the other crop-plants cultivated by the
+ancient Hawaiians (e.g., sweet potato (I. batatas), bananas (Musa acuminata X balbisiana Colla.), breadfruit
+(Artocarpus altilis (Parkinson) Fosberg), yams (Dioscorea
+spp.), and arrowroot (Tacca leontopetaloides (L.) Kuntze)
+(Handy 1940)). A major challenge in assessing biodiversity is the fact that there has been a substantial time-gap
+between the height of kalo cultivation in Hawaiʻi — when
+the highest levels of biodiversity are assumed to have existed — and the current era. This has been due, in large
+part, to a dramatic decrease in both area of kalo cultivation and the number of kalo farmers. In the course of this
+time gap most of the varieties have apparently gone extinct. Further complicating the situation is the concurrent
+decrease in associated cultural knowledge that has accompanied the decline in cultivation. This is perhaps best
+
+illustrated in the shift away from Hawaiian as the only language towards English as the only language that accompanied this period (Schütz 1994), and which undoubtedly
+had a negative influence on the general understanding of
+the ethnonomenclature and ethnoclassification systems
+of the Hawaiian language. This knowledge vacuum regarding the traditional names and relationships of the various kalo cultivars was eventually filled by horticulturalistbased views on the matter. Since neither the knowledge
+of traditional taxonomy, nor the high biodiversity-levels of
+kalo exists today, there is no standardized way to assess
+the former levels of biodiversity. Furthermore, there does
+not seem to be more than a few farmers alive today in
+all of Hawaiʻi who represent an unbroken link in the once
+widespread tradition of maintaining multiple (more than a
+dozen) cultivars on a family farm.
+A major reason for this paucity of traditional farmers is
+the fact that, for several decades during the last half of
+the 19th century and the first half of the 20th century, much
+of kalo farming was done by Chinese and Japanese immigrants rather than Hawaiians (Cho et al. 2007, MacCaughey & Emerson 1913). Even today much of the kalo
+which is currently under cultivation is farmed by the descendants of Chinese, Japanese, and Filipino immigrant
+laborers; as well as first generation immigrants from the
+Philippines and Micronesia. In many cases contemporary Hawaiian kalo farmers, at some point in the last 150
+years, have had at least a single generational break in
+tradition between themselves and the Hawaiian farmers
+of old. Because of this, and the now-prolific horticulturistbased views on kalo diversity, the general understanding
+of kalo diversity (i.e., nomenclature and taxonomy) held
+by contemporary farmers has likely changed in the past
+150 years.
+In spite of previous attempts to document kalo diversity
+there is still a lack of certainty about the true levels at,
+or near, the height of cultivation in Hawaiʻi. This lack of
+certainty stems from the information sources either lacking a strong understanding of traditional Hawaiian nomenclature and taxonomy, scientific rigor in their diversity assessments, or both. In order to more accurately assess
+the true diversity of kalo at or near the height of cultivation
+in Hawaiʻi, this study attempts to marry a firm understanding of traditional Hawaiian nomenclature and taxonomy,
+with a more rigorous assessment of the entire collection
+of names and descriptions amassed from several different sources.
+A major contributing factor for our lack of understanding
+about previous levels of diversity, aside from the extinction crisis which started in the 19th century as described
+above, is the complexity of synonymy that exists in the
+body of recorded varietal names. Synonymy is the application of more than one name to a single taxon. Synonymy is known to exist in the Hawaiian language, and has
+been well documented broadly—in both the lexicon (Pu-
+
+www.ethnobotanyjournal.org/vol10/i1547-3465-10-423.pdf
+
+Winter - Kalo [Hawaiian Taro, Colocasia esculenta (L.) Schott] Varieties:
+An assessment of nomenclatural synonymy and biodiversity
+kui & Elbert 1979, 1986) and taxonomic systems (Abbott
+1995), and for kalo specifically (Chun 1994, 1998, Handy
+1940, Iokepa & Kekahuna n.d., MacCaughey & Emerson
+n.d., 1913, Pukui & Elbert 1986, Wilder 1934, field notes).
+In a review of the above sources it is apparent that there
+are two general classes of synonymy in the Hawaiian lexicon — linguistically-based synonymy and classificationbased synonymy. Linguistically-based synonymy occurs
+when different regions which follow the same classification system have differing pronunciations of the same taxon. Such differences correspond to either vowel or consonant deletions, additions or substitutions. As an example, the variety name, Mākohi, was also called Mākohe,
+Mōkohi, Mōkohe and Mākihi (Handy 1940, MacCaughey
+& Emerson n.d., 1913, Pukui & Elbert 1986) in other areas
+that followed the same classification system. On the other hand, classification-based synonyms occur when one
+taxon is found in multiple areas, some of which follow differing classification systems. The same taxon, Mākohi,
+was known as ʻEleʻele mākoko (Iokepa & Kekahuna n.d.)
+in another classification system, and also as Makaʻōpio
+(Chun 1994) in yet another. This recognition has influenced the methodological approach, data analysis and
+conclusions of this paper.
+This publication is not meant to be the “end all, be all”
+definitive authority on kalo diversity. It is merely an attempt to add data and analysis to the contemporary body
+of knowledge, and to reawaken the discussion of kalo diversity. Recent research has acknowledged the formerly
+high levels of kalo diversity and its subsequent decline
+(Cho et al. 2007), but new data and analysis have not
+been contributed to the debate since Whitney et al. (1939)
+and Handy (1940).
+Although it is not dealt with substantively in this manuscript, it is important to note that many varieties had (and
+some continue to have) unique and specific traditions associated with them. Examples of these are the now-extinct Hoene, which was used medicinally for enemas; and
+currently-rare ʻApuwai, whose cup-shaped leaves catch
+rainwater that is used in ceremonies. Once varieties go
+extinct, so too die the cultural practices which required
+those specific taxa for implementation (Winter & McClatchey 2009). Further research may be able to quantify
+the cultural loss that has accompanied a loss of cultivars.
+
+Methods
+This study has three specific assumptions that are based
+in the idea that there are direct relationships both between
+biodiversity and linguistic diversity (Nettle & Romaine
+2000), and also between biodiversity and cultural diversity (Winter and McClatchey 2008 & 2009). They are as
+follows:
+1. Kalo biodiversity and associated cultural knowledge
+is linked, and this relationship has generally expe-
+
+425
+
+rienced both a coupled increase and a coupled decrease in the past 1,000 years,
+2. The height of kalo diversity and associated cultural
+knowledge existed at the height of kalo cultivation in
+Hawaiʻi, and
+3. The height of kalo cultivation existed at the point of
+contact with foreign cultures in 1778.
+Since this study attempts to assess a level of intraspecies diversity that no longer exists, readily accepted methodologies for assessing diversity (i.e., field surveys and
+free-listing exercises to reveal relative abundance/varietal
+richness resulting in an index of diversity,) are not viable
+methods. In order to measure change over time, kalo diversity has been measured at two points in time: 1) The
+era ranging from the late 19th to early 20th centuries (citations ranging from 1879-1940) which represents a period
+of diversity decline after the presumed height of kalo cultivation, via an assessment of nomenclatural diversity; and
+2) Contemporarily, via biodiversity assessments. Comparisons between these estimates were then made.
+Surveys of Nomenclatural Diversity
+Nomenclatural diversity assessments were done beginning with a review of published and archival resources in
+Hawaiian and English. Published and archival materials
+were qualitatively analyzed in two areas: adherence to
+trends in Hawaiian nomenclature and taxonomic systems,
+and adherence to the scientific method. Trends in ethnonomenclature and ethnotaxonomy were identified by
+Berlin (1992) and have been demonstrated to be applicable to Proto Oceanic ethnonomenclature and ethnoclassification systems (Evans 2008) which are the evolutionary precursor to Hawaiian nomenclature and classification systems. In Hawaiian systems, Berlin’s (1992) trends
+have been substantiated by the descriptions of both Hawaiian plant experts (i.e., kahuna lāʻau lapaʻau or highly
+skilled herbal healers) (Chun 1994, 1998, Gon 2008) and
+botanists studying Hawaiian nomenclature systems (St.
+John 1982). These trends are later used in assessing the
+quality of citations (see below section, Rigor Assessments
+for Cited Authorities).
+The trends seen documented in sources regarding synonymy in the Hawaiian lexicon (Abbott 1995, Chun
+1994, 1998, Handy 1940, Iokepa & Kekahuna n.d., MacCaughey & Emerson n.d.,1913, Pukui & Elbert 1986,
+Wilder 1934, field notes) were used in assessing synonymy within the nomenclature of kalo. An attempt was made
+to sort through the collection of kalo names and descriptions to come to both a liberal and a conservative estimate of the number of distinct cultivars in the post-contact
+cultivation period, as this is the era when the documentation occurred. The first twenty-three rules (see below),
+which primarily deal with linguistically-based synonymy in
+nature, are applied to find the highest end of the estimated
+range (i.e., a liberal estimate of kalo diversity). Rule 23 is
+derived from the presence of documented varietal names
+
+www.ethnobotanyjournal.org/vol10/i1547-3465-10-423.pdf
+
+426
+
+Ethnobotany Research & Applications
+
+corresponding to proper names of kalo-based characters in stories such as the names seen in “The Story of
+Big Taro and Little Taro” (Anonymous1861, Nohokuaaina
+1867). An additional twelve rules, which relate to adherence to trends in ethnonomenclature and ethnoclassification, are applied to find the lowest end of the estimated
+range (i.e., a conservative estimate of kalo diversity.
+Synonymy or other erroneous nomenclature was identified by the presence of the below described conditions.
+All of the conditions are founded in already documented
+synonymy (Abbott 1995, Chun 1994, Handy 1940, Iokepa
+& Kekahuna n.d., MacCaughey & Emerson 1913, 1914,
+Pukui & Elbert 1979, 1986, Whitney et al. 1939, Wilder
+1934), and then applied broadly. If any of these conditions
+were met the names were either consolidated in or eliminated from the master list. It is important to note that although these synonyms may initially appear questionable,
+due to their possible meaning-altering appearance, several of these are previously documented synonyms (i.e.,
+Kūʻoho and Kūʻohu), and therefore may represent examples of linguistic engineering for ease of pronunciation.
+Vowel substitutions and additions:
+1. o/u substitutions (example: Kūʻoho / Kūʻohu)
+2. a/o substitutions (example: Hāakea / Hāokea)
+3. a/e substitutions (example: ʻIeʻie / ʻIaʻia)
+4. e/i substitutions (example: Wehiwa / Wehewa)
+5. “a” additions on the end of a word (example: Papakole / Papakolea)
+6. “o” additions at the end of a word (example: Māna /
+Māna-o-)
+Consonant substitutions and deletions:
+7. n/l substitutions (example: Māna ʻowene / Māna
+ʻuwele)
+8. ʻ/m/n substitutions (example: Manauea / Mamauea /
+Maʻauea)
+9. “w” deletions (example: Pualu / Puwalu)
+Various classes of reduplication:
+10. Reduplication of first vowel (example: ʻApu / ʻAʻapu)
+11. Reduplication of last vowel (example: Māiʻi / Māiʻiʻi)
+12. Full reduplication of both species names (example:
+Pia / Piapia), and subspecies epithets (example: ʻula
+/ ʻulaʻula).
+13. Partial
+reduplications
+(example:
+Hāpuʻu/
+Hāpuʻupuʻu)
+14. Prefix reduplications (example: Wehiwa / Wewehiwa
+Backformation:
+15. Contractions (example: ʻEleʻele / ʻEʻele)
+Miscellaneous:
+16. Prefix additions of hā on subspecies epithets (example: hāʻulaʻula / ʻulaʻula)
+17. Similar color descriptors unless indicated as separate
+cultivars (example: kea / keʻokeʻo, melemele / lenalena, ʻulaʻula / lehua)
+
+18. Maoli as type specimen in group, and a kalo species
+with no subspecies epithet associated with it (example: Hāpuʻupuʻu maoli / Hāpuʻupuʻu)
+19. Documented synonymy for group names where
+subspecies epithets are the same (example: Piko
+ʻeleʻele / Haehae ʻeleʻele / Uaua ʻeleʻele).
+20. Obvious mis-spellings or transcription errors (example: Haehae keʻokoʻa / H. keʻokeʻo)
+21. Similar meanings in subspecies epithets using synonymous words/terms (example: Lehua kū-i-ka-wao
+/ Lehua kū-kuahiwi)
+22. Names documented as being assigned to post-contact introductions (example: Pākē, ʻIliuaua)
+23. Seemingly proper names (example: Kalo nui e /
+Kalo iki e)
+Further consolidations for a conservative estimate, founded in adherence to trends in ethnonomenclature and ethnoclassification, were done if the following conditions occurred:
+24. The name is poetic (example: Kaʻawelu-i-ka-pali-oAwakea).
+25. The name is a trinomial.
+26. The name is seemingly vulgar (examples: He-ʻowāhulu-nui, Heu-ā-lehu, Heu-ʻele, Pani-kohe).
+27. Group names exist that are noted as synonyms for
+other crops (example: Manini / Koaʻe, Mākea / Mahakea)
+28. ʻUlaʻula as a group name is a synonym for the Kūmū
+group
+29. ʻEleʻele and Nohu as group-names are synonyms
+for the Naioea group
+30. ʻAla as a group name is a synonym for the Kāī group.
+31. A lack of documentation of the word “maoli” (meaning “type-specimen”) in the subspecies epithet (example: for the ʻApuwai group three names are collectively recorded - ʻApuwai, ʻA. keʻokeʻo and ʻA.
+ʻulaʻula. These will be counted as two cultivars instead of three. For the Hāpuʻu group six names are
+collectively documented - Hāpuʻu maoli, H. ʻeleʻele,
+H. kea, H. lenalena, H. nūkea, and H. ʻulaʻula.
+These were counted as six cultivars).
+32. The name is a monomial which is also the name of an
+ahupuaʻa (traditional land-division unit). Such names
+may have been given to honor the cultivar’s place of
+origin when cultivars were transferred in the absence
+of knowledge about their original name.
+33. Species-level names listed as monomials are subspecies epithets noted elsewhere in a binomial (Lauloa papamū / Papamū).
+34. Species-subspecies nomenclatural reciprocations
+(ʻUlaʻula poni, Poni ʻulaʻula).
+35. The various monomials which vaguely indicate either
+a black-colored or striped petiole are considered synonyms for other varieties accounted for elsewhere in
+the list (Pōpolo, Hiwa; Kāniʻo, Niʻo).
+Data on the occurrence of documented synonymy for
+each respective source were also recorded. The percent-
+
+www.ethnobotanyjournal.org/vol10/i1547-3465-10-423.pdf
+
+Winter - Kalo [Hawaiian Taro, Colocasia esculenta (L.) Schott] Varieties:
+An assessment of nomenclatural synonymy and biodiversity
+age of synonymy was calculated for each source using
+the following equation:
+ns / nt = synonymy percentage,
+where, ns is the number of varietal names documented as
+having a synonym, and nt is the total number of varietal
+names documented.
+Biodiversity Assessment
+Kalo collections of botanical gardens, agriculture stations,
+and private individuals/families (including both commercial and subsistence farms) were surveyed on the islands
+of Kauaʻi, Oʻahu, Molokaʻi, Maui, and Hawaiʻi between the
+years of 2003-2012. Accession information for living specimens was reviewed (if available), and the specimens’
+morphological traits were compared against the descriptions of Whitney et al. (1939) to confirm accuracy. Through
+the generosity of these entities and individuals, collections
+were made for propagation on the island of Kauaʻi where
+a common garden experiment was conducted under a
+nursery setting between 2011-2012. The plants in the experiment were verified using Whitney et al. (1939), and
+also by recognized community experts on kalo diversity
+(Jerry Konanui & Penny Levin). Voucher specimens have
+been prepared of these varieties that have been deposited in the National Tropical Botanical Garden herbarium
+(PTBG), Kalaheo, Kauaʻi, Hawaiʻi.
+Rigor Assessments for Cited Authorities
+Qualitative cultural and scientific rigor assessments were
+conducted. Cultural rigor was weighed against adherence
+to trends in Hawaiian nomenclature systems. Scientific
+rigor was weighed against whether or not data collection
+was qualitative or quantitative, and if comparative analysis was done.
+Cultural rigor was assessed and given designations by
+the following criteria:
+•
+High – Authors have produced other manuscripts and
+publications regarding ethnonomenclature and ethnoclassification.
+•
+Medium – Authors did not produce other manuscripts
+and publications regarding ethnonomenclature and
+ethnoclassification, but data produced follows the
+trends articulated by Berlin (1992).
+•
+Low – Authors did not produce other manuscripts and
+publications regarding ethnonomenclature and ethnoclassification, and data produced is in conflict with
+the trends articulated by Berlin (1992).
+Scientific rigor was assessed and given designations by
+the following criteria:
+•
+High – Collected quantitative data regarding morphology in a common garden experiment, and did
+comparative analysis of this data.
+
+•
+•
+•
+
+427
+
+Medium – Collected qualitative data regarding morphology in a common garden experiment, and did
+comparative analysis of this data.
+Low – Collected qualitative data regarding morphology from different locations and environments for comparative analysis.
+Non-existent – No evidence of either data collection
+regarding morphology or comparative analysis.
+
+Status assessments for once-prevalent cultivars
+Status assessments for once-prevalent cultivars were
+done based on the above described field observations.
+Field status was assessed and given designations by the
+following criteria:
+•
+Common – Cultivar was documented in commercial
+farms, family farms/gardens, and botanical collections.
+•
+Occasional – Cultivar was not documented in commercial farms, but was documented in family farms/
+gardens, and botanical collections.
+•
+Rare – Cultivar was neither documented in commercial farms nor family farms/gardens, but was documented in botanical collections.
+•
+Extinct – Cultivar was not documented in commercial
+farms or family farms/gardens, and there is no evidence of it existing in botanical collections.
+
+Results
+Previous Estimates of Synonymy
+Fourteen documents (including published and unpublished archival-manuscripts) relating to names and descriptions of kalo diversity were assessed. These were
+written in Hawaiian and English. The document dates
+ranged from 1879-1986. The most recent of these (Pukui and Elbert 1986) was a compilation of previous works,
+not a representation of field work. Future mention of these
+document dates will refer to 1879-1940 which represents
+the range of time that field data was collected. Five of the
+manuscripts have no date associated with them, but judging from their presence in the Bishop Museum Archives
+they are likely from the same period. From the lists within
+these, a total of 669 varietal names of kalo were accumulated. Seven more were added from oral history documents representing a total of 676 names. Typographical errors and non-Hawaiian varieties (i.e., Asian and
+South Pacific cultivars that were given adoptive Hawaiian-names) were removed reducing the list to 598 varietal names (Appendix 1). Linguisitically-based synonyms
+were then consolidated to 512 varietal names (Appendix
+1) that were used for further analysis including a calculation of synonymy. The manuscripts documented synonymy with a range from 0 - 80% (Table 1).
+
+www.ethnobotanyjournal.org/vol10/i1547-3465-10-423.pdf
+
+428
+
+Ethnobotany Research & Applications
+
+Table 1. Publications and manuscripts that documented kalo (Colocasia esculenta (L.) Schott.) diversity in the Hawaiian islands. Wight (n.d.)
+was used as a reference by Handy (1940) to make his list of varietal
+names. This work has been missing from the Bishop Museum Archives
+since the 1980s and was therefore unavailable for analysis.
+Authors
+
+Language
+
+# of
+Synonymy
+cultivars
+
+Henriques n.d.
+
+Hawaiian
+
+34
+
+0%
+
+Iokepa and Kekahuna n.d.
+
+Both
+
+92
+
+26%
+
+Kalanianaole n.d.
+
+English
+
+26
+
+0%
+
+Rooke n.d.
+
+English
+
+42
+
+0%
+
+Wight n.d.
+
+N/A*
+
+N/A*
+
+N/A*
+
+Anonymous 1879
+
+Hawaiian
+
+37
+
+0%
+
+MacCaughey & Emerson 1913 English
+
+272
+
+20%
+
+MacCaughey & Emerson 1914 English
+
+298
+
+8%
+
+Fornander 1919
+
+Both
+
+30
+
+0%
+
+Wilder 1934, n.d.
+
+English
+
+95
+
+35%
+
+Whitney et al. 1939
+
+English
+
+141
+
+80%
+
+Handy 1940
+
+English
+
+354
+
+12%
+
+Pukui & Elbert 1986
+
+English
+
+235
+
+25%
+
+Chun 1994
+
+Both
+
+31
+
+29%
+
+Field Surveys
+Field surveys of botanical gardens, agricultural stations, and individual
+collections (both commercial and subsistence farms) throughout Hawaiʻi
+
+have determined that there has indeed
+been a decline in kalo diversity, even in
+the recent historical period. At least 63 of
+the heritage kalo cultivars documented in
+Whitney et al. (1939) remain. In addition to
+these, nine more have been added to the
+list of confirmed Hawaiian varieties. These
+include two Hawaiian cultivars were added
+via hybridization in the 20th century (Maui
+Lehua which is a cross between Lehua
+maoli and Piʻialiʻi, and Pili-aloha which is
+a cross between Kāī kea and Moi), one,
+Moi ʻula, which was documented by other
+sources (Handy 1940, Iokepa & Kekahuna
+n.d., Pukui & Elbert 1986, Wilder 1934),
+and one previously undocumented cultivar, Piʻikea. The remaining five (ʻElepaio
+hāuliuli, Kāī KBS, Lauloa koukouʻai,
+Makalau, and Niumalu) do not match with
+documented descriptions, but are debatably Hawaiian. A possible rediscovery of
+Lauloa ʻōniʻoniʻo via somatic mutation
+(not yet confirmed) brings the total number of remaining Hawaiian cultivars to 73
+(Table 2). Outside of the Hawaiian cultivars, at least 71 cultivars have been introduced from around the Pacific and Asia.
+In addition to these, literally several thousand cultivars have been created since the
+1980s via both officially sanctioned and unofficially sanctioned hybridization experi-
+
+Table 2. The extant diversity of kalo (Colocasia esculenta (L.) Schott) representing documented cultivars, 20th century
+Hawaiian X Hawaiian hybrids, and undocumented cultivars *strongly-to-debatably assumed to be Hawaiian.
+Cultivar Name
+
+In Whitney
+et al. 1939
+
+Modern
+Hybrid
+
+Yes
+
+No*
+
+ʻĀpiʻi / Moana
+
+1
+
+0
+
+0
+
+ʻApowale
+
+1
+
+0
+
+0
+
+ʻApu
+
+1
+
+0
+
+0
+
+ʻApuwai
+
+1
+
+0
+
+0
+
+ʻĀweuweu / ʻĀhē
+
+1
+
+0
+
+0
+
+ʻEleʻele lauloa
+
+1
+
+0
+
+0
+
+ʻEleʻele mākoko
+
+1
+
+0
+
+0
+
+ʻEleʻele naioea
+
+1
+
+0
+
+0
+
+ʻElepaio (kea)
+
+1
+
+0
+
+0
+
+ʻElepaio hāuliuli
+
+0
+
+1
+
+0
+
+Hāokea
+
+1
+
+0
+
+0
+
+Hāpuʻu
+
+1
+
+0
+
+0
+
+Kāī ʻala
+
+1
+
+0
+
+0
+
+Kāī kea
+
+1
+
+0
+
+0
+
+Kāī uliuli
+
+1
+
+0
+
+0
+
+Cultivar Name
+
+In Whitney
+et al. 1939
+
+Modern
+Hybrid
+
+Yes
+
+No*
+
+Kāī unknown (a.k.a.,
+Kauaʻi Branch Station)
+
+0
+
+1
+
+0
+
+Kalalau
+
+1
+
+0
+
+0
+
+Kūmū ʻeleʻele
+
+1
+
+0
+
+0
+
+Kūʻoho
+
+1
+
+0
+
+0
+
+Lauloa ʻeleʻele
+
+1
+
+0
+
+0
+
+Lauloa keʻokeʻo
+
+1
+
+0
+
+0
+
+Lauloa ‘ōniʻoniʻo
+
+0
+
+1
+
+0
+
+Lauloa palakea
+
+1
+
+0
+
+0
+
+Lauloa papamu
+
+1
+
+0
+
+0
+
+Lauloa pakakea-ula
+
+1
+
+0
+
+0
+
+Lauloa koukouʻai
+
+0
+
+1
+
+0
+
+Lehua ʻāpiʻi
+
+1
+
+0
+
+0
+
+Lehua maoli
+
+1
+
+0
+
+0
+
+Lehua palaiʻi
+
+1
+
+0
+
+0
+
+Lihilihimolina
+
+1
+
+0
+
+0
+
+www.ethnobotanyjournal.org/vol10/i1547-3465-10-423.pdf
+
+Winter - Kalo [Hawaiian Taro, Colocasia esculenta (L.) Schott] Varieties:
+An assessment of nomenclatural synonymy and biodiversity
+Cultivar Name
+
+In Whitney
+et al. 1939
+
+Modern
+Hybrid
+
+Yes
+
+No*
+
+Maea
+
+1
+
+0
+
+0
+
+Makalau
+
+0
+
+1
+
+Mana ʻeleʻele
+
+1
+
+0
+
+Mana keʻokeʻo
+
+1
+
+Mana lauloa
+
+1
+
+Mana ʻokoʻa
+
+Cultivar Name
+
+In Whitney
+et al. 1939
+
+429
+Modern
+Hybrid
+
+Yes
+
+No*
+
+ʻOhe
+
+1
+
+0
+
+0
+
+0
+
+ʻOʻopukai
+
+1
+
+0
+
+0
+
+0
+
+Paʻakai
+
+1
+
+0
+
+0
+
+0
+
+0
+
+Papapueo
+
+1
+
+0
+
+0
+
+0
+
+0
+
+Piʻialiʻi
+
+1
+
+0
+
+0
+
+1
+
+0
+
+0
+
+Piʻikea
+
+0
+
+1
+
+0
+
+Mana ʻōpelu
+
+1
+
+0
+
+0
+
+Piko ʻeleʻele
+
+1
+
+0
+
+0
+
+Mana ʻulaʻula
+
+1
+
+0
+
+0
+
+Piko kea
+
+1
+
+0
+
+0
+
+Mana uliuli
+
+1
+
+0
+
+0
+
+Piko keʻokeʻo
+
+1
+
+0
+
+0
+
+Mana ʻulu
+
+1
+
+0
+
+0
+
+Piko uaua
+
+1
+
+0
+
+0
+
+Mana-piko
+
+1
+
+0
+
+0
+
+Piko ʻulaʻula
+
+1
+
+0
+
+0
+
+Manini kea
+
+1
+
+0
+
+0
+
+Piko uliuli
+
+1
+
+0
+
+0
+
+Manini ʻōpelu
+
+1
+
+0
+
+0
+
+Pili-aloha
+
+0
+
+0
+
+1
+
+Manini ʻowali
+
+1
+
+0
+
+0
+
+Pololū
+
+1
+
+0
+
+0
+
+Manini uliuli
+
+1
+
+0
+
+0
+
+ʻUahi-a-pele
+
+1
+
+0
+
+0
+
+Maui Lehua
+
+0
+
+0
+
+1
+
+ʻUlaʻula kūmū
+
+1
+
+0
+
+0
+
+Moi (kea)
+
+1
+
+0
+
+0
+
+ʻUlaʻula moano
+
+1
+
+0
+
+0
+
+Moi ʻulaʻula
+
+0
+
+1
+
+0
+
+ʻUlaʻula poni
+
+1
+
+0
+
+0
+
+Nāwao
+
+1
+
+0
+
+0
+
+Waiākea
+
+1
+
+0
+
+0
+
+Nihopuʻu
+
+1
+
+0
+
+0
+
+Wailana
+
+1
+
+0
+
+0
+
+Niumalu
+
+0
+
+1
+
+0
+
+Wehiwa
+
+1
+
+0
+
+0
+
+ʻOene
+
+1
+
+0
+
+0
+
+Total
+
+63
+
+8
+
+2
+
+ments (including hybrid crosses) conducted by University
+of Hawaiʻi researchers and affiliates using Hawaiian and
+non-Hawaiian cultivars. Countless numbers of these have
+been distributed to farmers, but there has not been rigorous documentation about their morphology and distribution. Due to the nature of this complexity, an analysis of
+these hybrids was excluded from this study.
+Field surveys to assess collections of botanical gardens
+and University of Hawaiʻi agriculture stations took place
+on the islands of Kauaʻi, Oʻahu, Molokaʻi, Maui and Hawaiʻi
+which represented broad ranges in environmental conditions. These surveys occurred between 2003 and 2012.
+Accession information has revealed that the vast majority
+of these collections trace back to the original collections
+used to produce the Whitney et al. (1939) publication.
+Rigor of Previous Diversity Assessments
+All of the sources documenting kalo diversity were qualified as to the rigor of their cultural knowledge as indicated
+by their adherence to trends in Hawaiian nomenclature
+systems, and scientific rigor as indicated by scientifically-
+
+based data collection and analysis (Table 3). No source
+ranked high in both categories.
+Taxonomic Trends
+Traditional Hawaiian nomenclature and taxonomy as
+gleaned from the works produced in collaboration with
+recognized Hawaiian plant experts (i.e., those designated
+as having “high” cultural rigor in Table 3) conformed to the
+trends in ethnobiological classification as articulated by
+Berlin (1992). This is illustrated by Table 4 as an isolated
+example, and in Figure 1 as a contextual example.
+Trends in Nomenclature
+One of the trends seen in the data is that many of the species-level names fall into one of the following categories.
+•
+Fish names (at least 26 species-level names)
+•
+ʻAkilolo – yellow-tail wrasse (Coris gaimard
+Quoy & Gaimard, 1824)
+•
+Kūmū – whitesaddle goatfish (Parupeneus porphyreus Jenkins, 1903)
+•
+Manini – convict tang (Acanthurus triostegus L.,
+1758)
+
+www.ethnobotanyjournal.org/vol10/i1547-3465-10-423.pdf
+
+430
+
+Ethnobotany Research & Applications
+
+Table 3. Cultural and scientific rigor of data sources used to
+qualitatively assess kalo (Colocasia esculenta (L.) Schott.)
+diversity in the Hawaiian islands. Cultural rigor was weighed
+against adherence to trends in Hawaiian nomenclature systems. Scientific rigor was weighed against the scientificallybased data collection and analysis. Wight (n.d.) was used as a
+reference by Handy (1940) to make his list of varietal names.
+This work has been missing from the Bishop Museum Archives
+since the 1980s and was therefore unavailable for analysis.
+Author
+
+Iokepa & Kekahuna n.d.
+
+•
+
+•
+
+•
+
+•
+
+•
+
+Scientific
+
+Low
+
+Non-existent
+
+High
+
+Medium
+
+Medium
+
+Low
+
+Rooke n.d.
+
+Medium
+
+Non-existent
+
+Wight n.d.
+
+•
+
+Cultural
+
+Kalanianaole n.d.
+
+N/A*
+
+N/A*
+
+Anonymous 1879
+
+Medium
+
+Low
+
+MacCaughey & Emerson 1913
+
+Medium
+
+Low
+
+MacCaughey & Emerson 1914
+
+Medium
+
+Low
+
+Fornander 1919
+
+High
+
+Low
+
+Wilder 1934, n.d.
+
+Medium
+
+Medium
+
+Whitney et al., 1939
+
+Low
+
+High
+
+Handy 1940
+
+High
+
+Medium
+
+Medium
+
+Low
+
+High
+
+Low
+
+Chun 1994
+
+Classification System
+
+Rigor
+
+Henriques n.d.
+
+Pukui & Elbert 1986
+
+Table 4. Classification of the Hawaiian kalo (Colocasia esculenta (L.) Schott.) cultivar, ʻApuwai kea,
+following Berlin’s (1992) general system.
+
+Morphological trait (at least 17 species-level names)
+•
+ʻApuwai – “cup-shaped leaf”
+•
+Lauloa – “long leaf”
+•
+Māna – “branching corm”
+Forest plants (at least 15 species-level names)
+•
+ʻAhakea – Bobea elatior Gaudich., a hardwood tree
+•
+Hāpuʻu(puʻu) – Cibotium spp., a tree fern
+•
+Lehua – Metrosideros collina (J.R. Forst. & G. Forst.)
+subsp. polymorpha (Gaudich.) Rock, a hardwood tree
+Shared names with other crops varieties (at least 15 species-level names)
+•
+Kawelo – species-level name for a sweet potato (I.
+batatas) variety
+•
+Loha – species-level name for a banana (M. acuminata X balbisiana) variety
+•
+Mahakea – species-level name for an ʻawa (Piper
+methysticum C. Forst.) variety
+Group characteristic (at least 10 species-level names)
+•
+ʻAla – “fragrant when cooked”
+•
+ʻApowale – “easy to harvest”
+•
+Uaua – “hard to harvest”
+Seemingly esoteric (at least 9 species-level names)
+•
+Mākohi – ambiguous meaning
+•
+Naioea – unknown meaning
+•
+Piʻialiʻi – “ascending royalty”
+Shared name with an ahupuaʻa or land division (at least 5
+species-level names)
+
+Berlin’s (general)
+
+Hawaiian (specific)
+
+Kingdom
+
+Lāʻau
+
+Life Form
+
+ʻAi / Meakanu
+
+Genus
+
+Kalo
+
+Species
+
+ʻApuwai
+
+Sub-species
+
+Kea
+
+•
+
+•
+
+•
+
+•
+
+•
+
+Kahaluʻu – an ahupuaʻa name found on
+two islands (Oʻahu and Hawaiʻi)
+•
+Kalalau – an ahupuaʻa on the island of
+Kauaʻi
+•
+Pololū – an ahupuaʻa on the island of
+Hawaiʻi
+Bird names (at least 5 species-level names)
+•
+ʻElepaio – monarch flycatcher (Chasiempis spp.)
+•
+Koaʻe – tropic bird (Phaethon spp.)
+•
+Pueo – Hawaiian short-eared owl (Asio
+flammeus sandwichensis A. Bloxam, 1827)
+Predominant petiole color (at least 5 specieslevel names)
+•
+ʻEleʻele – “blackish”
+•
+Poni – “purplish”
+•
+ʻUlaʻula – “reddish”
+Genus-level names of other Polynesian-introduced plants (at least 4 species-level names)
+•
+ʻOhe – Polynesian bamboo (Schizostachyum glaucifolium (Rupr.) Munro)
+•
+ʻŌlena – turmeric (Curcuma longa L.)
+•
+Pia(pia) – arrowroot (T. leontopetaloides)
+Religious connotations (at least 4 species-level
+names)
+•
+Pāʻū-o-Hiʻiaka – “skirt-of-Hiʻiaka”
+•
+Piko-o-Wākea – “navel-of-Wākea”
+•
+ʻUahi-a-Pele – “smoke-of-Pele”
+
+A trend in subspecies-level nomenclature is that
+they mostly correspond to petiole color. Of the 295
+subspecies epithets in the data (Appendix 1), 178
+or 60% are undoubtedly given their epithet designations due to their petiole coloration (Table 5).
+
+Discussion
+Hawaiian Taxonomic Systems and Synonymy
+In the context of traditional Hawaiian nomenclature systems, synonymy—especially among the islands—was prevalent for useful plants both wild and
+cultivated (Abbott 1995, Chun 1994, Pukui & Elbert
+1986). Before the time of Kamehameha’s consoli-
+
+www.ethnobotanyjournal.org/vol10/i1547-3465-10-423.pdf
+
+Winter - Kalo [Hawaiian Taro, Colocasia esculenta (L.) Schott] Varieties:
+An assessment of nomenclatural synonymy and biodiversity
+
+431
+
+ʻAi
+(starch crops)
+(~10)
+
+LIFE FORM
+
++
+GENERA
+
+Uhi
+(Dioscorea alata)
+(~10)
+
+ʻUlu
+(Artocarpus altilis)
+(1)
+
+Kalo
+(Colocasia esculenta)
+(~262-317)
+
+ʻUala
+(Ipomoea batatas)
+(~204)
++
+
+SPECIES
+
+Kāī
+(12)
+
+Lauloa
+(14)
+
+Māna
+(16)
+
+SUBSPECIES A. ʻeleʻele/uliuli*
+(dark
+ʻApuwai)
+
+Lehua
+(11)
+
+ʻApuwai
+(5)
+
+A. kea/keʻokeʻo
+(light
+ʻApuwai)
+
+Pia(pia)*
+(1)
+
+Ēulu*
+(3)
+
+Hāpuʻu(puʻu)
+(6)
+
+A. maoli* A. ʻula(ʻula)* A. lenalena*
+(Type
+(red
+(yellow
+specimen)
+ʻApuwai)
+ʻApuwai)
+
+Figure 1. Classification of the Hawaiian kalo (Colocasia esculenta (L.) Schott.) cultivar, ʻApuwai kea, as an example
+in the context of other taxa following Berlin’s (1992) system. The bracketed numbers for the generic level represent the
+documented diversity found in Handy (1940) except for kalo that is from this research. The bracketed numbers for the
+specific level represent former, not current, diversity. The current diversity is lower at the specific level due to extinction. Generic and specific taxa were chosen to demonstrate the range of diversity. Presumed extinct taxa noted with *.
+Table 5. Trends in nomenclature for 255 kalo (Colocasia esculenta (L.) Schott.) sub-species.
+Subspecies Epithet Designation
+
+# Documented
+
+Blackish petiole (ʻeleʻele, hiwa, uliuli, hāuliuli)
+
+53
+
+Whitish petiole (keʻokeʻo, kea, hākeʻokeʻo)
+
+50
+
+Often ambiguous, singly-occuring epitaphs
+
+49
+
+Reddish petiole (ʻulaʻula, lehua, hāʻula, hāʻulaʻula, koko, weo)
+
+45
+
+Type specimen (maoli), assumed
+
+44
+
+Yellowish petiole (lenalena, lena, hālenalena, ʻulu, ʻoene)
+
+19
+
+Streaked/blotched petiole (manini, ʻōniʻoniʻo, hāniʻoniʻo)
+
+6
+
+Leaf cut to sinus (piko)
+
+5
+
+Purplish petiole (poni)
+
+4
+
+Type specimen (maoli), specified
+
+3
+
+Red vascular hub on leaf (piko- ʻula)
+
+3
+
+Mackerel scad - Decapterus spp. (ʻōpelu)
+
+3
+
+Branching corm (māna)
+
+3
+
+Streaked-sunset colored petiole (welowelolā)
+
+2
+
+Unknown meaning (ʻāniholoa)
+
+2
+
+Ambiguous meaning (pipika)
+
+2
+
+Long leaf (lauloa)
+
+2
+
+Total
+
+295
+www.ethnobotanyjournal.org/vol10/i1547-3465-10-423.pdf
+
+432
+
+Ethnobotany Research & Applications
+
+dation of the five kingdoms into one (i.e., the Kingdom
+of Hawaiʻi, around the turn of the 19th century) under his
+rule, each kingdom had their own systems to understand
+their world — including calendars and taxonomic systems
+(Handy et al. 1972). Despite differing levels of endemism
+(for both wild and cultivated plants) on each island, each
+island seemed to be dealing with the same core set of
+useful wild and cultivated plants. However, since each
+kingdom had its own system for understanding and working with the natural world, many plants had not only different names, but also different relationships (i.e., classifications) within taxonomic systems on the different islands
+(i.e., former kingdoms). The data collected and analyzed
+in this paper originated in different classification systems,
+documentation of which is spotty at best. This has added
+to the complexity of data analysis.
+The Complexity of Synonymy and
+Previous Estimates of Kalo Diversity
+Like the taxonomic system for native plants, some kalo
+varieties have different names on different islands. They
+also may be positioned differently within each island’s respective taxonomic system (Handy 1940, Handy et al.
+1972, MacCaughey & Emerson 1913).
+The amount of synonymy within the collection of varietal
+names can cause much confusion. Collectors sometimes
+noted synonymy, but undoubtedly were not able to document every case. Furthermore, several contradictions
+exist in records of synonymy and descriptions. As an example the variety, Piʻialiʻi, is listed by Wilder (1934) as
+having the following synonyms: ʻAhapiʻi, Moi ʻula, and
+Mākohe. Of these, Mākohe is listed as a synonym for
+Mākohi by MacCaughey and Emerson (1913, 1914).
+Mākohi is listed as a synonym for ʻEleʻele mākoko by Iokepa and Kekahuna (n.d.), but Whitney et al. (1939) have
+treated ʻEleʻele mākoko and Piʻialiʻi as completely different and unrelated cultivars. Furthermore, Mākohi is listed
+as a synonym for Makaʻōpio by Chun (1994), but Whitney et al. (1939) treats Makaʻōpio as a synonym for Piko
+ʻeleʻele, Haehae ʻeleʻele, Hele-mauna, and Ipu-o-lono
+— each of which is listed as further synonyms for yet other
+varieties by the other authors, and the complexity continues on. Because of the contradictions that exist between
+the authors, the synonymy that they document was left
+out of the analysis of data accumulated here (Appendix
+1), and linguistics and ethnoclassification became the primary tools for analysis.
+Previous authors expressed different thoughts and conclusions on the matter of synonymy. Handy (1940) did not
+think that kalo had the same high level of synonymy as
+ʻuala (sweet potato):
+“…I am inclined to think that there is far less duplication of names than might be expected… The taros
+are more uniform in coloring than the sweet potatoes.
+Their cultivation was an all-year science, while sweet
+
+potato planting was spasmodic. The taro farmer was
+a systematic gardener, the sweet potato planter a casual farmer. Furthermore, taros are less easily transported for replanting than sweet potatoes. Hence
+there was great exactitude in nomenclature and less
+renaming—when the original name was unknown or
+forgotten—by the giving of a new descriptive name or
+the name of the person who brought in a new variety
+or created one from bud mutations.” (Handy 1940)
+Handy (1940) did not, however, state an estimated level of
+synonymy. Both MacCaughey and Emerson (1913), and
+Whitney et al. (1939) agreed that about 50% of collected
+varietal names could be considered synonyms (this will
+be referred to as the “50% Rule” from hereafter). However, this 50% Rule that they put forward seems to have
+no foundation as the estimate since it is not reflected in an
+analysis of their own data (see Table 1), and they provided
+no other reasons for the estimate. In fact, an analysis of
+the data collected by the various authors reveals that they
+documented synonymy ranging from eight (8) to 80% (see
+Table 1). This range is too broad to pin down even an approximation of actual synonymy that existed at or near the
+height of cultivation, and therefore further analysis was
+needed.
+Previous works relating to the subject were assessed in
+an attempt to sort through the inconsistent nomenclature, synonymy, and taxonomic treatments. One problem is that several of the early authors (Anonymous 1879,
+Henriques n.d., Iokepa & Kekahuna n.d., Kalanianaʻole
+n.d., MacCaughey & Emerson 1913, 1914, Rooke n.d.)
+did not use a standardized method for collection or description. These sources range from only a collection of
+names with no descriptions, to a list of either vague or at
+best non-scientifically substantiated descriptions. It wasn’t
+until Wilder (1934) and Handy (1940) that attempts were
+made to approach documenting diversity in a scientific
+manner. However, the data that they produced was qualitative and the rigor of their approach is questionable. Finally, Whitney et al. (1939) attempted to compile a comprehensive collection of names and scientifically quantified descriptions which were based on a common garden
+experiment. However, Whitney et al. (1939) state, regarding their study, that many of the Hawaiian kalo cultivars
+had already gone extinct or were so rare that they were
+not located. Whitney et al. (1939) tried to sort through
+synonymy via their common garden studies. Their conclusions lumped together several varieties that previous
+authors noted as being clearly distinct by using characteristics that do not change based on environmental conditions (e.g., petiole-base color). Specifically, Whitney et
+al.’s (1939) taxonomic treatment was in contradiction to
+those of Handy (1940), Wilder (1934) and Anonymous
+(1879) whose descriptions note greater differences between some of the cultivars, that Whitney et al. (1939)
+lumped together, than can be attributed to environmental
+influences (Winter, Field Notes 2003-2012). It is likely that
+
+www.ethnobotanyjournal.org/vol10/i1547-3465-10-423.pdf
+
+Winter - Kalo [Hawaiian Taro, Colocasia esculenta (L.) Schott] Varieties:
+An assessment of nomenclatural synonymy and biodiversity
+the high level of synonymy (80%) reported by Whitney et
+al. (1939) is not representative of the level of synonymy
+that existed at the height of cultivation. This figure is in
+fact substantially higher than any of the other authors who
+documented synonymy (6-26%), as well as Whitney et
+al.’s (1939) own stated estimate of 50%.
+MacCaughey and Emerson (1913) were the first to put
+forward an estimate of kalo diversity at the height of cultivation. They asserted (presumably using their 50% synonymy estimate) that there may have been between 150175 cultivars represented by approximately half of the
+names they collected. Handy et al. (1972) represented
+perhaps the most thorough examination of kalo ethnobotany, and estimated that there was once at least 300
+cultivars. They qualify that there was a relatively small
+number of culturally salient cultivars that could be found
+throughout the Hawaiian islands, and further attribute the
+remainder of the diversity to the high number of localized
+cultivars occurring as endemics within various districts.
+Despite these estimates, there has been some hesitation
+to accept either of them because of the complex synonymy found within traditional kalo taxonomy. As a result
+of this hesitation there is no general agreement on even
+an approximate number of cultivars at the height of kalo
+diversity, although the diversity is generally qualified as
+high.
+Iokepa and Kekahuna (n.d.) documented 92 varietal
+names that are the most accurate collection in terms of
+adherence to Hawaiian binomial-nomenclature trends. Iokepa was a lifelong kalo farmer, and well-respected elder of his area while Kekahuna was a learned Hawaiian
+who dedicated his life to documenting Hawaiian knowledge systems. Kekahuna’s method was to seek out the
+most well-respected elders in a given area and document
+their knowledge (Kekahuna 1956). An analysis of Iokepa
+and Kekahuna’s varietal list shows 26% synonymy. The
+sample size (92) and the level of cultural knowledge attributed to both Iokepa and Kekahuna points to a high
+level of accuracy. It is likely that 26% represents the best
+approximation for the actual synonymy level that existed
+at or near the height of kalo cultivation and, therefore, will
+henceforth be called the “26% Rule”.
+Secondary to the Iokepa and Kekahuna (n.d.) manuscript,
+is the work of Chun (1994). It also represents a high level
+of cultural knowledge in that the manuscript was a collaborative effort among kahuna lāʻau lapaʻau (highly skilled
+herbal healers) who are considered plant experts within
+the culture. Chun (1994) does not contain a comprehensive list of kalo varieties, but rather a list of 31 varieties
+that are used medicinally. Chun (1994) is considered secondary to Iokepa and Kekahuna (n.d.) because the report is of a relatively small subset of varieties. However,
+Chun (1994) does support Iokepa and Kekahuna’s (n.d.)
+binomial nomenclature system, as well as synonymy level (29%), which will henceforth be called the “29% Rule”.
+
+433
+
+Part of the discrepancy between the three rules may stem
+from the sources accounting for different classes of synonymy. Perhaps, the 50% Rule proposed by MacCaughey
+and Emerson (1939) and Whitney et al. (1939) stems
+from adding both linguistically-based and classificationbased synonyms together. Either way, there is no data
+that support this estimate so it will not be used in further
+analysis. The other two rules—26% based on Iokepa and
+Kekahuna (n.d.), and 29% based on Chun (1994)—clearly only relate to classification-based synonymy. When the
+26% Rule and the 29% Rule were applied to the list of
+512 linguistically-consolidated names, an initial estimate
+was obtained which produced a possible range of 364379 distinct cultivars. This maybe a good starting point
+for estimating a conservative and liberal range of kalo diversity; however this is just a cursory analysis. Therefore,
+this work puts forth a more systematic approach using linguistic tools, in concert with trends in ethnonomenclature
+and ethnoclassification (Berlin 1992), to assess diversity.
+Taxonomic and Nomenclature Trends
+As Berlin (1992) points out, human cultures, have systemized ways of classifying the biological world around
+them. Hawaiian culture is no exception. The system laid
+out by Berlin seems to describe well the way in which
+Hawaiians apply classification, taxonomy and nomenclature. Hawaiian nomenclature at the finest level is mostly
+binomial. Names applied to kalo cultivars in Hawaiʻi correspond to Berlin (1992) (Table 4).
+About 92% of the 652 recorded kalo varietal names are
+binomials (or mononomials that fit into a binomial system). This certainly confirms to the binomial trend seen in
+publications produced in collaboration with herbal healers
+(Chun 1994, 1998, Gon 2008), and recognized by botanists who studied Hawaiian nomenclature systems (St.
+John 1982). Only two (2)% (14 names) of the entire collection are trinomials. There are three likely explanations
+for these trinomials:
+1. They are names that were incorrectly recorded.
+2. They reflect the extreme importance of kalo to Hawaiian culture resulting in development of a taxonomic level below subspecies.
+3. They are a part of a taxonomic system created by
+scientists who did not adhere to Hawaiian nomenclature traditions.
+Seven of 14 (50%) of the recorded trinomials are found
+in (Whitney et al. 1939). The others could be either misspellings, or debatable binomials. Whitney et al. (1939)
+admittedly created a system that achieved their goal of
+a dichotomous key, and this could have included creating the trinomials seen in the lauloa group (Appendix 1).
+The remaining 5% of names are questionable, poetic
+names that stem mostly from Henriques (n.d.). These are
+
+www.ethnobotanyjournal.org/vol10/i1547-3465-10-423.pdf
+
+434
+
+Ethnobotany Research & Applications
+
+likely to be proper names of kalo-based characters in stories rather than cultivar names.
+Nomenclature Trends at the Species
+and Subspecies Levels
+Different trends emerged regarding naming at both the
+species and subspecies level. Species-level names include monomials with no clear relationship to other cultivars, and the group name for a set of binomials. In regards to monomials, many have no documented meaning
+or obvious source. These, perhaps, represent taxa that
+were named after people (Handy 1940). For the remainder of the monomials, a few have religious connotations
+indicating a possible role in ceremony. The remaining monomials indicate a strong tendency for either naming after
+a morphological resemblance to something in nature (reef
+fish, forest plant, forest bird, or other cultivated plants).
+If the name is binomial there is a pattern of the group
+name (i.e., species-level name for a set of subspecies)
+being given due to common morphological trait (such as
+branching-corm, or long-leaf) or other characteristic of the
+group (such as fragrant-when-cooked, or predominantlyblack petiole).
+In examining the subspecies epithets a different trend
+emerges. The majority (60%) of the subspecies epithets
+are color designations. This indicates that the ancient Hawaiians taxonomically grouped kalo together according
+to a common morphological trait, and separated out individuals that were different color variants of that common
+trait. About 16% of subspecies are either specifically indicated with the epithet, maoli, or otherwise assumed to be
+classified as such. “Maoli,” is defined in Hawaiian as “Native, indigenous, aborigine, genuine, true, real, or actual”
+(Pukui & Elbert 1986:240). In effect, this is a Hawaiian
+term for the original or type specimen. The data reflects
+that subspecies outside of this type specimen are generally distinguished from one another by the predominant
+petiole coloring. This might indicate that the type-specimen is the original form from which somatic mutations
+produced subspecies that retain the general morphology,
+but differ in petiole color. If so, then the most common
+mutation colors are (in descending order) blackish, whitish, reddish, yellowish, and purplish (Table 5). Since it is
+likely that many have gone extinct, and the remaining cultivars represent a severe genetic bottleneck, so we can
+only speculate about whether or not the data reflect a genetic reality.
+The Relationship of Reduplications and
+Backformations in Synonymy
+While this paper identifies synonymy trends in data, it is
+beyond the scope to identify the linguistic foundations of
+this synonymy (such as various kinds of vowel substitutions and consonant substitutions). However, the relationship between reduplications or backformations is one
+
+form of synonymy that may be explored since it directly
+relates to physical morphologies differentiating taxa (Figure 2).
+The question naturally arises, which came first the reduplication or the backformation (and how does this relate
+to why these taxa were named as such). Ross (2008) observed that, in Proto Oceanic (an evolutionary precursor
+to Hawaiian), reduplications were common when naming
+a plant that resembles another is some way, but is not the
+original. In Figure 2, Hāpuʻu and Hāpuʻupuʻu are treated
+as synonyms. Hāpuʻu is a native tree fern (Cibotium spp.).
+It has a dark trunk and green fronds. The kalo of the same
+name (kalo Hāpuʻu) has dark petioles and green leaves.
+The kalo was named in reference to the tree fern. If the
+trends of Proto Oceanic carry forward into the Hawaiian
+language, then the original name given to the kalo would
+have been Hāpuʻupuʻu as it resembles, but is clearly not
+the tree fern. Over time, presumably for ease of pronunciation, a backformation likely took place, making Hāpuʻu a
+synonym for the original, Hāpuʻupuʻu. The second example in Figure 2, Pia and Piapia cannot be confirmed since
+Piapia is extinct and unavailable for morphological analysis. However, if the above example is correct then Piapia
+might have been a kalo with a taste/consistency (or other
+character) that resembled Pia (T. leontopetaloides), and
+was therefore called Piapia. Over time, presumably for
+ease of pronunciation, a backformation took place, making Pia a synonym for the original form, Piapia.
+Changes in Nomenclature and Taxonomy
+Given the language shift in Hawaiʻi which went from Hawaiian as the only language, to Hawaiian as a second
+language, and going as far as English as the only language for the majority of Hawaiians, it can be predicted
+that there would also be associated shifts in nomenclature
+and taxonomy of biological taxa. There is evidence to support this. All indications are that Hawaiians used a binomial system until the mid-20th century when a horticulturalist-based understanding of kalo diversity began to fill the
+knowledge void left as more and more Hawaiian-speaking
+farmers passed away, and their knowledge of Hawaiian
+nomenclature and taxonomy was lost to time.
+
+Hāpuʻu
+Pia
+
+reduplication
+backformation
+reduplication
+backformation
+
+Hāpuʻupuʻu
+Piapia
+
+Figure 2. Two examples of the relationship between reduplication and backformation in species-level nomenclatural synonymy of kalo (Colocasia esculenta (L.) Schott.).
+
+www.ethnobotanyjournal.org/vol10/i1547-3465-10-423.pdf
+
+Winter - Kalo [Hawaiian Taro, Colocasia esculenta (L.) Schott] Varieties:
+An assessment of nomenclatural synonymy and biodiversity
+Whitney et al. (1939) is currently the authoritative work
+used in Hawaiʻi botanical gardens and agriculture stations
+to distinguish the cultivars in their collections. Historically,
+these gardens and stations, not Hawaiian-speaking farmers, have been sources of planting material used by farmers desiring to enhance the diversity within their collections. Because of this, nomenclature and taxonomic systems currently used in Hawaiʻi have been heavily influenced by Whitney et al. (1939). An example of their influence is the proliferation of trinomials that were previously
+rare or nonexistent. The results of this study propose that
+trinomials represent only 2% of all the varietal names collected, but are currently applied to 11% of extant varieties.
+Whitney et al. (1939) are the first to report trinomials with
+the Lauloa palakea group (L. p. ʻeleʻele, L. p. keʻokeʻo,
+L. p. papamū, and L. p. ʻula) and the variety Piko lehua
+ʻāpiʻi. They alluded to the challenges they had in creating
+their taxonomic treatment, and indicated that they created
+trinomials as a solution. Their treatment lists binomial synonyms for all but one of these trinomials, and it is likely
+that these binomials were the actual names used by Hawaiians before 1939.
+Whitney et al.’s (1939) influence over contemporary taxonomy and nomenclature is further evidenced in an examination of other varietal names. For example, the variety name Makaʻōpio was once commonly used, as is
+evident from the high number of sources that documented
+its presence (Table 7). However, it is treated as a secondary synonym to Piko ʻeleʻele (Whitney et al. 1939) which
+was documented by only five sources. Evidence suggests
+that the varietal name, Makaʻōpio, was once more commonly used than Piko ʻeleʻele, but today Piko ʻeleʻele is
+the only name that is used and Makaʻōpio has fallen out
+of use. From the above examples it is seen that Whitney
+Table 7. Importance of kalo (Colocasia esculenta (L.)
+Schott.) varieties based on number of citations between
+1879 and 1940 verses current observations through field
+surveys. Only varieties with nine or more citations were
+compared. Documented diversity excludes synonyms.
+Variety Name
+
+Commonality
+Citations
+
+Currently
+
+Hā-o-kea / Hā-a-kea
+
+12
+
+Occasional
+
+Ipu-o-Lono
+
+11
+
+Rare
+
+ʻU(w)ahi-a-Pele
+
+11
+
+Rare
+
+Nohu
+
+10
+
+Name not used
+
+Kāī koi
+
+10
+
+Extinct
+
+Mākohi
+
+10
+
+Name not used
+
+Kāī kea / K. keʻokeʻo
+
+9
+
+Rare
+
+ʻElepaio
+
+9
+
+Rare
+
+Makaʻōpio
+
+9
+
+Name not used
+
+Māna ʻeleʻele
+
+9
+
+Rare
+
+Piʻialiʻi
+
+9
+
+Occasional
+
+435
+
+et al. (1939) created a uniform nomenclature and taxonomic system that worked for their purposes, and it has
+had an influence on the nomenclature and taxonomic system used in Hawaiʻi today.
+Aside from the changes in nomenclature and taxonomy
+articulated above there is evidence that other changes may have occurred. One piece of evidence comes
+from reviewing nomenclature for other Hawaiian crop
+plants with relatively high levels of recognized diversity—such as sweet potato, bananas, and ʻawa (Handy
+1940, Kalanianaʻole n.d.). Although these crops do have
+species-level taxa that are named after colors (eg., ʻawa
+Hiwa, maiʻa ʻEleʻele), these species names represent the
+finest level of diversity associated with those genera, and
+do not correspond with group-names at the species levels. However, within the review of kalo group-names (Appendix 1), a few colors—ʻEleʻele (blackish), ʻUlaʻula (reddish), and Poni (purplish)—are seen. This deviation from
+the nomenclatural trend for Hawaiian crop plants makes
+these groups intriguing. Synonyms within the system (Table 8) imply traditions that are more consistent with the
+trends of other Hawaiian crop plants. These names were
+lumped together for the “conservative estimate” of kalo
+diversity. The color synonyms may be evidence that higher kalo diversity persisted into the period when the Hawaiian language, and thus knowledge of traditional nomenclature, was in decline. It is possible that these color
+group-names represent an evolution of kalo nomenclature corresponding to the 19th century, although there is
+not enough evidence to definitively determine the validity
+of this.
+Decrease in Traditional Diversity and
+Effects on Cultural Diversity
+No individual cultivars documented previously (18791940) as common are still common today (Table 7). Reduction of diversity since this period is further evidenced
+by examining the most diverse subspecies-groups of the
+past and comparing them with contemporary levels of diversity. Diversity within these groups have declined drastically (Table 9). Since individual cultivars and subspeciesgroups have specific, and sometimes unique, traditions
+associated with them, it can be predicted that relative kalo-based traditions will shift over time with shifting levels
+of biodiversity. For example, the variety, Nohu, was once
+one of the most common in the period from 1879-1940
+(Table 7). We could assume that specific traditions assoTable 8. Kalo (Colocasia esculenta (L.) Schott.) color
+group-names and possible synonyms.
+Group-names
+Colors
+
+Possible synonym
+
+ʻEleʻele
+
+Naioea or Nohu
+
+ʻUlaʻula
+
+Kūmū
+
+www.ethnobotanyjournal.org/vol10/i1547-3465-10-423.pdf
+
+436
+
+Ethnobotany Research & Applications
+
+Table 9. The most important kalo (Colocasia esculenta
+(L.) Schott.) groups based on number of recorded subspecies names. Only groups with six or more cultivars are
+listed. Reported diversity excludes synonyms. Extant diversity is based on positive identification in current field
+surveys.
+Kalo Group
+
+Subspecies Diversity
+Reported
+
+Extant
+
+Māna
+
+16
+
+5
+
+Lauloa
+
+13
+
+5
+
+Lehua
+
+11
+
+4
+
+Kāī / ʻAla
+
+12
+
+4
+
+Manini
+
+9
+
+5
+
+Piko / Haehae / Uaua
+
+7
+
+6
+
+Hā-o-kea
+
+6
+
+1
+
+Hāpuʻu(puʻu)
+
+6
+
+1
+
+Kūmū / ʻUlaʻula
+
+6
+
+3
+
+Naioea / Nohu / ʻEleʻele
+
+6
+
+2
+
+ciated with that variety were also common. Today, Nohu
+is a varietal name that is not even used anymore which
+is an indication that specific traditions associated with it
+are no longer practiced. If this trend were to be applied at
+the scale of interactions between all of kalo diversity and
+all of Hawaiian cultural-practices, it is predicted that shifts
+in biodiversity and cultural diversity will be linked. Such
+coupled changes relating to shifts in biodiversity and associated traditions are examples of ethnobiological evolution (Winter & McClatchey 2008, 2009). This presents an
+opportunity for further research.
+Increases in Diversity via Modern Hybrids
+Thousands of modern cultivars have been created via
+hybridization between Hawaiian and other Pacific and
+Asian cultivars since the 1980s (Cho et al. 2007, QueroGarcía et al. 2009). Lack of rigorous morphological documentation of these hybrids and their distributions is currently confusing identification, and stimulating controversy about whether or not these new hybrids are beneficial
+contributions to Hawaiian culture.
+
+Conclusions
+The data collection activities reported in the literature
+(1879-1940) and by the author were conducted in reaction to declining kalo diversity and associated cultural
+knowledge. Sorting through synonymy is complex, which
+is why there has been no consensus about levels of biodiversity at or near the period of peak of cultivation. The
+methods used to sort through synonymy presented in this
+paper are useful in estimating, but may not be enough for
+an accurate picture of the past due to insufficient positive
+
+records of cultivar names. Genetic tools could more accurately sort through the cultivars, however, since the majority have apparently gone extinct, the methods used in this
+study may represent the best that we have.
+Estimates of a conservative and liberal range for former
+levels of kalo diversity were determined using two different methods. The first method, using synonymy percentages calculated by analyzing the most valid sources, provided a cursory estimate of 364-379 cultivars. This was
+followed by a more methodological approach of sorting
+through both linguistically-based and classification-based
+synonyms resulted in an estimate of 368-482 cultivars. It
+is important to note that there is only a difference of four
+between the two different methodologies of conservatively estimating kalo diversity, which is cross validation that
+these estimates may be accurate. This far surpasses previous estimates of 100-150 (MacCaughey & Emerson’s
+1913), and supports Handy et al.’s (1972) estimate of at
+least 300. The above estimates may still be low, however,
+due to missing information. The above estimate is of the
+level of biodiversity at the end of the 19th century. Assuming that the height of kalo diversity was approximately 100
+years earlier, and given all the circumstances, it seems
+safe to assume that levels at the height of diversity at the
+end of the 18th century were even higher.
+The high number of cultivars far surpasses those of other crop plants and reinforces the idea that kalo was indeed the most important crop plant in Hawaiian culture.
+The only other crop which rivals this level of diversity is the
+sweet potato (I. batatas). Emerging research (Ladefoged
+et al. 2009) is showing that sweet potatoes may have had
+more prominence within ancient Hawaiian culture at the
+point of contact in 1778 than most contemporary scholars
+have thought. Further research could apply the methods
+articulated here to a collection of sweet potato names.
+Field surveys have confirmed that there are only between
+65-73 kalo cultivars remaining in Hawaiʻi. Using the most
+conservative estimate above these field surveys indicate
+that there has been approximately an 80% extinction rate
+since the late 19th century. Due to the extent with which
+various individuals and institutions have worked to collect
+all remaining kalo diversity for the past century, it is broadly assumed that all other cultivars have been lost to extinction. However, extinction of kalo cultivars may not be a
+permanent status. Another team of researchers has located the previously undocumented, Piʻikea; and reportedly
+rediscovered the cultivar, Lauloa ʻōniʻoniʻo, via a somatic
+mutation. This rediscovery is not yet confirmed, but it does
+give hope that some of the lost cultivars can be regained.
+An interesting and unforeseen outcome of this research
+is that we now also have insight into which individual cultivars and which taxonomic groups of kalo were the most
+important at or near the period of peak cultivation. None
+of these individual cultivars or taxonomic groups have the
+
+www.ethnobotanyjournal.org/vol10/i1547-3465-10-423.pdf
+
+Winter - Kalo [Hawaiian Taro, Colocasia esculenta (L.) Schott] Varieties:
+An assessment of nomenclatural synonymy and biodiversity
+same status today as they once did. All have experienced
+a drastic decline, and other commercial cultivars have taken their place. Given that each heritage cultivar has specific associated traditions relating to cultivation, preparation and ceremony; and that there has been both a decline
+in diversity, and a shift away from formerly important cultivars; then the role of kalo in Hawaiian culture has likely
+changed over time, and is an example of ethnobiological
+evolution. Such a phenomenon presents an interesting
+area for further research. It may be possible to quantify
+the amount of cultural loss that has been associated with
+a decline in kalo diversity.
+Whitney et al.’s (1939) research has been an instrumental
+component to scientifically documenting and understanding kalo diversity, but the data and analysis provided by
+this paper demonstrates that they did change varietal
+nomenclature (i.e., creating trinomials) to create a taxonomic treatment and subsequent dichotomous key that
+worked for their purposes. Their nomenclatural and taxonomic treatment of kalo is founded in, but has deviated
+from, an originally Hawaiian world view of kalo. Furthermore, due to a shift away from the Hawaiian language
+by the general population there is not a firm understanding of nomenclature and classification within the Hawaiian lexicon. This, coupled with the contemporary reliance
+on Whitney et al. (1939) in understanding kalo diversity
+seems to be the largest factor for the contemporary shift
+away from an unadulterated Hawaiian nomenclature and
+taxonomic system. The most accurate example of Hawaiian nomenclature and taxonomy is seen the work of Iokepa and Kekahuna (n.d.) and Chun (1994).
+
+437
+
+kalo diversity. These four elders have been key sources
+of inspiration and understanding of a Hawaiian perspective of kalo diversity. I’d also like to thank the many people
+who have contributed to my understanding of kalo diversity over the last twenty years, as well as the direction of
+this paper. These people include Will McClatchey, ʻŌiwi
+Parker-Jones, Laiana Wong, Al Schütz, Kamaui Aiona,
+Kamana Beamer, Malcolm Chun, Rick Hanna, and Eric
+Enos. I need to also thank the following individuals, botanical gardens and agricultural stations for their generosity
+and hospitality in allowing access to their collections and
+intellectual knowledge: Limahuli Garden and Preserve;
+Roy Yamakawa, Johnny Gordines, and Frank Matsuno at
+the Wailua Agriculture Station; David Orr at Waimea Arboretum; Nellie Sugii and Līloa Dunn at Lyon Arboretum;
+Peter Van Dyke at Amy Greenwell Ethnobotanical Garden; the staff at Kahanu Garden; Lisa Raymond formerly
+at Mauinui Botanical Garden; the many limahana at Ka
+Papa Loʻi o Kānewai; Alton Arakaki at the Hoʻolehua Agriculture Station; and Penny Levin. The research presented
+in this paper was supported by the National Tropical Botanical Garden and my family. Without these people and
+institutions this research would not have been possible.
+Mahalo.
+
+Literature Cited
+Abbott, I.A. 1995. Laʻau Hawaiʻi: Traditional Hawaiian
+uses of plants. Bishop Museum Press, Honolulu.
+Anonymous. 1861. He wahi moolelo no kalo nui ma laua o
+kalo iki. Ka Hae Hawaiʻi, June 12, Honolulu.
+
+It is entirely possible that yet more data may be uncovered
+relating to kalo diversity which may cause us to rethink
+the conclusions of this paper. The hope is that for now, the
+additional data, new forms of analysis, and conclusions of
+this paper will respectfully reawaken a debate about kalo
+diversity and its role in the evolving Hawaiian culture.
+
+Anonymous. 1879. Na inoa kalo a me ko lakou ano. Ka
+Nupepa Kuokoa, March 29, Honolulu.
+
+Acknowledgements
+
+Burney, D.A. & W.K.P. Kikuchi. 2006. A millennium of human activity at Makauwahi Cave, Māhāʻulepū, Kauaʻi. Human Ecology 34:219-247.
+
+This paper is dedicated in honor of all the kūpuna (elders
+and ancestors) who have worked tirelessly to provide that
+which we have today. Of those elders recently past, three
+stand out in relation to this document. Dr. Isabella Kauakea
+Aiona Abbott (1919-2010), a scientist, scholar and educator, as well as the first Hawaiian woman to receive a Ph.D.
+She was a guiding light for those of us who have followed
+in her footsteps. ʻAnakala Eddie Kaanaana (1925-2006),
+a native speaker, a fisher and a farmer whose love for
+the land and the culture touched thousands. Kumu Hula
+John Kaimikaua (1958-2006), a keeper of ancient knowledge who dedicated his life to passing on the teachings
+with which he was entrusted. Of the living elders, Uncle
+Jerry Konanui, stands out for his dedication and steadfast
+devotion to educating about and advocating for traditional
+
+Berlin, B. 1992. Ethnobiological Classification: Principals
+of categorization of plants and animals in traditional societies. Princeton University Press, Princeton, New Jersey.
+
+Cho, J.J., R.A. Yamakawa, & J. Hollyer. 2007. Hawaiian
+kalo, past and future. Sustainable Agriculture 1:1-8.
+Chun, M.N. 1994. Native Hawaiian Medicines. First People’s Productions, Honolulu.
+Chun, M.N. 1998. Native Hawaiian Medicine. Volume 2.
+First People’s Productions, Honolulu.
+Evans, B. 2008. Ethnobiological Classification. Pp. 53-84
+in The Lexicon of Proto Oceanic: The culture and environment of ancestral Oceanic society. Volume 3, plants. Edited by M. Ross, A. Pawley & M. Osmond. Pacific Linguis-
+
+www.ethnobotanyjournal.org/vol10/i1547-3465-10-423.pdf
+
+438
+
+Ethnobotany Research & Applications
+
+tics, Research School of Pacific and Asian Studies, The
+Australian National University, Canberra.
+Fornander, A. 1919. Fornander Collection of Hawaiian Antiquities and Folk-lore. Volume 6, part 1. B.P. Bishop Museum, Honolulu.
+Gon, S. 2008. Revised list of Hawaiian names of plants
+native and introduced with brief descriptions and notes as
+to occurrence and medicinal or other values. Ethnobotany
+Research and Applications 6:405-442.
+Handy, E.S.C.H. 1940. The Hawaiian Planter. Volume 1.
+Bulletin 161. B.P. Bishop Museum, Honolulu.
+Handy E.S.C.H, E.G. Handy & M.K. Pukui. 1972. Native
+Planters in Old Hawaii: Their life, lore, and environment.
+B.P. Bishop Museum Press, Honolulu.
+Henriques, L.C. n.d. Na Inoa Kalo. Manuscript in the B.P.
+Bishop Museum Archives, Honolulu.
+Iokepa J. & H.E.P. Kekahuna. n.d. Manuscript in the B.P.
+Bishop Museum Archives, Honolulu.
+Irwin, S.V., P. Kaufusi, K. Banks, R. de la Peña & J.J. Cho.
+1998. Molecular characterization of Taro (Colocasia esculenta) using RAPD markers. Euphytica 99:183-189.
+Kalanianaʻole, J.K. n.d. Varieties of Kalo, Uala, Awa and
+Maia. Manuscript in the B.P. Bishop Museum Archives,
+Honolulu.
+Kamakau, S.M. 1972. Ka Poʻe Kahiko. Bishop Museum
+Press, Honolulu. [Translated from the newspaper Ke Au
+Okoa.]
+Kamakau, S.M. 1976. Ka Hana a Ka Poe Kahiko. Bishop
+Museum Press, Honolulu. [Translated from the newspaper Ke Au Okoa.]
+Kameʻeleihiwa, L. 1992. Native Land and Foreign Desires. Bishop Museum Press, Honolulu.
+Kekahuna, H.E.P. 1956. Recorded interview with Kenneth
+Emory. Recording in the B.P. Bishop Museum Archives,
+Honolulu.
+Ladefoged, T.N., P.V. Kirch, S.M. Gon III, O.A. Chadwick,
+A.S. Hartshorn & P.M. Vitousek. 2009. Opportunities and
+constraints for intensive agriculture in the Hawaiian archipelago prior to European contact. Journal of Archaeological Science 36(10):2374-2383.
+MacCaughey V. & J.S. Emerson. 1913. The kalo in Hawaiʻi.
+The Hawaiian Forester and Agriculturalist 10:186-193.
+
+MacCaughey V. & J.S. Emerson. 1914. A revised list of
+Hawaiian varietal names for kalo. The Hawaiian Forester
+and Agriculturalist 11:338-341.
+Malo, D. 2006. Ka Moʻolelo Hawaiʻi: Hawaiian Traditions.
+Translation by Malcolm Chun. First People’s Cultivations,
+Honolulu.
+Müller, J.G., Y. Ogneva-Himmelberger, S. Lloyd & J.M.
+Reed. 2010. Predicting prehistoric taro (Colocasia esculenta var. antiquorum) loʻi distribution in Hawaii. Economic
+Botany 64(1):22-33.
+Nettle D. & S. Romaine. 2000. Vanishing Voices: The extinction of the world’s languages. Oxford University Press,
+Oxford, England.
+Nohokuaaina, J.M. 18687. He wahi moolelo no kalo nui
+ma laua o kalo iki. Ka Nupepa Kuokoa, December 28, Honolulu.
+Pukui, M.K. & S.H. Elbert. 1979. Hawaiian Grammar. University of Hawai‘i Press, Honolulu.
+Pukui, M.K. & S.H. Elbert. 1986. Hawaiian Dictionary. University of Hawai‘i Press, Honolulu.
+Rindos, D. 1984. The Origins of Agriculture: An evolutionary perspective. Academic Press, New York.
+Quero-García, J., P. Letourmy, A. Ivancic, P. Feldmann,
+B. Courtois, J.L. Noyer & V. Lebot. 2009. Hybrid performance in taro (Colocasia esculenta) in relation to genetic
+dissimilarity of parents. Theoretical and Applied Genetics
+119(2):213-221.
+Rooke, E.K.N. n.d. Observations on Varieties and Culture
+of Taro. Manuscript in the B.P. Bishop Museum Archives,
+Honolulu.
+Ross, M. 2008. Introducing Proto Oceanic plant names.
+Pp. 25-52 in The Lexicon of Proto Oceanic: The culture
+and environment of ancestral Oceanic society. Volume 3,
+plants. Edited by M. Ross, A. Pawley & M. Osmond. Pacific Linguistics, Research School of Pacific and Asian Studies, The Australian National University, Canberra.
+Schütz A.J. 1994. Voices of Eden: A history of Hawaiian
+language studies. University of Hawaiʻi Press, Honolulu.
+St. John, H. 1982. Vernacular plant names used on
+Niʻihau Island. B.P. Bishop Museum Occasional Papers
+25(3):1-10.
+Stannard, D.E. 1989. Before the Horror: The population
+of Hawaii on the eve of Western contact. University of
+Hawaiʻi Press, Honolulu.
+
+www.ethnobotanyjournal.org/vol10/i1547-3465-10-423.pdf
+
+Winter - Kalo [Hawaiian Taro, Colocasia esculenta (L.) Schott] Varieties:
+An assessment of nomenclatural synonymy and biodiversity
+Trask, H.K. 1999. From a Native Daughter: Colonization
+and sovereignty in Hawaiʻi, Second Edition. University of
+Hawaiʻi Press, Honolulu.
+Whitney, L.D., F.A.I. Bowers & M. Takahashi. 1939. Taro
+Varieties in Hawaiʻi. Bulletin 84, College of Tropical Agriculture and Human Resources, University of Hawaiʻi, Honolulu.
+Wight, T.C. n.d. A List of Names of Taros and Bananas in
+Kona. Manuscript in the B.P. Bishop Museum Archives.
+Honolulu.
+Wilder, G.P. 1934. The Kalo in Hawaii. Manuscript in the
+B.P. Bishop Museum Archives, Honolulu.
+
+439
+
+Winter, K.B. 2003-2012. Field Notes. Surveys of farms,
+botanical gardens, and agriculture stations on the islands
+of Kauaʻi, Oʻahu, Molokaʻi, Maui and Hawaiʻi. Manuscript
+with author.
+Winter, K. & W.C. McClatchey. 2008. Quantifying evolution of cultural interactions with plants: Implications for
+managing diversity for resilience in social-ecological systems. Ethnobotany: A Focus on Brazil. Functional Ecosystems and Communities 2 Special Issue 1:1-10.
+Winter K. & W.C. McClatchey. 2009. The quantum coevolution unit: An example of ʻawa (Piper methysticum G.
+Foster) in Hawaiʻi. Economic Botany 63(4):353-362.
+
+Wilder, G.P. n.d. Ledger: Accounts of Sales of Plant Materials, 1915-1935, etc. Manuscript in the B.P. Bishop Museum Archive, Honolulu.
+
+www.ethnobotanyjournal.org/vol10/i1547-3465-10-423.pdf
+
+440
+
+Ethnobotany Research & Applications
+
+Appendix 1. Conservative and liberal estimates of kalo [Hawaiian taro, Colocasia esculenta (L.) Schott] diversity
+in the Hawaiian islands. Consolidated from an original list of 676 names into 512 linguistically-based synonyms.
+Typographical errors in the original list have been eliminated. These names were used to determine a conservative and
+liberal estimate for biodiversity near the height of cultivation around the turn of the 19th century. Uncertainty in usage
+of Hawaiian diacritical marks is indicated by *.
+Species (Group)
+Name
+
+Subspecies
+Epithet
+
+Aʻa / Aʻe / Aʻeaʻe
+ʻAʻala-piko
+
+Estimate
+Cons.
+
+Lib.
+
+1
+
+1
+
+Species (Group)
+Name
+
+Subspecies
+Epithet
+
+Estimate
+Cons.
+
+Lib.
+
+kea
+
+1
+
+1
+
+lehua /
+ʻulaʻula / ʻula
+
+0
+
+1
+
+[maoli]
+
+0
+
+1
+
+ʻeleʻele /
+uliuli
+
+1
+
+1
+
+0
+
+1
+
+[maoli]
+
+0
+
+1
+
+ʻele’ele /
+hiwa
+
+1
+
+1
+
+keʻokeʻo
+
+1
+
+1
+
+lehua /
+ʻulaʻula
+
+1
+
+1
+
+kea /
+keʻokeʻo
+
+1
+
+1
+
+lenalena
+
+1
+
+1
+
+lenalena
+
+1
+
+1
+
+wai
+
+0
+
+0
+
+ʻulaʻula / ʻula
+
+1
+
+1
+
+0
+
+1
+
+[maoli]
+
+0
+
+1
+
+ʻeleʻele
+
+1
+
+1
+
+keʻokeʻo
+
+1
+
+1
+
+lenalena
+
+1
+
+1
+
+ʻulaʻula
+
+1
+
+1
+
+ʻAhuʻula
+
+0
+
+1
+
+ʻAiwi-kea
+
+0
+
+1
+
+Akaka*
+
+1
+
+1
+
+Akiahiale*
+
+1
+
+1
+
+ʻAkilolo
+
+1
+
+1
+
+ʻAkoki / ʻAkohi
+
+1
+
+1
+
+Akole ka uula*
+
+0
+
+1
+
+[maoli]
+
+0
+
+1
+
+ʻeleʻele
+
+0
+
+1
+
+kea /
+keʻokeʻo
+
+0
+
+ʻōpelu
+
+ʻAʻapu / ʻApu /
+ʻAʻapo / ʻApo /
+ʻApua / ʻOʻapu
+
+ʻAhapii
+ʻĀhē / ʻĒhē
+
+ʻAla
+
+ʻApuwai / ʻApowai
+
+ʻApowale / ʻApuwale [maoli]
+
+0
+
+1
+
+ʻeleʻele /
+uliuli
+
+1
+
+1
+
+kea /
+keʻokeʻo
+
+1
+
+1
+
+lenalena
+
+1
+
+1
+
+ʻulaʻula / ʻula
+
+1
+
+1
+
+Auau leo (lio) nui*
+
+0
+
+1
+
+Awa-a-puhi*
+
+1
+
+1
+
+ʻĀweo / ʻĀweu
+/ ʻĀweoweo /
+ʻĀweuweu
+
+1
+
+1
+
+[maoli]
+
+0
+
+1
+
+hiwa
+
+1
+
+1
+
+hiwapaʻa
+
+1
+
+1
+
+lauloa
+
+1
+
+1
+
+1
+
+makaʻōpio
+
+1
+
+1
+
+mākoko
+
+1
+
+1
+
+1
+
+1
+
+naioea
+
+1
+
+1
+
+o-Puna
+
+1
+
+1
+
+Elekai*
+
+1
+
+1
+
+pipika
+
+ʻEleʻele / ʻEʻele
+
+1
+
+1
+
+ʻElepaio
+
+1
+
+1
+
+Alele*
+
+1
+
+1
+
+ʻEleua
+
+1
+
+1
+
+Aneliʻi*
+
+1
+
+1
+
+Ēulu / Ēula
+
+[maoli]
+
+0
+
+1
+
+ʻĀnunu
+
+1
+
+1
+
+keʻokeʻo
+
+1
+
+1
+
+A-ʻoʻia-o-Kalalau
+
+0
+
+1
+
+kohu-uauahi
+
+1
+
+1
+
+0
+
+0
+
+[maoli]
+
+0
+
+1
+
+ʻeleʻele
+
+1
+
+1
+
+1
+
+1
+
+0
+
+0
+
+ʻApe
+
+ʻĀpiʻi / ʻĀpiʻipiʻi
+
+[maoli]
+
+Haʻo
+
+kea
+
+0
+
+0
+
+poni
+
+0
+
+0
+
+Haʻahaʻa
+
+[maoli]
+
+0
+
+1
+
+Haehae
+
+[maoli]
+
+www.ethnobotanyjournal.org/vol10/i1547-3465-10-423.pdf
+
+Winter - Kalo [Hawaiian Taro, Colocasia esculenta (L.) Schott] Varieties:
+An assessment of nomenclatural synonymy and biodiversity
+Species (Group)
+Name
+
+Subspecies
+Epithet
+
+Cons.
+
+Lib.
+
+Species (Group)
+Name
+
+ʻeleʻele
+
+0
+
+0
+
+Hoeke*
+
+keʻokeʻo
+
+0
+
+0
+
+Hoene
+
+ʻulaʻula
+
+0
+
+0
+
+Hahu-ko-kai
+
+0
+
+1
+
+Hale-o-Lono
+
+1
+
+1
+
+Hāloa
+
+0
+
+1
+
+Hāokea / Hāakea
+[maoli]
+/ Hāaʻākea /
+Hāʻawikea / ʻAhakea
+
+0
+
+hāʻulaʻula
+
+Subspecies
+Epithet
+
+Estimate
+Cons.
+
+Lib.
+
+1
+
+1
+
+[maoli]
+
+0
+
+1
+
+black [sic]
+
+1
+
+1
+
+red [sic]
+
+1
+
+1
+
+Hōkeo / Hōkea
+/ Hākeo
+
+1
+
+1
+
+1
+
+Hona
+
+1
+
+1
+
+Hōʻole-(i)-nā-wao
+
+0
+
+1
+
+1
+
+1
+
+Hōʻole-ke-kalopoʻo- honu(e)*
+
+0
+
+1
+
+hāuliuli
+
+1
+
+1
+
+Houa*
+
+1
+
+1
+
+keʻokeʻo
+
+1
+
+1
+
+Hualani
+
+1
+
+1
+
+māna
+
+1
+
+1
+
+Huamoa
+
+1
+
+1
+
+piko
+
+1
+
+1
+
+Huli-pū-loa
+
+0
+
+1
+
+piko-ʻula
+
+1
+
+1
+
+Humuhumu
+
+0
+
+1
+
+ʻIeʻie / ʻIaʻia
+
+[maoli] /
+maoli
+
+0
+
+1
+
+ʻeleʻele /
+hāuliuli
+/ uliuli
+
+1
+
+1
+
+kea /
+keʻokeʻo
+
+1
+
+lenalena
+/ lena
+
+1
+
+1
+
+[maoli]
+
+0
+
+1
+
+ʻiliʻā*
+
+1
+
+1
+
+Iheihe
+
+1
+
+1
+
+Iheihei lei
+
+1
+
+1
+
+ʻIhi-lani
+
+1
+
+1
+
+1
+
+ʻIʻi
+
+0
+
+1
+
+ʻIliʻā / ʻIliʻaʻa
+
+1
+
+1
+
+1
+
+1
+
+ʻIliuaua
+
+0
+
+0
+
+kūkea /
+nūkea
+
+1
+
+1
+
+[maoli]
+
+0
+
+1
+
+1
+
+1
+
+ʻulaʻula
+
+kea /
+keʻokeʻo
+ʻulaʻula
+
+1
+
+1
+
+piko-ʻula
+
+1
+
+1
+
+Kapuʻukōnane
+
+0
+
+1
+
+0
+
+1
+
+Haole luahine
+Hāpuʻu /
+Hāpuʻupuʻu
+
+Estimate
+
+441
+
+Ipu-o-Lono
+
+1
+
+1
+
+Heʻe
+
+1
+
+1
+
+Heilia*
+
+1
+
+1
+
+Hekili
+
+1
+
+1
+
+Hele-mauna
+
+0
+
+1
+
+Kaawelu-i-kapali-o-ʻAwakea
+
+He-nele
+
+0
+
+1
+
+Kaena-ke-kanaka*
+
+0
+
+1
+
+He-ʻowā-hulunui
+
+0
+
+1
+
+Kahaluʻu
+
+1
+
+1
+
+Heu-ā-lehu
+
+0
+
+1
+
+0
+
+1
+
+Heu-ʻele
+
+0
+
+1
+
+Kahu-kō-kai /
+Kahe-kō-kai
+
+Heʻula
+
+0
+
+1
+
+maoli
+
+1
+
+1
+
+Hinale / Hinalea
+
+1
+
+1
+
+ʻala
+
+1
+
+1
+
+Hinaliʻi
+
+1
+
+1
+
+ʻāweuweu
+
+1
+
+1
+
+Hinapū
+
+1
+
+1
+
+1
+
+1
+
+Hinu-kalo
+
+1
+
+1
+
+ʻeleʻele /
+uliuli
+
+Hinu-puaʻa
+
+1
+
+1
+
+hoʻōkia*
+
+1
+
+1
+
+Hiwa
+
+0
+
+1
+
+Kāī
+
+www.ethnobotanyjournal.org/vol10/i1547-3465-10-423.pdf
+
+442
+Species (Group)
+Name
+
+Ethnobotany Research & Applications
+Subspecies
+Epithet
+
+Cons.
+
+Estimate
+Lib.
+
+Species (Group)
+Name
+
+kea /
+keʻokeʻo
+
+1
+
+1
+
+koi
+
+1
+
+1
+
+koi-welawela
+
+1
+
+1
+
+nenene /
+nenenene
+
+1
+
+1
+
+pala
+
+1
+
+1
+
+ʻulaʻula
+
+1
+
+1
+
+welowelokā
+(likely a typo
+for
+welowelolā)
+
+1
+
+1
+
+Subspecies
+Epithet
+
+Estimate
+Cons.
+
+Lib.
+
+Kīkiʻi
+
+1
+
+1
+
+Kili ʻoʻopu
+
+1
+
+1
+
+Koʻi aweawe*
+
+1
+
+1
+
+[maoli]
+
+0
+
+1
+
+ʻeleʻele
+
+0
+
+1
+
+keʻokeʻo
+
+0
+
+1
+
+ʻulaʻula
+
+Koaʻe
+
+0
+
+1
+
+Kohikū*
+
+1
+
+1
+
+Kokoko-he-uhi*
+
+0
+
+1
+
+Koʻokā
+
+1
+
+1
+
+Kū loa
+
+1
+
+1
+
+Kuamu
+
+1
+
+1
+
+Kuapapa
+
+1
+
+1
+
+Kueha*
+
+1
+
+1
+
+Kukaiʻiole [sic]
+
+1
+
+1
+
+Kumakau*
+
+1
+
+1
+
+[maoli]
+
+0
+
+1
+
+ʻeleʻele
+
+1
+
+1
+
+1
+
+1
+
+Kaimoi*
+
+1
+
+1
+
+Kaina-i-ke-kanaka*
+
+0
+
+1
+
+Kaina-i-ke-kaua*
+
+0
+
+1
+
+Ka-io-aweawe*
+
+0
+
+1
+
+niʻo
+
+1
+
+1
+
+poni
+
+1
+
+1
+
+Kalaniu
+
+1
+
+1
+
+Kalalama makahi*
+
+0
+
+1
+
+Kalalau
+
+1
+
+1
+
+kea /
+keʻokeʻo
+
+Kalani pili
+
+1
+
+1
+
+kūloa
+
+1
+
+1
+
+Kalo-i-kū
+
+0
+
+1
+
+poni
+
+1
+
+1
+
+Kalola
+
+0
+
+0
+
+ʻulaʻula
+
+1
+
+1
+
+Kāmau
+
+1
+
+1
+
+welowelolā
+
+1
+
+1
+
+Kanaio
+
+0
+
+0
+
+[maoli]
+
+0
+
+1
+
+Kanawao
+
+1
+
+1
+
+hai*
+
+1
+
+1
+
+Kaneliʻi
+
+1
+
+1
+
+piko
+
+1
+
+1
+
+Kāniʻo
+
+0
+
+1
+
+Kūpala
+
+1
+
+1
+
+Kapai-o-ākea*
+
+0
+
+1
+
+Laʻo uaua
+
+1
+
+1
+
+Kapala
+
+1
+
+1
+
+Laʻaloa / Olaʻaloa
+
+1
+
+1
+
+Kapalili
+
+1
+
+1
+
+Laholoa
+
+0
+
+1
+
+Kapuhili
+
+1
+
+1
+
+Laʻi-o-kona
+
+1
+
+1
+
+Kauanio
+
+1
+
+1
+
+Lapa
+
+1
+
+1
+
+Kaue*
+
+1
+
+1
+
+Lau ʻape
+
+1
+
+1
+
+Kauhaikalehuhoole*
+
+0
+
+1
+
+Lau kapalili
+
+0
+
+1
+
+Kawale uaua*
+
+1
+
+1
+
+Laukōnā
+
+1
+
+1
+
+Kawele ole*
+
+0
+
+1
+
+Lau lele
+
+1
+
+1
+
+Kawelo
+
+1
+
+1
+
+Lauloa
+
+[maoli]
+
+0
+
+1
+
+Kepoe
+
+1
+
+1
+
+1
+
+1
+
+Kiʻi hekekē
+
+1
+
+1
+
+Kīkī panapala
+/ K. palapala
+
+1
+
+1
+
+ʻeleʻele /
+hāʻeleʻele
+/ palakeaʻeleʻele
+
+Kala
+
+Kūmū
+
+Kūʻoho / Kūʻohu
+
+www.ethnobotanyjournal.org/vol10/i1547-3465-10-423.pdf
+
+Winter - Kalo [Hawaiian Taro, Colocasia esculenta (L.) Schott] Varieties:
+An assessment of nomenclatural synonymy and biodiversity
+Species (Group)
+Name
+
+Subspecies
+Epithet
+
+Cons.
+
+Estimate
+Lib.
+
+Species (Group)
+Name
+
+ʻeleʻeleʻōmaʻo
+
+0
+
+1
+
+ʻeleʻele-ʻula
+
+0
+
+1
+
+keʻokeʻo /
+hākeʻokeʻo
+/ kea
+
+1
+
+1
+
+koko / hāʻula
+/ ʻulaʻula
+
+1
+
+1
+
+uliuli /
+hāuliuli
+
+1
+
+1
+
+Māʻau(w)ea /
+Māʻau(w)eo /
+Mānau(w)ea /
+Mānau(w)eo /
+Māmau(w)ea /
+Māmau(w)eo
+
+manini /
+ʻōniʻoniʻo
+/ palakeakeʻokeʻo
+
+1
+
+1
+
+Maea
+
+palakea
+
+1
+
+1
+
+palakea-ʻula
+
+1
+
+1
+
+pānaʻe*
+
+1
+
+1
+
+papamū /
+palakeapapamū
+
+1
+
+1
+
+piko-ʻula
+
+1
+
+1
+
+poni
+
+1
+
+1
+
+[maoli]
+
+0
+
+1
+
+paʻakai
+
+1
+
+1
+
+maoli
+
+1
+
+aola*
+
+Subspecies
+Epithet
+
+443
+
+Estimate
+Cons.
+
+Lib.
+
+Liko-lehua
+
+1
+
+1
+
+Līlī-lehua
+
+1
+
+1
+
+Loha / Lola
+
+1
+
+1
+
+[maoli]
+
+0
+
+1
+
+hāuliuli
+
+1
+
+1
+
+ʻula
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Maʻawe
+Mahaha*
+
+[maoli]
+
+1
+
+keʻokeʻo
+
+1
+
+1
+
+ʻulaʻula
+
+1
+
+1
+
+Mahai
+
+1
+
+1
+
+Mahakea / Mākea
+
+1
+
+2
+
+Mahamaha keʻokeʻo
+
+1
+
+1
+
+Māhuna
+
+1
+
+1
+
+Mai ahua*
+
+1
+
+1
+
+Māʻiʻi / Māʻiʻiʻi
+
+1
+
+1
+
+Māʻiʻo
+
+1
+
+1
+
+Makaʻiole
+
+1
+
+1
+
+1
+
+Maka ʻōpio /
+M. ʻōpiʻi
+
+1
+
+1
+
+1
+
+1
+
+Maka ua
+
+1
+
+1
+
+ʻāpiʻi
+
+1
+
+1
+
+Maka weo
+
+1
+
+1
+
+ʻeleʻele /
+hāuliuli
+
+1
+
+1
+
+[maoli]
+
+0
+
+1
+
+hōʻole*
+
+1
+
+1
+
+Mākihi / Mākohe /
+Mākohi / Mōkohe
+/ Mōkohi
+
+ʻulaʻula
+
+1
+
+1
+
+keʻokeʻo
+
+1
+
+1
+
+ʻeleʻele
+
+1
+
+1
+
+kū-i-ka-wao
+/ kū-kuahiwi
+
+1
+
+1
+
+Mākoko
+
+0
+
+1
+
+Mākole
+
+1
+
+1
+
+lenalena
+
+1
+
+1
+
+Mākūkū
+
+1
+
+1
+
+ʻōniʻoniʻo
+
+1
+
+1
+
+Malihini-a-ka-wai
+
+0
+
+1
+
+palaiʻi
+
+1
+
+1
+
+Māmane
+
+1
+
+1
+
+ʻulaʻula
+
+1
+
+1
+
+Māmanu*
+
+1
+
+1
+
+Lele
+
+1
+
+1
+
+[maoli]
+
+0
+
+1
+
+Leʻo
+
+1
+
+1
+
+ʻāniholoa*
+
+1
+
+1
+
+Līʻapu
+
+1
+
+1
+
+1
+
+1
+
+Lihilihi keʻokeʻo
+
+0
+
+1
+
+ʻeleʻele /
+uliuli
+
+[maoli]
+
+0
+
+1
+
+ʻulaʻula /
+hāʻulaʻula
+
+1
+
+1
+
+keʻokeʻo
+
+1
+
+1
+
+hua
+
+1
+
+1
+
+ʻeleʻele
+
+1
+
+1
+
+Launui
+Lehua
+
+Lihilihi-molina
+
+Māna / Māna-o-
+
+www.ethnobotanyjournal.org/vol10/i1547-3465-10-423.pdf
+
+444
+Species (Group)
+Name
+
+Ethnobotany Research & Applications
+
+Cons.
+
+Lib.
+
+Species (Group)
+Name
+
+kea /
+keʻokeʻo
+
+1
+
+1
+
+Moi
+
+lauloa
+
+1
+
+1
+
+ʻulu /
+lenalena /
+melemele
+/ ʻowene
+/ ʻuwele
+
+1
+
+1
+
+ʻohe
+
+1
+
+1
+
+ʻokoʻa
+
+1
+
+1
+
+ʻōpelu
+
+1
+
+1
+
+piko
+
+1
+
+1
+
+pipika
+
+1
+
+1
+
+uauahi
+
+1
+
+1
+
+uhapua*
+
+1
+
+1
+
+wai / waike-ohe
+
+1
+
+1
+
+weo / wea
+
+1
+
+1
+
+Mana-piko
+
+1
+
+1
+
+Mānawai ākea*
+
+1
+
+1
+
+[maoli]
+
+0
+
+1
+
+ʻeleʻele
+
+1
+
+1
+
+hākikokiko
+
+1
+
+1
+
+uliuli /
+hāuliuli
+
+1
+
+1
+
+kākau*
+
+1
+
+1
+
+kea
+
+1
+
+1
+
+lau-kikokiko
+
+1
+
+1
+
+ʻōpelu
+
+1
+
+1
+
+ʻowali
+
+1
+
+1
+
+ʻula
+
+1
+
+1
+
+Manouulu*
+
+0
+
+0
+
+Manu
+
+1
+
+1
+
+Manuia*
+
+1
+
+1
+
+Manulele
+
+1
+
+1
+
+melemele
+
+1
+
+1
+
+ulu
+
+1
+
+1
+
+Mauna
+
+1
+
+1
+
+Melemele
+
+1
+
+1
+
+Mimi’iole
+
+0
+
+1
+
+Moa
+
+1
+
+1
+
+Moana / Moano
+
+0
+
+1
+
+Mōhihi
+
+1
+
+1
+
+Manini
+
+Maua
+
+Subspecies
+Epithet
+
+Estimate
+
+Subspecies
+Epithet
+
+Cons.
+
+Lib.
+
+[maoli]
+
+0
+
+1
+
+ʻeleʻele
+
+1
+
+1
+
+kea /
+keʻokeʻo
+
+1
+
+1
+
+ʻula
+
+1
+
+1
+
+Mokihana
+
+1
+
+1
+
+Mōlina
+
+1
+
+1
+
+Na-kalo-aolao-kalalau*
+
+0
+
+1
+
+Nahiolea
+
+1
+
+1
+
+Naio
+
+Estimate
+
+1
+
+1
+
+[maoli]
+
+0
+
+1
+
+ʻeleʻele
+
+0
+
+1
+
+keʻokeʻo
+
+0
+
+1
+
+lehua /
+ʻulaʻula
+
+0
+
+0
+
+Nā-kalo-i-kūʻē*
+
+0
+
+0
+
+Nālilikoʻi*
+
+1
+
+1
+
+[maoli]
+
+1
+
+1
+
+piko
+
+Naioea
+
+Nana
+
+1
+
+1
+
+Nana-i-puhenena-kalo
+
+0
+
+1
+
+Nao
+
+1
+
+1
+
+Nāpili
+
+1
+
+1
+
+Naua
+
+1
+
+1
+
+Nāwao
+
+1
+
+1
+
+Neʻineʻikekanaka*
+
+0
+
+1
+
+Neʻeneʻe
+
+1
+
+1
+
+Nihopuʻu
+
+1
+
+1
+
+Nina
+
+1
+
+1
+
+Niʻo
+
+0
+
+1
+
+Nohiapele*
+
+0
+
+0
+
+[maoli]
+
+0
+
+1
+
+ʻeleʻele
+
+0
+
+1
+
+dark [sic]
+
+1
+
+1
+
+light [sic]
+
+1
+
+1
+
+Nuku ʻeʻehu
+
+1
+
+1
+
+Nuku kau
+
+1
+
+1
+
+Nuku-manu
+
+1
+
+1
+
+O-ka-heʻe-kō-kai
+
+0
+
+1
+
+ʻO(w)āʻo(w)ā
+
+1
+
+1
+
+Oalu / Oolu
+
+1
+
+1
+
+Nohu
+Nūkea
+
+www.ethnobotanyjournal.org/vol10/i1547-3465-10-423.pdf
+
+Winter - Kalo [Hawaiian Taro, Colocasia esculenta (L.) Schott] Varieties:
+An assessment of nomenclatural synonymy and biodiversity
+Species (Group)
+Name
+
+Subspecies
+Epithet
+
+Estimate
+
+Species (Group)
+Name
+
+Cons.
+
+Lib.
+
+1
+
+1
+
+[maoli]
+
+0
+
+1
+
+Palapalaha / Pālaha*
+
+ʻeleʻele
+
+1
+
+1
+
+Palaʻiʻi
+
+kea /
+keʻokeʻo
+
+1
+
+1
+
+ʻulaʻula / ʻula
+
+1
+
+ʻŌhiʻa
+
+Subspecies
+Epithet
+
+445
+
+Estimate
+Cons.
+
+Lib.
+
+1
+
+1
+
+1
+
+1
+
+[maoli]
+
+0
+
+1
+
+ʻeleʻele
+
+1
+
+1
+
+1
+
+kea /
+keʻokeʻo
+
+1
+
+1
+
+1
+
+1
+
+pohā
+
+1
+
+1
+
+ʻŌhuehue
+
+1
+
+1
+
+poni
+
+1
+
+1
+
+ʻŌlena
+
+1
+
+1
+
+ʻulaʻula
+
+1
+
+1
+
+ʻŌnihinihi
+
+1
+
+1
+
+ʻeleʻele
+
+1
+
+1
+
+keʻokeʻo
+
+1
+
+1
+
+1
+
+1
+
+[maoli]
+
+1
+
+1
+
+ʻulaʻula
+
+Oaulu nui
+ʻOhe
+
+ʻOʻopu
+ʻOʻopukai / ʻOpukai
+
+mahiki
+
+Palakea
+
+1
+
+1
+
+[maoli]
+
+0
+
+1
+
+Pālau
+
+keʻokeʻo
+
+1
+
+1
+
+Palili
+
+ʻulaʻula
+
+1
+
+1
+
+1
+
+1
+
+ʻOpae-ʻula
+
+1
+
+1
+
+Pana
+
+1
+
+1
+
+ʻŌpelu
+
+0
+
+1
+
+Pani-kohe
+
+0
+
+1
+
+ʻŌpelu haoee*
+
+1
+
+1
+
+Papakole(a) kāwaʻa
+
+1
+
+1
+
+ʻŌpule
+
+1
+
+1
+
+Papakole(a) koaʻe
+
+1
+
+1
+
+Owale*
+
+1
+
+1
+
+Papala kea*
+
+0
+
+0
+
+ʻOwau
+
+1
+
+1
+
+Papamu
+
+0
+
+1
+
+[maoli]
+
+0
+
+1
+
+Papapueo
+
+1
+
+1
+
+ʻeleʻele
+
+1
+
+1
+
+Pāʻū-o-hiʻiaka
+
+1
+
+1
+
+keʻokeʻo
+
+1
+
+1
+
+Paua
+
+1
+
+1
+
+lenalena /
+melemele
+
+1
+
+1
+
+Pauʻiole
+
+1
+
+1
+
+māna
+
+0
+
+1
+
+Pehua
+
+1
+
+1
+
+ʻulaʻula
+
+1
+
+1
+
+Peke
+
+0
+
+1
+
+Paʻakai
+
+1
+
+1
+
+Pelu hāʻele
+
+1
+
+1
+
+Paʻakai mikomiko
+
+0
+
+0
+
+Paʻakea
+
+0
+
+0
+
+Paʻapaʻaʻina
+
+1
+
+1
+
+Pae
+
+1
+
+1
+
+Paʻele-hilimānoanoa
+
+0
+
+1
+
+Paʻiaha
+
+1
+
+1
+
+Paipu lana
+
+1
+
+1
+
+Pākē
+
+0
+
+0
+
+Pākea
+
+1
+
+1
+
+[maoli]
+
+0
+
+1
+
+hāokea / kea
+
+0
+
+0
+
+ʻO(w)ene
+
+Pelu haole
+
+0
+
+0
+
+[maoli]
+
+0
+
+1
+
+ʻeleʻele
+
+1
+
+1
+
+kea /
+keʻokeʻo
+
+1
+
+1
+
+lena
+
+1
+
+1
+
+ʻulaʻula
+
+1
+
+1
+
+Peue
+
+1
+
+1
+
+Pia / Piapia
+
+1
+
+1
+
+Pihalole / Pihalale
+
+1
+
+1
+
+Piʻi hālāwai
+
+1
+
+1
+
+[maoli]
+
+0
+
+1
+
+ʻeleʻele
+
+1
+
+1
+
+keʻokeʻo
+
+1
+
+1
+
+Peu
+
+Paʻea
+
+Pala
+
+Piʻialiʻi
+
+www.ethnobotanyjournal.org/vol10/i1547-3465-10-423.pdf
+
+446
+Species (Group)
+Name
+
+Ethnobotany Research & Applications
+Subspecies
+Epithet
+
+Cons.
+
+Estimate
+Lib.
+
+Species (Group)
+Name
+
+melemele
+
+1
+
+1
+
+ʻulaʻula
+
+1
+1
+
+[maoli]
+ʻeleʻele
+
+Subspecies
+Epithet
+
+Estimate
+Cons.
+
+Lib.
+
+Ua lehua
+
+1
+
+1
+
+1
+
+Uahi ʻoki*
+
+1
+
+1
+
+1
+
+Ualehu / Ūlehu
+
+0
+
+1
+
+0
+
+1
+
+Uaua
+
+[maoli]
+
+0
+
+0
+
+1
+
+1
+
+ʻeleʻele
+
+0
+
+0
+
+hao*
+
+1
+
+1
+
+keʻokeʻo
+
+0
+
+0
+
+kea
+
+1
+
+1
+
+mōlina
+
+1
+
+1
+
+keʻokeʻo
+
+1
+
+1
+
+piko
+
+0
+
+0
+
+lehua-ʻāpiʻi
+
+0
+
+1
+
+Uhai*
+
+1
+
+1
+
+uaua
+
+1
+
+1
+
+Uhu
+
+1
+
+1
+
+uliuli / uli
+
+1
+
+1
+
+Uia
+
+1
+
+1
+
+Piko-a-Wākea
+
+1
+
+1
+
+Ula
+
+[maoli]
+
+0
+
+1
+
+Pikoʻele
+
+1
+
+1
+
+liʻi
+
+1
+
+1
+
+Piko-nui
+
+1
+
+1
+
+1
+
+1
+
+Pilimai
+
+1
+
+1
+
+nui / mani /
+maui / mau
+
+Pipiko
+
+1
+
+1
+
+iʻa*
+
+1
+
+1
+
+Pōhina
+
+1
+
+1
+
+[maoli]
+
+0
+
+0
+
+Poi pulana* /
+P. pulaua*
+
+1
+
+1
+
+ʻāhiu
+
+1
+
+1
+
+ʻāniholoa
+
+1
+
+1
+
+Pololū
+
+1
+
+1
+
+kūmū
+
+0
+
+0
+
+[maoli]
+
+0
+
+1
+
+moano
+
+1
+
+0
+
+ʻeleʻele /
+uliuli
+
+1
+
+1
+
+poni
+
+0
+
+0
+
+kea
+
+1
+
+1
+
+uahi-a-pele
+
+0
+
+1
+
+mana
+
+1
+
+1
+
+ʻŪlei
+
+1
+
+1
+
+ʻulaʻula
+
+0
+
+1
+
+Uli / Uliuli
+
+0
+
+1
+
+Poʻo hunue*
+[honua]
+
+0
+
+1
+
+ʻUme / ʻUmi /
+ʻUmiʻumi
+
+1
+
+1
+
+Pōpolo
+
+0
+
+1
+
+Uwauwahi
+
+0
+
+1
+
+Pua kawaihae
+
+1
+
+1
+
+Waʻe
+
+0
+
+0
+
+Puakai mikomiko
+
+1
+
+1
+
+Waiākea
+
+1
+
+1
+
+[maoli]
+
+0
+
+1
+
+Waiʻanae
+
+1
+
+1
+
+hālenalena
+
+1
+
+1
+
+Waiānuenue
+
+1
+
+1
+
+keʻokeʻo
+
+1
+
+1
+
+Wailana
+
+1
+
+1
+
+Puhi
+
+1
+
+1
+
+[maoli]
+
+0
+
+1
+
+Pulani*
+
+1
+
+1
+
+ʻōniʻoniʻo
+
+1
+
+1
+
+Puʻu
+
+1
+
+1
+
+uliuli
+
+1
+
+1
+
+Puʻu kōnane
+
+1
+
+1
+
+1
+
+1
+
+Puʻu nānā
+
+1
+
+1
+
+Puwalu/Pualu
+
+1
+
+1
+
+[maoli]
+
+1
+
+1
+
+ʻulaʻula
+
+1
+
+1
+
+Piʻikea
+Piko
+
+Poni
+
+Pueo
+
+U(w)ahi-a-pele
+
+ʻUlaʻula
+
+Wehiwa / Wehewa
+/ Wewehiwa
+Welehu
+Welowelolā
+Weo
+
+0
+
+1
+
+[maoli]
+
+0
+
+1
+
+black [sic]
+
+1
+
+1
+
+red [sic]
+
+1
+
+1
+
+1
+
+1
+
+Wewemana
+
+www.ethnobotanyjournal.org/vol10/i1547-3465-10-423.pdf
+
+Winter - Kalo [Hawaiian Taro, Colocasia esculenta (L.) Schott] Varieties:
+An assessment of nomenclatural synonymy and biodiversity
+Species (Group)
+Name
+
+Subspecies
+Epithet
+
+Cons.
+
+Estimate
+Lib.
+
+Species (Group)
+Name
+
+Wia
+
+1
+
+1
+
+Total
+
+Wolu
+
+1
+
+1
+
+Subspecies
+Epithet
+
+www.ethnobotanyjournal.org/vol10/i1547-3465-10-423.pdf
+
+447
+
+Estimate
+Cons.
+
+Lib.
+
+368
+
+482
+
+448
+
+Ethnobotany Research & Applications
+
+www.ethnobotanyjournal.org/vol10/i1547-3465-10-423.pdf
+
+View publication stats
+
+
