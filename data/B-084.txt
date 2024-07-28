@@ -1,0 +1,4362 @@
+HAWAII AGRICULTURAL EXPERIMENT STATION
+of the
+UNIVERSITY OF HAWAll
+
+BULLETIN No. 84
+
+TARO VARIETIES IN
+HAWAII
+by
+LEO D. WHITNEY, Assistant Agronomist
+
+F. A. 1. BOWERS, Principal Agricultural Aide
+M. TAKAHASHI, Junior Agronomist
+
+CONTENTS
+PAGE
+
+5
+
+Introduction
+Historical Review
+
+6
+
+Botany
+
+7
+
+Present Investigation
+
+9
+
+Key to Taro Varieties
+
+14
+
+Descriptions of Classified Varieties
+
+19
+
+Descriptions of Unclassified Varieties
+
+65
+
+Appendix
+
+71
+
+Finding Lists
+
+,
+
+73
+
+Illustrated Glossary of Botanical Terms
+
+79
+
+Glossary of Hawaiian Terms
+
+81
+
+Literature Cited
+
+83
+
+Index
+
+85
+
+4
+
+5
+
+INTRODUCTION
+Taro, one of the oldest cultivated crops in the world, has long
+been a staple food of the natives of all the Polynesian islands as
+well as in the West Indies and the Orient. Since taro is propagated
+almost exclusively by vegetative means, each locality has tended to
+perpetuate its own forms, or "horticultural varieties."l Some of
+these forms have remained localized; others have spread, and many
+of them have been given new names. In the past, the valuation of
+the various taros in Hawaii has been based on their quality as
+cooked table taro or for making poi. A few are raised primarily for
+their leaves, used for luau,2 and the old Hawaiians had varieties for
+medicinal purposes and for offerings to the gods. The two types of
+taro culture common in Hawaii have formed another basis for segre­
+gating varieties: wetland varieties (submerged culture), all of which
+are good for poi; and upland varieties (nonsuhmerged culture),
+which are used primarily as table taro, only a few of them being
+suitable for poi.
+Within recent years, numerous scientific investigations (6, 10)3
+have indicated the superiority of taro over other starchy crops (par­
+ticularly polished rice) which are staple foods in the Pacific regions.
+The emphasis on this fact by local physicians and nutritionists has
+led to an increased demand for taro and a new interest in the cultiva­
+tion of the crop. With commercial development, a need has arisen
+for varieties particularly adapted to the production of taro flour,
+beverage powders, and other dried taro products.
+In addition, the problems involved in wetland culture-particu­
+larly the menace of disease-and the necessity of extending plant­
+ings by utilizing new lands have made important the selection of
+varieties which will grow well in the moist, cool uplands.
+Experiments have recently been conducted by this station on selec­
+tion and development of desirable varieties through cross-pollination
+(4, 7) as well as through natural vegetative mutation (4). Systematic
+work along these lines must, however, be preceded by a classification
+of the many varieties present in Hawaii. In 1914, MacCaughey and
+Emerson (8) listed about 300 varietal names of taro in Hawaii,
+1 The
+
+term "variety" will be used througbout tbis bulletin to signify "horticultural
+
+variety.u
+
+• For do/inition of Hawaiian expressions (italic) used throughout this bulletin, see p. 81.
+• Reference is made by number (italic) to Literature Cited, p. 83.
+
+6
+
+Bulletin 84, Hawaii Experitl'tent Station
+
+approximately half of which they estimated to be synonyms. The
+confusion which has resulted from the large number of varieties and
+synonymous names has made evident the 'need of a taxonomic key
+for grouping and describing the taros in terms of their distinguishing
+characters. The present study includes such a key, on the basis of
+vegetative characters, and descriptions of the varieties which the
+writers have been able to find in Hawaii, with all available information
+as to origin, distribution, and use.
+HISTORICAL REVIEW
+
+Taro was mentioned in Chinese books as early as 100 B.C. It
+was evidently thriving in Egypt at the beginning of the Christian
+era, as Pliny (23-79 A.D.) refers to it as one of the established food
+plants of the country. The accounts of the early European navi­
+gators tell of the cultivation of this crop in Japan and the western
+Pacific islands as far south as New Zealand. Taro has long been
+intimately identified with the south Pacific islands, but nowhere has
+it attained so much importance as in the Hawaiian group.
+Like other food crops with wide distribution, the plant has been
+known by various names in different parts of the world. European
+botanists first knew it in Egypt under the name culcas, and it was
+thought to have been introduced from India or Ceylon. In Ceylon the
+wild plant is named gahala. The Malay names are kelady, tallies, or
+laloes, from which may come the better-known Polynesian names­
+tallo, tarro, or darro in Fiji, ta' 0 in the Marquesas, tala in Samoa, and
+taro or kalo in Hawaii, Tahiti, the Cook Islands, and New Zealand.
+The Philippine name is gam. The plant is known in various parts of
+the West Indies as eddo, coco, and 11wlanga,o one of the East African
+names is malombo,o the Japanese call it intO.
+The numerous varieties found in Hawaii today seem conclusive
+evidence that taro has been cultivated in these islands for many cen­
+turies. When white men first came, in the latter part of the eight­
+eenth century, taro was flourishing. As the "staff of life" of the
+early Hawaiians, it was no doubt taken with them as they moved
+from place to place. It is assumed that taro was brought by the
+first Polynesians who migrated to Hawaii, and some ethnologists
+feel that the study of this crop may yield interesting clues as to the
+origin of the Hawaiian race. All through Hawaiian history is woven
+the story of taro: to no other plant is so much native sentiment
+attached.
+
+Taro Varieties in Hawaii
+
+7
+
+There are no authentic records as to the total acreage planted to
+taro in the early Hawaiian period or even during the past century.
+As one of the principal foods of an early population estimated at
+300,000 (3), the crop must have covered many thousands of acres.
+With the advent of other races, changes in modes of living, and the
+rapid dwindling of the native population, taro plantings have so
+decreased that the present estimate of commercial cultivation is only
+about 1,200 acres (9).
+In earlier days taro plantings in upland, nonirrigated areas were
+probably as important as in the low-lying, irrigated valleys. In the
+latter part of the last century, profound change took place in the
+growing and processing of taro. Soon after the heavy influx of
+immigrants from the Orient, the Chinese commercialized the mak­
+ing of poi and, not long thereafter, took up the growing of taro to
+a large extent. It was found that taro was weli adapted to the type
+of submerged culture used by the Chinese for rice, and commercial
+production became centered in low-lying, alluvial flats and small
+valleys where the land could be diked and running water led into the
+paddies.
+There remain, however, small taro patches tended by the old
+Ha~aiians. The favored locations are cool, moist uplands, where
+the taro edges the fresh waters of a spring or is planted in patches
+in very humid areas. In the commercial plantings only a few vari­
+eties are cultivated, and almost the entire crop is used for poi. In the
+upland patches are found many forms from the early Hawaiian
+period, each serving a special purpose. The different poi taros, table
+taros, luau taros (the leaves of which are used for greens), early- and
+late-maturing and drought-resistant taros, medicinal taros, and taros
+used for fishing and for various ceremonials are all represented.
+
+BOTANY
+Taro is a member of the Arum family, Araceae, which contains
+about 100 genera and 1,500 species, most of which are subtropical
+or tropical. They tend to be aquatic, but some are epiphytic. Among
+the more familiar plants in this family are the calla lily, the anthurium,
+and the ornamental caladiums.
+Taro belongs to the genus Colocasia, a word which has been
+connected through the Greek with the ancient Egyptian name of taro,
+culcas. The scientific name of taro is Colocasia esculenta (L.) Schott.
+
+8
+
+Bltlletl~1t 84} Hawa.ii Experil1tent Station
+
+All of the numerous and diverse types of cultivated taros seem to be
+varieties or forms of the one species.! The many forms of dasheens
+are also included in this species, under the botanical variety globuli­
+fcra; they have distinctive characteristics which set them apart from
+the other taros. Following is a taxonomic description of taro:
+Extremely variable, succulent, glabrous herb, 4 to 18 dm. tall. Stem a sub­
+terranean corm with scaly outer bark and thin, usually highly colored cortex,
+single or branching from the apex, with conspicuous leaf-scar rings, producing
+cormels (aha) or rhizomes as offshoots. Petioles 4 to 18 dm. long, erect or
+spreading, sheathing at base with sinus to about midway, uniformly light or dark
+green to variously highly colored, striped, or flecked. Blades 25 to 85 cm. long,
+20 to 60 cm. wide, usually peltate, ovate to more or less sagittate, the apex acu­
+minate, a dark-colored spot known as pika on the upper surface at the point of
+junction with petiole. Inflorescences 2 to 5 together in the leafaxils, the peduncles
+15 to 50 cm. long, each spadix enclosed within a spathe. Spathes oblong-Ianceolate,
+divided by a transverse constriction into two unequal parts, the lower part
+3 to 5 cm. long, loosely or tightly convolute, more or less fleshy, tubular, the
+upper part 15 to 35 cm. long, usually tightly but sometimes loosely convolute,
+lanceolate. Spadix 6 to 14 cm. long, with female flowers at the base, consisting
+of a few obovoid or ellipsoid ovaries 0.5 to 1.5 mm. in diameter, the stigma
+sessile, capitate ; constricted above the female flowers and beset over a length of
+2 to 5 cm. with light yellow sterile flowers; above the sterile flowers and over a
+Icngth of 2 to 4 CIII. beset with male·f1owers ,consisting of 2 to 6 sessile anthers
+which are fused into an obconical synandrium; with yellow constricted, obtuse
+or acute sterile appendage at apex. Fruit a berry, 3 to 5 mm. across, ellipsoid.
+Sced 1.2 to 1.5 mm. long, 0.7 to 1 mm. wide, hard, ovoid.
+
+The taros are closely related to the yautias, or taniers (Xantho­
+soma spp.), and the alocasias (Alocasia spp.), as well as to the
+dasheens. In the literature dealing with the edible aroids, there has
+been considerable confusion in the identification of these groups. As
+far as the writers can determine, there is no apparent difference
+between the taros and dasheens in morphology of the petioles and
+blades. Except for the Pika taros, all forms of both have peltate
+leaves. The corms of the dasheens can be stored for 2 to 6 1110nths
+after harvesting without appreciable deterioration in quality whereas
+the Polynesian taros almost invariably rot or become inedible within
+1 Eight botanical varieties-nearly all of them considered as distinct species at times in
+the past--of Colocasia escu/cnta, besides the variety typica, have recently been published (5).
+They arc as follows:
+var. ny",phaeifolia (Vent.) A. F. Hill comb. nov.
+var. globll/ifera (Eng!. & Krause) Young.
+var. aquati/is Hasskar!.
+var. acris (R. Dr.) A. F. Hill com". nov.
+,·ar. antiquor ..", (Schott) Hubbard & Rehder.
+var. eltcltlora (C. Koch & Sella) A. F. Hill com". nov.
+var. fontanesii (Schott) A. F. Hill comb. nov.
+var. illustris (Dull) A. F. Hill comb. nov.
+
+Ta1'o Varieties in Hawaii
+
+9
+
+a month after harvesting. The corm texture of the two groups is
+distinctly different: dasheens have crisp texture and are easy to
+cut; the taros, on the other hand, have a somewhat tough, spongy
+texture with numerous fibers. Corms of dasheens cannot be made
+into poi; they bec~me mealy and flaky rather than viscous during
+the poi-making process. Dasheens almost invariably produce greater
+numbers of oha, and as 'many as six successive generations may be
+found in a single mature hill 8 months old. In these respects, the three
+Japanese taros growing in Hawaii (Alwdo, Tsurulloko, and Miyako)
+and one variety of unknown origin (Iliuaua) more closely resemble
+the dasheens than the native taros. Barrett (1) calls the dasheens
+"tuberous-rooted taros, usually of dwarfish habit."
+Yautias are differentiated from the dasheens and taros in several
+respects. The yautias, in general, make ranker growth, the plants
+are thicker-set, and the parent plants live longer than either the
+taros or dasheens. The sinus between the basal lobes of the leaf is
+always clearly cut to the petiole, as in the Piko group of taros, and,
+in the yautias, the primary veins of the basal lobes are exposed
+dire"ctly to the sinus for a distance of about one-fourth to one-half
+inch from the piko. The petioles of the yautias are nearly always
+covered with a certain amount of bloom, while the taros and dasheens
+are without this bloom. Except for two varieties (Tsurulloko and
+Iliuaua) , the edges of the taro petiole are more or less convergent
+along the groove or sinus except at the portion clasping the younger
+petioles, while those of the yautias are distinctly divergent. The
+starch grains of yautias are many times larger than those of taros
+or dasheens.
+PRESENT INVESTIGAnON
+SOURCES OF MATERIALS
+
+Collections of taro varieties in Hawaii have been made from
+time to time by various individuals and institutions. Since mainte­
+nance of taro involves considerable care, frequent replantings, and
+changes in location to reduce losses by disease, nursery collections
+have not been consistently maintained. With the waning in impor­
+tance and diversity of uses of taro, nursery collections have de­
+creased in size and number, and some of the rarer varieties have
+gone out of existence. Others are to be found only occasionally,
+usually as mixtures with the more common forms. The lesser-known
+
+10
+
+Bulletin 84, Hawaii Experiment Station
+
+varieties are mostly in rem?te horne plantings of the old Hawaiians
+or growing wild in the wooded uplands and moist valleys.
+In the present investigation every known source of material was
+used. Upland varieties were collected chiefly from the districts of
+Kona, Puna, and Honokaa on the island of Hawaii, and Makawao,
+Keanae, and Olowalu, on Maui. The commercial wetland areas,
+principally on Oahu and Maui, were surveyed, and plants showing
+distinct morphological differences were secured. Through the cour­
+tesy of E. S. C. Handy of the Bishop Museum, a collection of 86
+varieties was received in 1934-35. Twenty-five of these were new
+additions to the station nursery; the remainder were either duplica­
+tions or synonyms. Sixteen varieties of South Sea taros, collected
+by G. P. Wilder during an extended exploration of that area in 1927,
+were received in 1928. From all sources a little over 200 accessions
+were made. This number was reduced to 84 distinct forms, including
+69 native varieties, 10 from the South Seas, 3 Japanese, 1 Chinese,
+and 1 of unknown but presumably Asiatic origin. Only 74 varieties
+have persisted in the station collection until the completion of the
+study.
+Reference to the previously cited list of varieties compiled by
+MacCaughey and Emerson makes evident the fact that many are
+missing from the present collection. Accepting their estimate of
+about 50 percent synonymy among the 300 varietal names listed, the
+old Hawaiian recognized 150 to 175 distinguishable forms. Because
+of vague, fragmentary, and often contradictory descriptions, it is
+not always possible to determine when synonymy occurs in the list.
+However, there is ample evidence that many varieties have become
+extinct or at least do not exist in present collections or cultivated
+areas. For example, the 25 group names listed were all recognized
+by old Hawaiians; in the station collection, only 8 groups are found ..
+Groups occurring in their list with as many as five varieties are now
+represented by a single form-they list five forms of Piialii and
+five of Apuwai whereas only one of each is now available. These were
+important groups and the uses of the different forms were apparently
+well known. In other groups, such as Ahe, Eulu, and Lau, none of the
+varieties has been found.
+With the development of a system of classification, further col­
+lections and identifications will be greatly simplified, and a resurvey
+of the areas already covered as well as long-abandoned sections may
+
+Taro Varieties in Hawaii
+
+11
+
+disclose other varieties. The present collection, however, undoubt­
+edly represents most if not all of the varieties now under active
+cultivation.
+MORPHOLOGICAL CHARACTERS DESCRIBED
+
+Before attempting to set up a system of classification, a careful
+description was made of specimens of each variety grown at the
+Pensacola Branch Station for from one to three generations. After
+each harvest, those forms showing marked similarity were grouped
+together, and in cases of suspected synonymy the forms were grown
+side by side and carefully checked before eliminations were made.
+The following data, when available, were taken on from 5 to 50
+plants of each horticultural variety:
+General characters: Height, position, rigidity, maturity, repro­
+duction, and distinguishing characters.
+Petiole: Length and coloring, including special markings through­
+out, at the edge, the apex, and the base.
+Leaf blade: Size, shape, texture, color, and special characteristics
+of pika, veins, margins, lobes, and sinus.
+"Corm: Color of flesh, fibers, and skin.
+Inflorescence: Length, coloring, and shape of peduncle, spathe,
+spadix, and sterile appendage.
+A key has been prepared which classifies only the 74 varieties
+which have persisted in the station collection. The 10 varieties
+which have not been continuously propagated are described from
+previously recorded data but, due to inability to check distinguish­
+ing characters, are not classified.
+Since many varieties of taro seldom, if ever, produce inflorescences,
+the classification system is based on vegetative characters. Marked
+changes occur in the plant during its growth, especially as regards
+quantitative characters. The succeeding leaves and petioles increase
+in size to a maximum which occurs about 6 months after planting;
+from this stage to full maturity they decrease markedly. In addition,
+the color and markings of petioles and of corm flesh, the develop­
+ment of aha and rhizomes, and branching of corms depend upon
+stage of maturity to some extent. Extremes of fertility, moisture,
+and sunlight affect both quantitative and qualitative characters. It
+is important that observations and measurements be made on plants
+grown under normal conditions and not far removed from the period
+
+12
+
+Bulletin 84, Hawaii Experiment Station
+
+of maximum top growth. Depending somewhat on growing condi­
+tions and the variety of taro, this period would generally range
+between 4 and 8 months of age. The taro plant is very succulent
+and loses its turgor soon after being pulled. Observations should,
+therefore, be made in the field as to open or upright position of
+petioles, texture, surface characteristics, and position of leaf blades.
+The key for the classification of taro is admittedly open to criti­
+cism from many standpoints. In any vegetative key exact measure­
+mcnts, although helpful, are not reliable; this is particularly true of
+taro with its distinct cyclic growth. Color is, likewise, a somewhat
+variable attribute, but by and large it is the most stable of the char­
+acters used in the key. The characters used for subdivisions often
+group varieties which have little else in common. Such imperfec­
+tions in a system of classification are not limited to taro-they occur
+with most plants in which a large number of forms or varieties have
+developed through vegetative propagation. In this category may be
+listed the sweetpotato, sugarcane, and banana.
+Despite the obvious limitations, it is believed that the key as
+worked out is a distinct advance over previous attempts to list and
+describe large numbers of taro varieties with no grouping of related
+varieties or elimination of synonyms.
+SYSTEM OF NOMENCLATURE
+
+The old Hawaiian was an unusually keen observer of nature.
+He quickly noted small differences between plant forms, and there
+are few species which have existed in Hawaii for any appreciable
+length of time which do not have Hawaiian names. This is particu­
+larly true with respect to varieties of taro. In general, the names
+pertain to some obvious growth feature, a special use, or a specific
+locality. That the Hawaiian recognized definite groupings of vari­
+eties is also evident from the names.
+In the system of classification herein used, it has been found
+possible to maintain, to a large extent, the groupings used by the
+Hawaiians. With few exceptions, the variety names have been re':'
+tained, and from them considerable information can often be obtained
+as to origin, use, or growth characters. Such groupings as Mana and
+Pilw were based on very obvious and constant charactcrs which aid
+materially in identifying the varieties.
+In order to retain the Hawaiian nomenclature to the maximum
+
+Taro Varieties in Hawaii
+
+13
+
+and at the same time make evident the grouping, the following system
+has been adopted:
+A single-word name indicates that the variety does not belong to a
+recognized group; for example, Elepaio, Olle, and Akada.
+A binomial name has been used where the variety is included in a
+group, the first word being the group name and the seconu
+generally a descriptive word. Thus, in Pilw Eleele, Pika indi­
+cates that the variety belongs to the group having the sinus cut
+to the piko; and Eleele is the descriptive name. Pikoele, being
+a single name, indicates that the variety does not belong to the
+Piko group.
+'When a variety not belonging to any recognized group originally
+had a double name, the two words were hyphenated to indicate
+that the first was not a group name-as in KuJ1tu-eleele.
+Occasionally a variety within a group had a three-word name. To
+maintain the binomial system, the last two words were hyphen­
+ated-as in Lauloa Palakea-keokeo.
+In giving the names of varieties, it is customary to consiuer
+priority of nomenclature, but this has not been possible in some
+instances. Where synonymy has been definitely established for two
+or more varietal names, the one in most general use was adopted and
+the others were listed as synonyms. In a few cases, a group name
+was placed before the common name to indicate that the variety
+possessed the group attributes. The varieties introduced recently
+from the South Seas were usually given the names of their places of
+origin; for a few forms entirely new Hawaiian names have been
+adopted.
+
+14
+
+KEY TO TARO VARIETIES
+Parent corms small (usually less than 10 em. in diameter), producing
+numerous oha (rarely less than 20) which seldom develop shoots
+until the plants are mature (Japanese varieties).
+b Petiole sinus divergent
+1. Tsurunoko
+bb Petiole sinus not divergent.
+c Petioles greenish-bronze shading into reddish-purple at apex and
+2. Akado
+base
+cc Petioles dark green, slightly diffused with reddish-brown at apex
+3. Miyako
+and near base, light pink at base
+aa Parent corms not small, producing fewer oha.
+b Parent corms large (usually over 15 em. in diameter) ; petiole sinus
+conspicuously divergent
+4. Iliuaua
+bb Parent corms intermediate in size (usually from 10 to 15 cm. in
+diameter) ; petiole sinus not divergent.
+c Corms with conspicuous purple fibers in white flesh
+S. Bun-long
+cc Corms without purple fibers in white flesh (Polynesian varieties).
+d Parent corms producing rhizomes.
+e Rhizomes long (10 to 70 cm.), slender
+6. Aweu
+ee Rhizomes short (6 to 15 cm.), thick.
+7. Kakakura-ula
+dd Parent corms not producing rhizomes.
+e Parent corms branching at apex (Group Mana).
+f Corm flesh yellow.
+g Petioles pink or reddish at base.
+h Young petioles pink throughout, at maturity yellowish­
+green except at base
+8. Mana Ulu
+hh P~tioles chiefly pale green, prominently flecked with
+reddish-brown or purplish, especially near base
+............................................................................9. Mana Opelu
+gg Petioles white at base.
+11 Petioles dark green with conspicuous, broad blackish
+edges
+10. Mana Weo
+"" Petioles dark green with broad pinkish edges.. ll. Mana UUuli
+f f Corm flesh whitish tinged with pink at apex or chalky white.
+g Corm flesh whitish tinged with pink at apex; petioles
+tinged or flecked with purple.
+h Petioles flecked with purplish-red, almost lacking in
+green
+12. Mana Ulaula
+"" Petioles dark green tinged with brownish-purple, dark
+13. Mana Lauloa
+brownish-purple on basal third
+gg Corm flesh chalky white; petioles chiefly green.
+h Petioles dark green with distinct pinkish-red edges
+......................................................................14. Mana Keokeo
+/all Petioles pale green, pink at edges
+1S. Mana Kukuluhema
+(J
+
+Taro Varieties in Hawaii
+
+15
+
+ee Parent corms not branching at apex.
+
+f Blades with sinus cut to the petioles; petioles with conspicuous ridge
+above sinus (Group Pika).
+g Corm flesh lilac-purple.
+
+h Blades with outgrowths of dark, crinkled tissue on lower surface
+..................................................................................16. Piko Lehua-apei
+hh Blades without outgrowths of crinkled tissue
+17. Piko Ulaula
+gg Corm flesh whitish.
+h Petioles light green, usually with dark green blotches adjacent
+to edges.
+i Petioles pink at base
+18. Piko Kea
+ii Petioles white at base
+19. Piko Keokeo
+hh Petioles dark green or reddish-brown to purplish.
+i Petioles dark green.
+j Petioles pink at base....................................•................... 20. Piko Uaua
+j j Petioles white at base
+21. Piko Uliuli
+ii Petioles reddish-brown to purplish, especially on lower half
+......................................................................................22. Piko Eleele
+f f Blades not cut to the piko; petioles without conspicuous ridge above
+smus.
+g Blades distinctly variegated.
+h Blades mottled over entire surface.
+i Blades mottled green and white
+23. Elepaio
+ii Blades mottled green and purple
+24. Uahiapele
+hh Blades with purplish-black splotching around piko, running into
+primary veins.
+Petioles dark green with distinct whitish edges
+2S. Manapiko
+u Petioles yellowish-green with indistinct pinkish to whitish
+26. Tahitian
+edges
+gg Blades not distinctly variegated.
+h Blades concave and pendant, the margins with numerous fine
+undulations; petioles slender, widely spreading (Group Kai)l
+i Petioles diffused with light reddish-brown
+27. Kai Uliuli
+u Petioles light yellowish-green to whitish.
+j Petioles white at base
+28. Kai Ala
+j j Petioles pink at base
+29. Kai Kea
+hh Blades and petioles not combining all of the above characters.
+i Petioles short, usually less than one and one-half times the
+width of the blades.
+j Blades cup-shaped and crinkled.
+k Blades conspicuously cup-shaped; piko noticeably de­
+pressed
+30. Apuwai
+kk Blades only slightly cup-shaped.
+1 The Kai group may readily be identified in the field, although it is difficult to evaluate
+the distinguishing vegetative characters. Probably tbe slenderness of the petioles, which
+causes them to curve perceptibly, and the pendant position of the leaf blades give the group
+its characteristic appearance.
+
+16
+
+Bulletin 84, Hawa,ii Experiment Station
+I Corm flesh white
+II Corm flesh lilac-purple
+
+31. Apu
+32. Piialii
+
+J J Blades crinkled but not cup-shaped.
+
+k Petioles very dark green with distinct, narrow reddish edges 33. Paakai
+. kk Petioles light green with inconspicuous, light greenish edges 34. Moana
+11 Petioles not short, usually more than one and one-half times the width
+of the blades.
+J Petioles tall, usually more than three times the width of the blades.
+Il Blades conspicuously concave; lobes overlapping
+35. Akuugawai
+I,ll Blades slightly concave; margins with a few large undulations
+(Group LaItIoa).
+Petioles purplish-black or dark green suffused with purplish­
+black almost throughout.
+111 Petioles purplish-black throughout.
+n Petioles with greenish edges
+36. Lauioa Eleele-omao
+1111 Petioles with pinkish edges
+37. Lauloa Eleele-uta
+1II11l Petioles dark green heavily suffused with purplish-black.
+n Petioles white at base.
+o Petioles with blackish edges
+38. Lauloa Palakea-eleele
+00 Petioles with reddish-pink to almost whitish edges..........
+............................................................39. Lauloa Palakea-ula
+1111 Petioles pink at base
+.40. Lauloa Palakea-papamu
+II Petioles not purplish-black or heavily suffused with purplish­
+black.
+til Petioles dark green with needle-like black streaks
+.
+............................................................41. Lauloa Palakea-keokeo
+1/l1ll Petioles medium green tinged with reddish-purple at apex....
+............................................................................42. Lauloa Keokeo
+j j Petioles intermediate in height, usually from two to two and one-half
+times the width of the blades.
+k Petioles highly colored over three-fourths their length.
+I Petioles with blackish hue.
+111 Corm flesh lilac-purple (Group Eleele).
+Il Petioles with narrow reddish edges
+.43. Eleele Makoko
+1111 Petioles with narrow brownish to greenish edges
+.
+............................................................................44. Eleele Naioea
+II1I1l Corm flesh white.
+11 Petioles with inconspicuous yellowish-green to light pinkish
+45. Manini-owali
+stripes
+nn Petioles without stripes.
+o Petioles blackish almost throughout with indistinct edges
+.......................................................................... 46. Kumu-eleele
+00 Petioles purplish-black shading into yellowish-green at
+apex, red at edges
+,47. Nawao
+
+:ig-. 2.-Types of leaf hlades-Upper left: Sag-ittatc leaf hlade of Malla/>i!.·{).
+with narrow sinlls and splotched pilm; upper right: Narrowly sagittate leaf
+hlade of Malia Ulillii; lower left: Broadly ovate leaf blade of Ilil/alla, with
+shallow wide sinus; lower right: Ovate leaf blade of Uiallla KIUlHI.
+
+l'ig. 2.-Types of leaf blades (continued)-Upper leit: Narrowly sagittate leai
+blade of l,illIloa Palahl'a-papalllll. with a few large undulations; upper right:
+Sagittate leaf blade of a yautia variety, with the characteristic Y -shaped
+sinus; lower left: Sagittate leaf blade of I.chlla Mao/i .. lower right: Ovate
+leaf blade of Pilw Ufill/i, with sinus cut to the pilw.
+
+Ta.ro Varieties in Hawaii
+
+17
+
+II Petioles with reddish hue.
+m Petioles pink at base (Group Ulaula).
+Il Petioles brilliant light red
+.4!!. Ulaula Kumu
+1lI~ Petioles deeper red, with inconspicuous stripes.
+a Petioles dark reddish-purple with lighter red stripes
+.
+....................................................................................49. Ulaula Poni
+00 Petioles red to reddish-purple with yellowish-green stripes....
+................................................................................50. Ulaula Moano
+111m Petioles white at base
+51. Niue-ulaula
+H Petioles not highly colored over three-fourths their length.
+l Petioles prominently striped or streaked.
+111 Petioles with green and highly colored stripes or streaks.
+n Petioles green with reddish-purple or purplish-black stripes.
+a Corm flesh lilac-purple
+52. Oopukai
+00 Corm flesh white (Group M anini).
+p Petioles dark green with broad purplish-black stripes,
+especially near base
+53. Manini Uliuli
+pp Petioles light green with narrow stripes.
+q Petioles with interrupted reddish-purple stripes, more
+prominent toward base
+54. Manini Kca
+qq Petioles with profuse purplish-black stripes
+.
+..................................................................55. Manini Toretore
+m~ Petioles streaked with pink or red and green on certain portions
+only.
+a Petioles dark green brilliantly streaked with red at apex and
+at base
+56. Papakolea-koae
+00 Petioles nearly solid pink at base with narrow green stripes,
+green above
+57. Ula
+111m Petioles with light and dark green stripes.
+1~ Petioles conspicuously purplish-black at edges
+S8. Nihopuu
+1lI~ Petioles light pinkish at edges.
+a Petioles strongly tinged with reddish-purple on upper third
+................................................................................ 59. Manini-opelu
+00 Petioles only slightly tinged with purple on upper half..60. Hinupuaa
+II Petioles not prominently striped or streaked.
+III Petioles colored over about half of length.
+n Petioles dark green shaded with reddish-brown, purplish at
+apex
+61. Niue-uliuli
+111I Petioles light green tinged with reddish-brown on lower half..62. Ohe
+111m Petioles predominantly green.
+n Corm flesh lilac-purple (Group Lehua).
+a Petioles spreading, light green.
+p Petioles with pinkish-lilac edges
+63. Lehua Maoli
+pp Petioles with broad purplish-black edges
+64. LellUa Keokeo
+
+18
+
+Bulletin 84, Hawaii Experiment Station
+
+Petioles erect, dark green.
+p Petioles with narrow, dark reddish to purplish-black edges
+.
+.............................................................................................65. Lehua Eleele
+pp Petioles with indistinct reddish to whitish edges
+66. Lehua Palaii
+,m Corm flesh white.
+o Petioles pink at base.
+p Petioles with flecking near base.
+q Petioles flecked with light reddish-brown near base, greenish to
+light purplish near apex
+67. Apowale
+qq Petioles with dark purplish tinge on lower third, with dark
+reddish-brown flecks ncar base, reddish at point of attach­
+ment to leaf blade
+68. Wehiwa
+pp Petioles without flecking.
+q Petioles with distinct, broad whitish edges
+69. Papapueo
+qq Petioles with indistinct, narrow pink edges
+70. Kuoho
+00 Petioles white at base.
+p Petioles with flecking near base.
+q Petioles with yellowish-green blotches adjacent to narrow red­
+71. Leo
+dish edges
+qq Petioles with conspicuous, broad whitish edges
+12. Maea
+f>P Petioles practically self-green.
+q Petioles erect; blades ovate
+73. Haokea
+qq Petioles spreading; blades sagittate
+74. Kalalau
+00
+
+19
+
+DESCRIPTIONS OF CLASSIFIED
+VARIETIES
+
+20
+
+21
+
+DESCRIPTIONS OF CLASSIFIED VARIETIES
+
+JAPANESE VARIETIES
+The Japanese taros are probably of Asiatic origin, having been
+introduced, presumably during the latter part of the last century, by
+early immigrants from Japan. They are characterized by symmet­
+rically ovoid corms which produce as many as 20 or more cormels,
+or aha. The aha begin to develop early in the life of the mother plant,
+several generations having developed by the time the plant is mature.
+Except for a few of the oldest ones, the cormels remain dormant,
+and these dormant cormels are marketed.
+The Japanese taros differ markedly from the Polynesian taros,
+more closely resembling the dasheens. They are generally more
+hardy and disease-resistant, earlier maturing, and heavier yielding;
+yields of 15 to 20 tons per acre of salable cormels in 6 to 10 months
+are not unusual. They have better keeping qualities, remaining in
+excellent condition after 2 or more months of storage. Japanese
+taros are grown almost entirely under non submerged culture, but
+they are usually irrigated. The dormant aha are used for planting
+material whereas with the Polynesian varieties the huli are used almost
+exclusively.
+The Japanese varieties are not adapted to poi making but are
+used almost entirely as table taro. The plant is usually less acrid l
+than the Polynesian taros, and the petioles of the young leaves are
+often cooked as a vegetable.
+There are three Japanese varieties in the Territory.
+
+1. Tsurunoko
+(Aminto)
+General characteristics: Short, spreading, moderately stocky, often maturing
+within 6 months, producing as many as 40 olla, mostly dormant; distinguished
+by light green petioles and divergent petiole sinus.
+Petiole: 55 to 80 cm. long, light green with slight light brown flecking near base,
+white to greenish-white at base, reddishApurple at apex, with inconspicuous
+reddish edge; sinus widely divergent.
+Leaf blade: 35 to 50 cm. long, 25 to 40 cm. wide, 30 to 45 cm. from tip to base
+of sinus, narrowly ovate, firm-chartaceous, light green with bluish cast;
+margins finely undulate, the marginal veins often purplish; piko yellowish
+to light purple; lobes obtuse to slightly acute with shallow, wide sinus.
+1 All parts of tbe taro plant contain small needle-like crystals of calcium oxalate which
+cause irritation of the tbroat unless thoroughly cooked. They occur to a marked degree in
+some varieties but to only a negligible extent in others.
+
+22
+
+Bulletin 84, Hawait: Experiment Station
+
+Corm: Flesh white with yellowish fibers; skin white; cormels about 3 to 5 cm.
+in diameter.
+Origin, and derivation of name: Probably native of Japan; TSltnmoko refers
+to the prolific production of aha.
+Distribution: Most important Japanese variety in Hawaii, grown throughout
+the islands, almost exclusively under upland culture by Japanese gardeners,
+usually under irrigation alongside other vegetable crops.
+Use: Mainly as table taro; to a certain extent for taro sprouts.
+Remarks: Parent corms are discarded because of their pronounced acridity. The
+aha are much smaller than those of the other Japanese varieties and are the
+only ones which cause irritation. They are pared under water to prevent
+itching hands. If the cormels develop top growth, they become acrid and
+are discarded. The popularity of this variety is due primarily to the excellent
+keeping quality.
+
+2. Akado
+(Ekaella)
+General characteristics: Medium in height to tall, stiffly erect, stocky, maturing
+within 10 months, producing more than 20 aha which remain dormant for
+several weeks; outstanding among the Japanese taros because of the vivid
+petiole coloring.
+Petiole: 60 to 90 cm. long, greenish-bronze shading into dark reddish-purple at
+base and apex, indistinctly edged, curved abruptly at apex so that blade
+hangs more or less vertically.
+Leaf blade: 40 to 55 cm. long, 30 to 40 cm. wide, 35 to 45 cm. from tip to base
+of sinus, broadly ovate, firm-chartaceous, dark green with bluish cast, often
+tinged with purple on lower surface when young, with conspicuous purple
+veins on lower surface; pika prominent, purple; lobes acute with shallow,
+wide sinus.
+Corm: Flesh white with yellowish fibers; skin purple; aha usually 4 to 6 cm. in
+diameter.
+Origin, and derivation of name: Probably native of Japan; called A lwdo
+because of coloring of petioles. Ekaeka, meaning "dirty reddish," is the
+name given by the Hawaiians, probably also referring to the petiole coloring.
+Distribution: Grown sparingly, almost entirely by Japanese gardeners in small
+patches, usually under upland culture.
+Use: Oha used principally as table taro; petiole stalks sometimes sold as greens;
+sprouts from small aha grown in darkness sold in limited amount.
+Remarks: The parent corms are edible but an aversion to them exists because
+of their extreme acridity. This variety is highly resistant to disease. It has
+the largest aha of the Japanese taros and probably has the best quality but
+is grown only to a limited extent because of its comparatively poor keeping
+quality.
+
+3. Miyako
+General characteristics: Short to medium in height, stiffly erect, moderately
+stocky, maturing in less than 10 1110nths, producing more than 20 aha
+
+Taro Varieties in Hawaii
+
+23
+
+which remain dormant for several weeks; distinguished by dark green
+petioles diffused with reddish brown.
+Petiole: 55 to 70 em. long, dark green slightly diffused with reddish-brown
+near base and at apex, reddish-brown at edge, a pink ring at base with
+paler pink for about 3 em. above, curved at apex so that blade hangs
+almost vertically.
+Leaf blade: 35 to 50 em. long, 25 to 35 em. wide, 30 to 40 em. from tip to base
+of sinus, ovate, firm-ehartaceous, dark green with bluish cast; pillO light
+to dark purple; lobes wide and obtuse with shallow, wide sinus.
+Corm: Flesh white with yellowish fibers; skin white; eormel about 4 to 6 em.
+in diameter.
+Origin, and derivation of name: Probably native of Japan; the derivation of
+the name is unknown.
+Distribution: Grown in limited amount throl1ghout islands, usually under
+upland culture.
+Use: Chiefly as table taro; stalks and sprouts excellent as greens.
+Remarks: Similar in quality and texture to Akado.
+
+4. Iliuaua
+(Palu)
+General characteristics: Medium in height to tall, well spreading, stocky,
+maturing within 9 to 12 months, producing from 5 to 10 olza which may
+remain dormant for several weeks; identified by exceedingly large leaf
+blades, very thick and firm in texture, and conspicuously divergent petiole
+sinus.
+Petiole: 80 to 100 em. long, light green shading to yellowish on upper third,
+usually brown or light reddish-purple at apcx, indistinctly reddish to
+whitish at edge, a pink ring at base with lighter pink for 3 to 5 em. above;
+sinus distinctly divergent.
+Leaf blade: 65 to 80 em. long, 45 to 60 em. wide, 55 to 70 em. from tip to base
+of sinus, broadly ovate, firm-chartaceous, drooping and often resting on
+the ground, light green; margins somewhat undulate; piko yellowish;
+veins brown or light reddish-purple on lower surface; lobes obtuse with
+shallow, very wide sinus.
+Corm: Very large, usually weighing over 2 pounds; flcsh white faintly tinged
+with pink, especially near the apex, the fibers yellowish; skin pale pink.
+Origin, and derivation of name: Unknown origin; it has been named lIillallo
+because of the firm tough leaf blades. In Kona, Hawaii, it is somctimes
+called Pake, which means "Chinese."
+Distribution: Limited; well adapted to upland culture.
+Use: Good table taro; the leaves are esteemed highly for luolt.
+Remarks: It is an outstandingly high yielding variety and is very hardy but
+because it cannot be made into poi, it is seldom grown. It is apparently
+more closely related to the Japanese varieties than the Polynesian vari­
+eties, especially as regards the corm characters.
+
+24
+
+Bulletin 84, Hawaii Experiment Station
+
+5. Bun-long
+(Bun-lang-woo, Chinese)
+General characteristics: Tall, well spreading, stocky, maturing within 9 to
+12 months, producing from 15 to 20 aha; identified by purple corm fibers.
+conspicuous against whitish corm flesh.
+Petiole: 75 to 110 em. long, dark green slightly tinged with reddish-purple
+on upper half, conspicuously purple at apex, indistinctly reddish at edge,
+usually an indistinct pinkish or purplish ring at base with white for 3 to
+4 em. above.
+Leaf blade: 50 to 60 em. long, 35 to 45 em. wide, 35 to 50 em. from tip to
+base of sinus, ovate, drooping, dark green; margins slightly undulate;
+pika large, purple; veins light purple on lower surface; lobes acute with
+shallow, narrow sinus.
+Corm: Flesh white with conspicuous purple fibers; skin cream-colored, occa­
+sionally purple along leaf-scar rings.
+Origin, and derivation of name: Introduced from China; the Chinese name
+has been retained.
+Distribution: Grown rather widely, primarily under wetland culture, but of
+little commercial importance.
+Use: At the present time a large part of the luau sold in the market comes
+from this variety. The young leaves are considered desirable for lflall
+because of their large size, tenderness, and comparative l1onacridity. The
+corms are used as a table taro.
+Remarks: This variety has the same corm coloring as Trinidad dasheen.
+
+RHIZOME- PRODUCING TARO VARIETIES
+
+There are two varieties in this category but, aside from the fact
+that both produce rhizomes, they are apparently not related. The
+rhizomes are short and thick in one variety' and long and slender in
+the other, but in either case the aha are produced by the parent corm
+at the end of uniform, horizontal, underground stems.
+In the short-rhizome variety, the rhizomes are 1 to 1.5 cm. in
+diameter and 6 to 15 cm. long; the long rhizomes are 15 to 70 cm.
+long but only 0.3 to 0.5 cm. in diameter.
+Commercially, these are the least important of all the taros.
+They are planted in small areas in only a few localities, as the rhi­
+zomes increase the difficulty of cultivation and harvesting without
+damage to the parent corm or aha. The parent corms are also usually
+smaller than in other Polynesian varieties.
+
+Taro Varieties in Hawaii
+
+25
+
+6. Aweu
+(Aweo, Aweoweo, Aweuweu, J.1amauweo, Maauweo)
+General characteristics: Medium in height to tall, moderately spreading,
+maturing within 9 to 12 months, producing from 10 to 15 long, slender
+rhizomes; distinguished by length of rhizomes.
+Petiole: 70 to 105 cm. long, light green often inconspicuously flecked with
+dark green near base, white at base, with narrow, light purplish to
+indistinct edge, curved sharply at apex so that blade hangs vertically.
+Leaf blade: 40 to 65 cm. long, 25 to 45 em. wide, 35 to 55 cm. from tip to base
+of sinus, narrowly ovate, thin in texture, light green; margins slightly
+undulate; pika greenish to faintly purple; lobes acute with shallow, narrow
+sinus.
+Corm: Flesh white with yellowish fibers; skin cream-colored, t1sually with
+pink or purple along leaf-scar rings, the outer skin shaggy and flbrolls.
+Origin, and derivation of name: Native variety; derives its name frolll
+shaggy outer skin of corm.
+Distribution: Formerly widely distributed in wild state, now scattered along
+streams and in forests in the mountains.
+Use: Good as poi, but not used at present because the corms are usually
+small; the leaves arc used for lllalt.
+Remarks: This variety was used by the old Hawaiians for poi only when
+other food was scarce. The corms are too acrid to be used as table taro
+unless cooked for a long time. Aweu is often called wild taro because
+of its frequent occurrence in the wild state. The rhizomes, sometimes as
+long as 70 cm., come so close to the surface that they appear like
+creeping stolons.
+
+7. Kakakura-ula
+(Kakakura)
+General characteristics: Medium in height to tall, moderately spreading,
+maturing within 9 to 12 months, producing very early from 6 to 12 short,
+thick rhizomes; distinguishable by brilliant reddish-purpl~ coloration
+overlying light and dark green striping on petioles.
+Petiole: 75 to 95 cm. long, dark and light green-striped with strong tinge of
+reddish-purple almost obscuring stripes, indistinctly edged, white at
+base, curved at apex so that blade hangs almost vertically.
+Leaf biade: 45 to 60 cm. long, 30 to 35 cm. wide, 35 to 50 em. from tip to
+base of sinus, sagittate, firm-chartaceous, dark green with bluish cast;
+veins reddish on lower surface; pika purple; lobes acute with shallow,
+wide sinus.
+Corm: Flesh white with yellowish fibers; skin cream-colored to white.
+Inflorescence: Peduncle striped pink and light brown; spathe 24 to 32 em.
+long, the lower tubular portion 4 to 5 cm. long, whitish, flecked or indis­
+tinctly striped with pink and light brown, with reddish-purple margins,
+the upper portion orange with reddish margins, abruptly acute at apex
+but loosely convolute below, sometimes open near constriction at
+
+26
+
+Bulletin 84, Hawaii Experiment Station
+
+maturity; spadix 9 to 11 cm. long, the sterile appendage 7 to 13 mm. long,
+noticeably constricted, conspicuously acute.
+Origin, and derivation of name: Introduced from South Seas; since four
+varieties were received under the name Kakakttra., the descriptive suffix
+"ula" has been added to indicate a red Kakakl/.Ya..
+Distribution: Limited; the variety has done well at Pensacola Street Sta­
+tion under upland culture.
+Use: Primarily as table taro.
+Remarks: This variety is one of the most beautiful of atl the taros. The
+predominating impression given by the plant is of the brilliant dark
+pinkish-red color; on closer examination almost every color of the
+rainbow may be found on the petiole. This taro might well be propa­
+gated as an ornamental plant.
+
+GROUP MANA
+
+The word mana means "branching" and refers to the habit of divi­
+sion of the parent corm, which is characteristic of this group. A single
+parent conn of Mana Uliuli may produce seven or more mana., or
+branches; the usual number for the other Mana is two or three.
+Branching takes place with most varieties only when the corms are
+fairly well matured; under some conditions of growth only a small
+percentage of the plants produce branches. Probably because of the
+branching habit, olza are produced sparingly and much later than in
+other taros.
+The petioles of the Mana are curved sharply at the apex, causing
+the blade to hang almost vertically. The blades are very narrow,
+and the primary veins are oblique, giving the impression that they
+are much more numerous than in the other groups although actually
+the number is practically the same in all taros. The coloring of the
+pi/co is also rather unusual in that color splotching extends along the
+midrib and the main veins of the basal lobes, forming a more or less
+distinct Y. The Mana are usually quite upright in growth, with rather
+stiffly erect petioles.
+The corms of the Mana taros have a somewhat dry, mealy, flaky
+texture when cooked. They are excellent as table taro but usually
+make very poor poi. The shape of the corms is irregular because
+of the branching. Most varieties are fairly heavy producers and
+mature comparatively early, in from 7 to 12 months.
+The M Gna are usually planted under upland culture. They are
+grown fairly extensively on the island of Hawaii, especially in Kana,
+Puna, and Kau. Mana Keokeo and MQ.11a Ulu are the two most
+popular varieties in this group.
+
+Taro Varieties in Hawaii
+
+27
+
+The Mana group is one of the largest; eight varIetIes are repre­
+sented in the station's plantings, and descriptions of at least two others
+have been recorded. Commercially, the group is not important since it
+is little used for poi, but it is probably the most popular taro for the
+home gardens because of its excellent quality as table taro. The]"'1 alU/.
+and the Lauloa taros are used in preference to all others for making
+the Hawaiian pudding liulolo} a conlbination of grated taro and coconut
+mille
+
+8. Mana Ulu
+(Mana Owene)
+General characteristics: Medium in height, slender, erect, maturing within
+7 to 12 months, producing two or three branches; distinguished by pinkish­
+rose color of petioles.
+Petiole: 50 to 85 cm. long, pink when young, changing to yellow-green except
+near base, with narrow, indistinct, light pinkish edge.
+Leaf blade: 30 to 50 cm. long, 20 to 30 cm. wide, 20 to 40 cm. from tip to
+base of sinus, sagittate, vertical, firm-chartaceous, dark green or with
+bluish cast; pilw pink or yellowish, the color extending into the main yeins
+of the lobes; lobes acute with deep sinus.
+Corm: Flesh yellow with light yellowish fibers; skin yellow.
+Origin, and derivation of name: Native variety; called Ulu because of the
+resemblance of the flesh of the corm to the poi made from breadfruit.
+Distribution: Found extensively under upland culture in Kona, Puna, and
+Kau, Hawaii; does well under wetland culture on Kauai.
+Use: Mainly as table taro.
+Remarks: The orange-yellow flesh of the cooked taro IS much more
+attractive than that of most varieties.
+
+9. Mana Opelu
+(Ala Pipika)
+General characteristics: Medium in height, erect, moderately stocky, matur­
+ing within 7 to 12 months, producing two or three branches; distin­
+guished by the yellow corm flesh and heavy reddish-brown flecking Oil
+the lower portion of the petiole.
+Petiole: 60 to 90 cm. long, pale green prominently flecked with reddish­
+brown to purplish on the lower portion, with fairly distinct broad pinkish
+edge, pale pink at base with white ring.
+Leaf blade: 20 to 50 cm. long, 20 to 30 cm. wide, 20 to 40 cm. from tip to
+base of sinus, sagittate, chartaceous, dark green or with bluish cast;
+pika yellowish to reddish; lobes acute with deep sinus.
+Corm: Flesh yellow with yellowish fibers; skin cream-colored, occasionally
+purple along leaf-scar rings.
+Origin, and derivation of name: Native variety; named after the fish, OPeltl,
+because the Hawaiians used the corms as bait.
+
+28
+
+Bulletin 84, Hawa.ii Experiment Station
+
+Distribution: Planted in a few scattered localities on Hawaii and Maui,
+nearly always under upland culture.
+Use: Sparingly as a table taro.
+Remarks: According to the old Hawaiians, the fish bait was prepared by
+cooking and pounding the taro until it could be broken in small pieces.
+The pounded taro was placed in a small net bag and lowered into the
+water directly above a large net, previously laid. The taro was released
+from the bag by a sudden jerk of a cord, and as soon as the school of
+Opelll was within the large net, the net ,vas hoisted to the surface.
+
+10. Mana Weo
+(WeD)
+General characteristics: Medium in height to tall, slender, stiffly erect,
+maturing within 9 to 12 months, producing two or three branches; dis­
+tinguished from other Mana by conspicuous, dark purplish petiole edges.
+Petiole: 75 to 105 cm. long, slender, dark green with conspicuous dark pur­
+plish edge, particularly near base, white at base.
+Leaf blade: 35 to 50 cm. long, 20 to 30 cm. wide, 25 to 40 cm. from tip to
+base of sinus, narrowly sagittate, firm-chartaceous, medium green; pika
+yellow; lobes acute with shallow, wide sinus.
+Corm: Flesh yellow with light yellowish fibers; skin cream-colored, purple
+along leaf-scar rings.
+Origin, and derivation of name: Introduced from South Seas under the
+name of Wea,. having been classed as a Alana, the group name was placed
+before the common name.
+Distribution: Limited; little is known as to its adaptability.
+Use: A fair table taro.
+
+11. Mana Uliuli
+(Yellow)
+General characteristics: Medium in height, erect, moderately stocky, ma­
+turing within 9 to 12 months; the most striking character is prolific
+branching, as many as ten branches often being produced.
+Petiole: 70 to 9S cm. long, olive-green tinged with reddish-brown and pink,
+the latter pronounced near base, lilac-purple at apex, with a broad,
+light pink to whitish edge, white at base with lilac-pink for 1 to 2 Clll.
+above.
+Leaf blade: 35 to 45 cm. long, 20 to 30 cm. wide, 25 to 35 cm. frolll tip to
+base of sinus, vertical, firm-chartaceous, sagittate, dark green; pika yel­
+lowish; lobes acute with wide sinus.
+Corm: Flesh yellow with light yellowish fibers; skin cream-colored, dark
+purple along leaf-scar rings.
+Inflorescence: Produced rather profusely; peduncle light green flecked with
+reddish-brown; spathe small, delicate, narrow, 12 to 16 cm. long, the
+lower tubular portion 2 to 2.5 cm. long, light green, the upper portion
+tightly rolled, light yellow; spadix rather delicate, 6 to 9 Clll. long, the
+sterile appendage 4 to 8 mm. long.
+
+Taro Varieties in Hawaii
+
+29
+
+Origin, and derivation of name: Introduced from South Seas under the
+name "Yellow," which referred to the color of the corm flesh; it has
+since been classified as a Mali-a taro and given the descriptive name Ulillli
+because of the dark olive-green petioles.
+Distribution: Limited; grown primarily under upland culture.
+Use: Makes good poi of distinctly yellow color.
+Remarks: Because of excessive branching, the shape of the corms is very
+irregular. This is probably the only South Sea introduction desirable
+for poi. The corms are similar to those of the Kai group, being tough and
+rubbery when cooked.
+
+12. Mana Ulaula
+(Mana Ha Ulaula)
+General characteristics: Medium in height to tall, slender, erect, maturing
+within 9 to 12 months, producing two or three branches; readily identi­
+fied by purplish-red flecking along the entire petiole, with almost com­
+plete absence of green coloration.
+Petiole: 70 to 90 cm. tall, slender, slightly curved at apex, flecked with
+purplish-red, almost lacking in green, with narrow reddish edge, a dark
+reddish-purple ring at base with lilac-pink for about 3 cm. above.
+Leaf blade: 40 to 50 cm. long, 30 to 35 cm. wide, 35 to 45 cm. from tip to base
+of sinus, ovate, thin in texture, light green; margins slightly undulate;
+pika small, purple; veins purplish on lower surface of lobes; lobes acute
+with narrow sinus.
+Corm: Flesh white tinged with pink, especially near apex, with yellowish
+fibers; skin dark lilac-pink.
+Inflorescence: Peduncle light purplish flecked with dark reddish-purple areas
+at base and above constriction; spathe 14 to 17 cm. long, the lower
+tubular portion about 3 cm. long, light purplish flecked with dark reddish­
+purple at base and at constriction, the upper portion yellow, tightly rolled;
+spadix 4 to 5 cm. long, slender, the sterile appendage 5 to 6 mm. long.
+Origin and derivation of name: Native variety; Ulatt/a refers to purplish-red­
+flecked petioles:
+Distribution: Comparatively rare; planted in a few scattered localities on
+Hawaii and Maui, nearly always under upland culture.
+Use: Mainly as table taro for home use.
+
+13. Mana Lauloa
+General characteristics: Medium in height to tall, stiffly erect, maturing
+within 9 to 12 months, producing two or three branches; characterized by
+large, somewhat ovate leaf blades and dark green petioles with dark
+brownish-purple on lower portion.
+Petiole: 80 to 90 cm. long, dark green tinged with brownish-purple, dark
+brownish-purple on basal third, fairly broadly edged with pink to
+whitish, a dark reddish-purple ring at base with lilac-pink-flecked area
+for 1 to 3 em. above.
+Leaf blade: 45 to 50 cm. long, 35 to 40 cm. wide, 35 to 45 cm. from tip to
+
+30
+
+Bulletin 84} Hawaii Experiment Station
+
+base of sinus, ovate, thin in texture, medium green; margins undulate;
+pika purplish; lobes obtuse, sometimes overlapping, with narrow sinus.
+Corm: Flesh white with pink apex and yellowish fibers; skin pinkish-lilac
+to purple.
+Origin, and derivation of name: Native variety; Lal/loa refers to large leaves.
+Distribution: Limited; grown primarily under upland culture.
+Use: Chiefly as table taro.
+
+14. Mana Keokeo
+(M a·lla Ken)
+General characteristics: Medium in height, erect, maturing within 7 to 12
+months, producing two or three branches; characterized by dark green
+petioles with distinct pinkish-red edges.
+Petiole: 60 to 85 cm. long, dark green, distinctly pinkish-red at edge, white
+at base.
+Leaf blade: 40 to 55 cm. long, 20 to 40 cm. wide, 30 to 40 cm. from tip to base
+of sinus, ovate, thin in texture, medium green; margins undulate; pilw
+small, yellowish; lobes obtuse, often overlapping, with narrow sinus.
+Corm: Flesh chalky white with yellowish fibers; skin white, light lilac-pink
+to purple at leaf scars.
+Origin, and derivation of name: Native variety; Keokeo refers to white corm
+flesh and white color at base of petiole.
+Distribution: Grown extensively at Kana, Hawaii, almost exclusively under
+upland culture.
+Use: Mainly as table taro; one of the favorite varieties for making !mlolo.
+Remarks: This is probably the most popular of the Malia, due to its large
+corms and ability to produce good yields even under adverse conditions.
+
+15. Mana Kukuluhema
+(Ma1llla)
+General characteristics: Short to medium in height, moderately spreading,
+maturing within 9 to 12 months, producing two or threc branches; di f­
+ferentiated from Malia Keokeo by lighter petioles and whitish rather than
+light lilac-pink or purple leaf-scar rings of corms.
+Petiole: 50 to 70 cm. long, pale green, oftcn with light brownish fleckings
+near base and along margins, pink at edge, purplish at apex, whilc at base.
+Leaf blade: 40 to 45 cm. long, 30 to 35 cm. wide, 30 to 35 cm. frolll tip to base
+of sinus, ovate, firm-chartaceous, medium green; margins slightly revo­
+lute; pilw yellowish to light purple; lobes acute with narrow sinus.
+Corm: Flesh chalky white with conspicuous ycllow fibers; skin white.
+Inflorescence: Peduncle whitish; spathe 21 to 24 cm. long, the lower tubular
+portion 3 to 4 cm. long, light green, the upper portion yellow, tightly
+rolled; spadix 7 to 8 cm. long, the sterile appendage 4 to 5 mm. long.
+Origin, and derivation of name: Introduced from Samoa under the name
+1'.1alllla. Because of the close similari ty between 111alia and 1'.1all II a·, the
+Hawaiian K uklllllhcma, meaning "south," has been substituted for AI a 1/.1 1(1..
+Distribution: Very little known.
+Use: A fair table taro.
+
+Taro Varieties in Hawaii
+
+31
+
+GROUP PIKO
+
+The group Piko is comprised of seven varieties, in all of which the
+sinus of the leaf blade is cut to the point of attachment to the petiole.
+this point of juncture being called the piko, or navel, of the taro.
+Another unusual feature. of the Pilw taros is the presence of a per­
+sistent ridge on the inner surface of the petiole above its sinus. These
+two characters are found only in this group and seem to be con­
+sistently linked. The plants are medium in height, erect, and COlll­
+pact in growth, with stiffly erect petioles and more or less horizontal
+blades. The leaves are comparatively small and usually ovate in
+shape. The group produces oha more freely than most other varieties.
+This is the most natural grouping of the taros as all the memhers
+exhibit close relationship. Most are rather late maturing, being
+harvested usually about 12 to 15 or sometimes as long as 18 months
+after planting. They are the hardiest group and, at the present time.
+are the most common of the so-called wetland taros. They make
+their best growth in the cooler sections of the islands with an abull­
+dance of fresh cool mountain water for flooding the taro patches.
+They are by all odds the most important of the commercial taros and
+their popularity is steadily increasing, prohably due more to their
+comparative resistance to root rot than to any other single factor.
+All are known to make good poi. They are grown extensively
+throughout the islands, but are especially popular on the island 0 r
+Oah u. Pilw K ca and Piko Uliuli are the two most important varietie~
+in this group.
+16. Pika Lehua-apei
+(L('!zuG Apei)
+General characteristics: Medium in height, erect, moderately stocky, ma­
+turing within 9 to 12 months, producing from 5 to 10 oha; distinguished
+from other Pika varieties by outgrowths of dark green crinkled tissue 011
+lower surface of leaf blade.
+Petiole: 60 to 95 cm. long, yellowish green with faint pinkish cast, usually
+faintly red at edge, a pink ring at base with pale pink for 3 to 4 cm.
+above.
+Leaf blade: 40 to 60 cm. long, 25 to 35 cm. wide, 25 to 40 cm. from tip to base
+of sinus, sagittate, tapering to a sharp point, concave, firm-chartaceous.
+dark green with pinkish cast when young; margins decidedly undulate:
+lobes acute with outgrowths of dark green crinkled tissues on lower
+surface, the sinus deep and wide.
+Corm: Flesh lilac-purple with light purple fibers; skin pink.
+
+32
+
+Bulletin 84, Hawaii Experiment Station
+
+Origin, and derivation of name: Native variety; generally known as LeIma
+Apei because of lilac corm flesh, but as the basal lobes are clearly cut to the
+pilw it has been grouped with the Pika varieties and the name Pika Lelma­
+apei has been adopted.
+Distribution: Found occasionally in wetland patches with Pilw Kea and
+Pika Ulillii.
+Use: Popular for red poi, some of the so-called LeIma red poi being made from
+this variety, especially on Oahu; the leaves are good for lllall.
+
+17. Piko Ulaula
+(Haehae Ulaula)
+General characteristics: Medium in height, erect, moderately stocky, matur­
+ing within 12 to 15 months, producing from 5 to 10 aha; distinguished
+from Pika Lelwa-apei by lack of crinkled tissue on leaf blade and from
+other Pilw varieties by the lilac-purple corm flesh.
+Petiole: 75 to 100 cm. long, dark green with dark brown shading near base
+and a narrow reddish-purple edge, a dark reddish-purple ring at base
+with lighter reddish-purple-flecked area for 3 to 5 cm. above.
+Leaf blade: 35 to 50 cm. long, 25 to 35 cm. wide, 25 to 40 cm. from tip to base
+of sinus, sagittate, chartaceous, dark green with bluish cast; lobes acute
+with narrow sinus.
+Corm: Flesh lilac-purple with dark lilac-purple fibers; skin dark lilac-pink.
+Origin, and derivation of name: Native variety; Ulallla, meaning reddish,
+refers to pink corms which make "red" poi.
+Distribution: Apparently rare; has done well at Pensacola Branch Station
+under upland culture.
+Use: Makes red poi of good quality.
+
+18. Piko Kea
+General characteristics: Medium in height, erect, moderately stocky, matur­
+ing within 15 to 18 months, producing from 5 to 10 aha,' distinguished by
+light green petioles and pinkish base.
+Petiole: 60 to 100 cm. long, light green, pinkish-red at edge, usually with
+adjac'ent dark green blotches especially near base, a pink ring at base
+with light pink for 3 to 4 cm. above.
+Leaf blade: 30 to 45 cm. long, 25 to 35 cm. wide, 20 to 35 cm. from base of
+sinus to tip, ovate, nearly horizontal, light to dark green; pika whitish;
+lobes narroYl and obtuse with narrow sinus.
+Corm: Flesh white with pinkish apex and yellowish fibers; skin pale pink.
+Inflorescence: Peduncle green; spathe 15 to 20 cm. long, the lower tubular
+constricted portion 3 to 4.5 cm. long, green, usually tinged with red at
+base, usually partially opened exposing ovaries, the upper portion deep
+yellow; spadix 5 to 6 cm. long, the sterile appendage about 4 111111. long.
+Origin, and derivation of name: Native variety; Kea refers to the light
+green coloring of the petioles.
+
+Fig. 4.-Top: A general view of commercial taro grown under wetland culture (note
+the embankments used for flooding the petioles; middle: flit/aua, a variety of taro with
+unusually large leaf blades and corms which, although the best yielder, is seldom grown
+because it cannot be made into poi; lower left: Lauloa Palakea-eleele, with large, long
+leaf blades with a few large undulations and the tall, erect petioles characteristic of the
+group Lauloa; lower right: Apuwai, characterized by short, stocky growth and more or
+less horizontal leaf blades which are crinkled and cup-shaped.
+
+Taro Varieties in Ha.waii
+
+33
+
+Distribution: Widely planted on all the islands, almost exclusively in wet­
+land patches; although grown extensively in the lowlands, it appears to
+thrive better up toward the mountains where the water is cooler.
+Use: A very important poi taro, particularly on Oahu.
+Remarks: The corms have fairly firm texture and will absorb more water,
+in the preparation of paiai/ than most varieties. The poi is light bluish-grey
+in color and of very good quality.
+
+19. Piko Keokeo
+(Haehae Keokeo, Uaua Keolzeo)
+General characteristics: Closely resembles Pika ](ea, but maturing within
+12 to 15 months; differs in having white petiole base and chalky white
+corm flesh.
+Petiole: 60 to 95 em. long, light green, pinkish red at edge, usually with
+adjacent dark green blotches especialIy near base, white at base.
+Leaf blade: 30 to 45 em. long, 25 to' 35 em. wide, 20 to 35 em. from tip to
+base of sinus, ovate, pendant, light to dark green; pilw whitish; lobes
+narrow and obtuse with narrow sinus.
+Corm: Flesh chalky white with light yellow fibers; skin cream-colored.
+Origin, and derivation of name: Native variety; Kcohea, meaning light or
+white, refers to the corm flesh.
+Distribution: Mainly as a mixture among other Pika varieties.
+Use: Makes fairly good poi.
+
+20. Piko Uaua
+(Valla-Piko)
+General characteristics: Medium in height, erect, moderately stocky, matur­
+ing in 12 to 15 months, producing from 5 to 10 aha; distinguished from
+other Pilw by dark green petioles and pinkish base.
+Petiole: 65 to 100 em. long, dark green, usually edged narrowly with dark
+pink or red, light pink at base with pink ring.
+Leaf blade: 30 to 45 em. long, 25 to 35 em. wide, 20 to 35 em. from tip to base
+of sinus, ovate, nearly horizontal, chartaceous, light to dark green; pika
+whitish; lobes obtuse with narrow sinus.
+Corm: Flesh white with slight pinkish tinge near apex and yellowish fibers;
+skin cream-colored.
+Origin, and derivation of name: Native variety; the descriptive name Ualla,
+meaning "tough," indicates that the extensive root system makes this
+variety difficult to pull under wetland culture.
+Distribution: Throughout the islands under both upland and wetland cul­
+tures; grown most extensively in Waipio Valley, Hawaii, under wetland
+culture.
+Use: Makes poi of good quality.
+Remarks: This is one of the hardiest of the Pilw taros, and probably the only
+one grown to any extent under upland culture.
+1 In the production of paiai, the cooked corms are ground and water is added to bring
+the mass to a certain consistency. Tougb. rubbery, cooked taro, while difficult to pound under
+the older methods of preparation, is regarded as desirable because of tbe good quality of the
+resulting poi. The yields of paiai and of poi, which is simply a diluted form of l'aiai, depend
+upon tbe amount of water the taro will absorb during grinding and that added later.
+
+34
+
+Bulletin 84, Hawaii E:-cperiment Station
+
+21. Piko Uliuli
+(Haehae) Pika Uli} Waianae)
+General characteristics: Medium in height, erect, moderately stocky, matur­
+ing within 12 to 15 months, producing from 5 to 10 aha}' resembles Pika
+Uaua very closely, but the petiole is white at base rather than pink.
+Petiole: 60 to 100 em. long, dark green, usually edged narrowly with dark
+pink or red, white at base.
+Leaf blade: 30 to 45 em. long, 25 to 35 em. wide, 20 to 35 em. from tip to base
+of sinus, ovate, nearly horizontal, firm-chartaceous, light to dark green;
+pika whi tish; lobes obtuse with narrow sinus.
+Corm: Flesh chalky white with yellowish fibers; skin cream-colored.
+Inflorescence: Peduncle green; spathe 15 to 20 em. long, the lower tubular
+constricted portion 3 to 4.5 em. long, green, usually tinged with red at
+base, usually open partially exposing the ovaries, the upper portion deep
+yellow; spadix 5 to 6 em. long, the sterile appendage about 4 mm. long.
+Origin, and derivation of name: Native variety; derives descriptive name,
+Uliuli, from dark green petioles.
+Distribution: Widely planted on all the islands, especially Oahu, almost ex­
+clusively under wetland culture.
+Use: A very important commercial poi taro.
+Remarks: This variety used to be grown extensively at Kaanapali, Maui, a
+region of strong winds, which caused the leaves to be torn-hence the
+local name Haehae. It is considered hardier than Pika Kea and shows less
+rot, especially in the lowlands where the irrigation water is warmer.
+
+22. Piko Eleele
+(Haehae Eleele) Helemauna} Ipuolono} Makaopio)
+General characteristics: Medium in height, erect, moderately stocky, matur­
+ing within 12 to 15 months, producing from 5 to 10 aha; distinguished
+from other Pika taros by dark purplish petioles.
+Petiole: 55 to 85 em. long, reddish-brown to purplish, especially on lower
+half, with indistinct or narrow reddish edge and usually with adjacent
+dark green blotches, particularly near the base, a brilliant dark pink ring
+at base with light pink area flecked with light reddish-brown for 3 to
+4 em. above.
+Leaf blade: 35 to 45 em. long, 20 to 30 em. wide, 20 to 30 em. from tip to base
+of sinus, horizontal, broadly sagittate tapering abruptly to sharp point,
+fairly firm in texture, dark green; pika light green to light pinkish; lobes
+obtuse with narrow sinus.
+Corm: Flesh white with pinkish tinge, especially near apex, and yellowish
+fibers; skin pale salmon-pink, often purple along leaf-scar rings.
+Inflorescence: Peduncle reddish-purple; spathe 15 to 20 em. long, the lower
+tubular constricted portion 3 to 4.5 em. long, green, tinged with red at
+base, usually partially open exposing the ovaries, the upper portion deep
+yellow; spadix 5 to 6 em. long, the sterile appendage about 4 mm. long.
+
+Taro Varieties in Ha:-&aii
+
+3S
+
+Origin, and derivation of name: Native variety; called Eleele because of
+its dark petioles.
+Distribution: Grown either as wetland or upland taro; planted quite exten­
+sively at Kona, Hawaii, under upland culture.
+Use: A common poi taro; also considered an excellent table variety, and
+the leaves are popular for luau..
+.
+Remarks: Piko Eleele does better in the upper valley areas where rainfall is
+abundant and the water cool; at low elevations in water which has
+become warm by passing through several paddies a soft starch is pro­
+duced which rots readily. The name Piko Eleele is sometimes confused
+with Pikoele; the latter is not a Piko taro.
+
+23. Elepaio
+General characteristics: Short to medium in height, moderately spreading,
+stocky, maturing within 7 to 12 months, producing from 5 to 10 0"(1;
+readily identified by green- and white-mottled leaves.
+Petiole: 50 to 75 em, long, fairly rigid, green- and white-striped, often slightly
+tinged with reddish-brown, especially on lower half, yellowish at apex,
+pink at edge, a pale pink ring at base with white for 3 to 4 em. above.
+Leaf blade: 35 to 50 em. long, 25 to 35 em. wide, 30 to 40 em. from tip to base
+of sinus, ovate, fairly firm in texture, slightly concave, green- and white­
+mottled; margins undulate; piko small, yellowish; lobes acute with very
+narrow sinus.
+Corm: Flesh white with yellowish fibers; skin cream-colored.
+Inflorescence: Peduncle green- and white-mottled; spathe 17.5 to 18 em. long,
+the lower tubular portion about 2.5' em. long, green-and white-mottled,
+the upper portion yellow mottled with white, slightly open near constric­
+tion; spadix 6 cm. long, the sterile appendage 7 to 8 mm. long.
+Origin, and derivation of name: Native variety; according to some natives it
+grew wild near the forest where the bird Elepaio made its home, but
+others maintain that this taro was formerly planted at dawn when the
+Elepaio was singing.
+Distribution: Found mainly on Hawaii in small patches, principally under
+upland culture; of little importance because of its low yield.
+Use: Makes good poi of a light gray color.
+Remarks: This variety displays true variegation, and the striking green and
+white mottling of the leaves makes the plant very attractive. The amount
+of white area varies to a certain extent, according to environmental
+conditions.
+
+24. Uahiapele
+(Hiwa) Pau 0 Hiiaka} Ualehu} Uwahiapelc)
+General characteristics: Medium in height, slender, moderately spreading,
+maturing in about 12 months, producing fairly numerous oha (usually
+over 10); readily identified by mottled green and purplish leaf blades.
+Petiole: 70 to 85 cm. long, slender, lilac-purple flecked with streaks of pur­
+plish-black especially on lower half, distinctly purplish-black at edge,
+
+36
+
+Bulletin 84, Hawaii Experiment Station
+
+white at base, the apex whitish on outer surface and reddish-purple
+on inner.
+Leaf blade: 40 to 50 cm. long, 25 to 35 cm. wide, 30 to 40 cm. from tip to base
+of sinus, sagittate, fairly concave, conspicuously mottled with green and
+dark purple especially on lower surface; margins quite undulate; pika
+purple; veins light reddish-purple on lower surface of lobes; lobes
+obtuse to slightly acute with deep, narrow sinus.
+Corm: Flesh white with yellowish fibers; skin white with pink or light to
+dark purple leaf-scar rings.
+Inflorescence: Peduncle lilac-purple with occasional dark purple streaks;
+spathe 18 to 24 cm. long, the lower tubular portion 3 to 4 cm. long, green
+with lilac-purple flecks and a few purple streaks, the upper portion
+yellow, tightly rolled or sometimes open near constriction; spadix 6 cm.
+long, the sterile appendage 6 mm. long.
+Origin, and derivation of name: Native variety; called Uahiapclc, or "smoke
+of Pcle" because of smoky appearance of purplish- and green-mottled
+leaves and smoky gray poi made from the corms.
+Distribution: Formerly grown to some extent at Ewa, Oahu, under wetland
+culture, but at present found most commonly on Hawaii and occasionally
+on Kauai, under upland culture.
+Use: Makes a high-quality smoky-gray poi; formerly highly prized for
+medicinal purposes and as an offering to the gods.
+Remarks: This variety has many of the characteristics of the Kai group, in
+particular the tough, rubbery consistency of the cooked corm.
+
+25. Manapiko
+General characteristics: Medium in height, erect, stocky, maturing within
+12 to 15 months, producing from 2 to 5 aha,. recognized by purplish
+blotching on pika extending along midrib and on primary veins of the
+lobes, forming'a more or less distinct Y.
+Petiole: 65 to 80 cm. long, dark green, conspicuously whitish at edge, dark
+reddish-purple at apex, white for 3 to 4 em. above base, abruptly curved
+at apex.
+Leaf blade: 35 to 50 em. long, 25 to 35 cm. wide, 25 to 40 cm. from tip to base
+of sinus, sagittate, vertical, dark green with bluish cast, a dark purple
+streak on lower surface running from base of sinus to pika,. margins
+slightly undulate; pika conspicuously dark purple, blotched, the color
+extending along midrib and veins of lobes; lobes acute with narrow sinus.
+Corm: Flesh white with yellowish fibers; skin cream-colored, occasionally
+faintly pink along leaf-scar rings.
+Origin, and derivation of name: Native variety; the name lI1anapil;:o refers
+to the branching coloration of the pilw.
+Distribution: Rare variety.
+Use: Fair table taro.
+Remarks: This variety does not belong to either the Mana or the Pika group
+as the name might imply.
+
+Taro Varieties in Hawaii
+
+37
+
+26. Tahitian
+General characteristics: Medium in height, moderately spreading, stocky,
+maturing within 9 to 12 months, producing from 2 to 5 aha; similar to
+M anapika but with much lighter petioles and leaf blades.
+Petiole: 70 to 85 em. long, rigid, light yellowish-green, indistinctly pale
+pinkish to whitish at edge, light reddish-purple at apex, white for 3 to
+4 em. above base, abruptly curved at apex.
+Leaf blade: 45 to 55 em. long, 30 to 35 em. wide, 35 to 40 em. from tip to base
+of sinus, sagittate, vertical, light green; margins slightly undulate; pika
+conspicuously blotched with dark purple, running into veins; veins
+reddish on lower surface of lobes; lobes acute with deep, wide sinus.
+Corm: Flesh white with yellowish fibers; skin cream-colored.
+Inflorescence: Peduncle light green; spathe ;I.bout 30 em. long, the lower
+tubular portion about 5 em. long, light green with purplish area at base,
+the upper portion yellow, rather widely open at base upon maturity.
+Origin, and derivation of name: Introduced by Wilder from Tahiti; no
+name has been found for this variety so it has merely been called
+"Tahitian."
+Distribution: Little-known variety of limited distribution.
+Use: Mainly as a table taro.
+
+GROUP KAI
+
+This group, comprising three varieties, is distinguished by the
+concave, pendant blades with distinct, finely undulating margins,
+and by the tough rubbery texture of the cooked corms. The time of
+cooking is often twice as long as for other varieties-. A fragrant odor
+(ala) is usually emitted when the corms are cooked: hence the name
+Ala is sometimes used, instead of Kai} for this group. It is difficult to
+make poi from the Kai taros by the old Hawaiian method of hand
+pounding the cooked corms on a poi board, and even in the commercial
+poi factories, where machines are used for grinding the corms, the Kai
+taros generally must be run through the machine twice before the poi
+is satisfactory. However, they give a high yield of paiai.
+The Kai} the Pilw} and the Leltua are the three most important
+groups of commercial taros. They are used almost exclusively for
+poi making, and are almost invariably grown under wetland culture.
+The Kai are very popular on Kallai and are planted in several local­
+ities on Oahu. Observations seem to indicate that they are more
+tolerant of alkaline conditions than any other group, and of stag­
+nant water. They are also tolerant of deep or soft patches whereas
+most varieties require a firm, relatively shallow soil, and there is
+evidence that Kai are more resistant to soft rot.
+
+38
+
+Bulletin 84, Hawaii Experiment Station
+
+Although this group is widely planted and the corms have impor­
+tant and characteristic qualities, the Kai have no outstanding surface
+characters by which they may be readily identified, especially if the
+specimen to be identified has been pulled from the field. Yet any
+experienced taro grower can readily recognize a Kai as he walks
+through a planting. The most outstanding feature seems to be the
+pendant position of the leaves. This apparently results from the
+slenderness of the petiole, especially above the petiole sinus, which
+causes the petiole to curve perceptibly and gives to the plant a
+generally widespread appearance.
+27. Kai Uliuli
+(Kai Eleele)
+General characteristics: Medium in height, well spreading, maturing within
+8 to 12 months, producing from 5 to 10 aha; identified by light reddish­
+brown tinge of petioles.
+Petiole: 70 to 85 em. long, diffused with light reddish-brown, conspicuously
+whitish to yellowish at edge, a dark reddish-purple ring at base with
+light pink for about 3 em. above.
+Leaf blade: 45 to S5 em. long, 30 to 40 em. wide, 35 to 45 em. from tip to base
+of sinus, narrowly ovate, concave, pendant, giving the impression of
+being slightly wilted, dark green; margins with numerous fine undula­
+tions; pika light green to faint purplish; veins light green on upper surface,
+usually light reddish-purple on lower; lobes obtuse to slightly acute
+with wide, fairly deep sinus.
+Corm: Flesh white tinged with lilac-pink, especially near apex; skin pale
+pinkish-lilac.
+Inflorescence: Peduncle yellowish flecked profusely with purple; spathe 18 to
+20 em. long, the lower tubular portion about 4 em. long, yellowish-green
+with slight purplish tinge, the upper portion deep yellow, open near con­
+.striction at maturity and tightly rolled above; spadix 7 to 8 em. long,
+the sterile appendage 4 mm. long.
+Origin, and derivation of name: Native variety; the name Ulillii refers to the
+darkish color of the petioles.
+Distribution: Well-known and distributed throughout the Territory, par­
+ticularly on Oahu and Kauai. It is usually grown in areas which are
+inclined to be swampy or in deep patches.
+Use: Almost exclusively for commercial poi; the poi is dark bluish-gray and
+is of excellent quality.
+
+28. Kai Ala
+(Ala, Ala Keoluro)
+General characteristics: Medium in height, well spreading, maturing within
+8 to 12 months, producing from 5 to 10 aha; identified by widely spread­
+ing, light yellowish-green to almost whitish petioles.
+
+Taro Va1'ieties in Hawaii
+
+39
+
+Petiole: 75 to 90 em. long, light yellowish-green to whitish, distinctly reddish
+at edge, brownish at apex, a white or faint cream-colored ring at base
+with white for about 3 em. above.
+Leaf blade: 45 to 55 cm. long, 30 to 40 cm. wide, 35 to 45 cm. from tip to base
+of sinus, ovate, concave, pendant, light green; margins with numerous
+fine undulations, the marginal veins hard and crisp in texture; pika
+yellowish to light brownish; lobes obtuse with narrow sinus.
+Corm: Flesh white with yellowish fibers; skin cream-colored.
+Inflorescence: Peduncle whitish; spathe 19 to 22 em. long, the lower con­
+stricted portion 3 to 4 em. long, light green, the upper portion light
+yellow, somewhat open; spadix 7 to 9 cm. long, the sterile appendage
+7 to 10 mm. long.
+Origin, and derivation of name: Native variety; the name A/a refers to the
+fragrant odor of the cooked corms, a characteristic common to all varieties
+of Kai.
+Distribution: Found only occasionally, almost exclusively under wetland
+culture, usually associated with Kai Kea.
+Use: Makes poi of good quality.
+
+29. Kai Kea
+(Ala Kea)
+General characteristics: Medium in height, well spreading, maturing within
+8 to 12 months, producing from 5 to 10 aha; except for the pinkish flush
+near the petiole base, it is very similar to Kai Ala.
+Petiole: 70 to 90 cm. long, light yellowish-green with pink flush particularly
+conspicuous near base, distinctly reddish at edge, light reddish-purple at
+apex, a reddish-purple ring at base with lilac-pinlt for 3 to 5 cm. above.
+Leaf blade: 45 to 55 cm. long, 30 to 40 em. wide, 35 to 45 cm. from tip to base
+of sinus, ovate, concave, pendant, dark green; margins with numerous
+fine undulations; veins light green on upper surface, usually light reddish­
+purple on lower; pika small, reddish-purple; lobes obtuse to slightly
+acute, quite undulate, with fairly deep, narrow sinus.
+Corm: Flesh white with pink tinge particularly conspicuous at apex; skin
+light pink.
+Inflorescence: Peduncle light yellowish-green; spathe 18 to 23 cm. long, the
+lower tubular portion 3 to 4 cm. long, yellowish-green usually with pink
+tinge and reddish area at base, loosely rolled and occasionally some­
+what open, the upper portion yellow, loosely rolled and open near con­
+striction; spadix 6 to 9 cm. long, the sterile appendage 7 to 11 mm. long.
+Origin, and derivation of name: Native variety; the name Kea refers to the
+light-colored petioles.
+Distribution: Most widely planted variety of the Kai, grown throughout the
+islands but particularly on Kauai and at Waialua, Oahu. Except in a
+few scattered localities in Hawaii, this taro is grown under wetland culture.
+Use: The poi is of excellent quality and was highly esteemed by the Hawaiian
+chiefs.
+
+40
+
+Bulletin 84, Hawaii Experil1tent Station
+
+30. Apuwai
+General characteristics: Short, moderately spreading, very stocky, maturing
+within 6 to 9 months, producing from 5 to 10 aha; rcadily identified by
+the cup-shaped, definitely crinkled blades and light self-green petioles.
+Petiole: 35 to 50 cm. long, broad at base, thick and rigid, light green with
+white for 3 to 5 cm. above base.
+Leaf blade: 35 to 40 cm. long, 25 to 35 cm. wide, 25 to 30 cm. from tip to base
+of sinus, horizontal, very crinkled and conspicuously cupped, medium
+green; pilla and veins light green; lobes obtuse, distinctly overlapping,
+with deep, narrow sinus.
+Corm: Flesh white with indistinct, yelJowish fibers; skin cream-colored.
+Inflorescence: Peduncle light green; spathe usually loosely enclosing spadix
+to base of plant, light green on lower tubular portion, the upper portion
+20 to 25 cm. long, light yellow, usually open and ordinarily rolled only
+at the tip; spadix usually 17 to 20 cm. long, a spongy naked base with the
+ovulate portion extcnding along about 8 to 9 cm. and ovaries sparsely
+arranged on the lower part, the sterile appendage about 1 cm. long.
+Origin, and derivation of name: Native variety; it derives its name from
+the fact that its leaves are shaped like a cup (aplt) and hold water (wai)
+in the form of dew and rain.
+Distribution: Essentially a wetland taro although it is found in a few scat­
+tered localities in Kana under upland culture. Formerly it was widely
+planted, especially in Kohala, Hawaii. It is now sometimes found grow­
+ing wild in wet places near the woods.
+Use: This variety is now grown mainly for its leaves which are highly
+prized for luau. The corm makes good poi of very light color, soft in con­
+sistency, and easy to pound and prepare, and also serves as a good
+table taro.
+
+31. Apu
+(Oapu)
+General characteristics: Short, moderately spreading, stocky, maturing with­
+in 6 to 9 months, producing from 10 to 15 aha; resembles Apltwai very
+closely, the latter having a more crinkled leaf blade and a deeper-set pika.
+Petiole: 40 to 60 cm. long, rigid, light green with inconspicuous greenish
+edge, white at base.
+Leaf blade: 45 to 55 cm. long, 35 to 40 cm. wide, 35 to 40 em. from tip to
+base of sinus, horizontal, ovate, somewhat cupped, light green; pi/w light
+green; lobes obtuse, frequently overlapping, with deep, narrow sinus.
+Corm: Flesh chalky white with inconspicuous yellowish fibers; skin cream­
+colored.
+Origin, and derivation of name: Native variety; it derives its name from the
+fact that the leaves are somewhat cup-shaped.
+Distribution: A little-known taro at the present time; the only planting
+found was on Maui.
+Use: Sparingly as a table taro.
+
+Taro Vmoieties in Hawaii
+
+41
+
+32. Piialii
+(Ahapii, Moiula, Molwlze)
+General characteristics: Short, erect, stocky, maturing within 8 to 12 months,
+producing from 2 to 5 aha; easily distinguished by broad, crinkly blades
+and short, stocky, dark green petioles tinged with pink.
+Petiole: 45 to 65 cm. long, fairly thick and rigid, dark green with pinkish
+tinge and conspicuous narrow red edge, a reddish-purple ring at base
+with lilac-pink for 3 to 4 cm. above.
+Leaf blade: 45 to 55 cm. long, 30 to 35 cm. wide, 40 to 45 cm. from tip to base
+of sinus, horizontal, ovate, slightly cupped, crinkled, dark green with
+light pinkish cast on lower surface; pika small, light pinkish to greenish;
+marginal veins often tinged with red; lobes obtuse with shallow, wide
+sinus.
+Corm: Flesh lilac-purple with darker purple fibers; skin brilliant reddish­
+purple.
+Inflorescence: Peduncle yellowish-green; spathe 26 to 33 cm. long, the lower
+tubular portion usually 4.5 to 6 cm. or sometimes as much as 9 cm. long,
+yellowish-green, often tinged with red, the upper portion yellow, usually
+rather open or loosely rolled; spadix 9 to 12 cm. long, the sterile append"
+age 1.2 to 2 cm. long.
+Origin, and derivation of name: Native variety; the name Piialii means
+"ascending from the alii," and refers to the high esteem in which it was
+held by the chiefs.
+Distribution: Essentially a wetland taro although grown to some extent
+under upland culture in Kona, where it goes under the name fl.I01:/lla. This
+variety is one of the most important of the wetland poi taros, and is
+planted extensively on the windward side of Oahu.
+Use: Makes a red poi that is highly prized for flavor and quality.
+Remarks: This is one of the oldest varieties grown in the islands, known in
+the early days of Hawaiian history as one of the royal taros. It was
+considered particularly desirable as an offering to the gods. The Chinese
+generally harvest this taro at 12 to 14 months, the Hawaiian growers at
+8 to 10 months when the quality is considered b,etter although the total
+yield is not so great.
+
+33. Paakai
+(Launui Paalwi)
+General characteristics: Short, moderately spreading, stocky, maturing with­
+in 9 to 12 months, producing from 5 to 10 aha; distinguished by short,
+stocky growth and dark green petioles with distinct, narrow reddish edges.
+Petiole: 45 to 60 cm. long, very dark green with a distinct, narrow reddish
+edge, white at base.
+Leaf blade: 35 to 45 cm. long, 25 to 30 cm. wide, 25 to 35 cm. from tip to base
+of sinus, narrowly ovate, slightly concave, fairly crinkled, dark green;
+pilw light yellowish; lobes acute with wide sinus.
+Corm: Flesh white with yellowish fibers; skin cream-colored, sometimes
+reddish-purple along the leaf-scar rings.
+
+42
+
+Bulletin 84} Hawaii Experiment Station
+
+Inflorescence: Peduncle light green; spathe 21 to 24 em. long, the lower
+tubular portion 3 to 4 em. long, loosely rolled, light green with tinge of
+purple at base, the upper portion deep yellow, open near constriction
+even when young; spadix 7 to 8 em. long, the sterile appendage 8 to 9
+mm.long.
+Origin, and derivation of name: Native variety; Paakai, meaning "salt,"
+probably tefers to the somewhat salty taste of the poi.
+Distribution: Found occasionally on Kauai and in South Kona, Hawaii,
+usually under upland culture.
+Use: Chiefly for poi.
+
+34. Moana
+(Mauna)
+General characteristics: Short, stiffly erect, stocky, maturing within 9 to 12
+months, producing from S to 10 aha; characterized by short, stocky
+growth, broad, horizontal, crinkled leaves, and light self-green coloring
+of the petioles.
+Petiole: 40 to S5 em. long, light green with inconspicuous, light greenish
+edge, a white area for 3 to S em. above base.
+Leaf blade: 35 to 50 em. long, 30 to 40 em. wide, 30 to 40 em. from tip to base
+of sinus, broadly ovate, almost horizontal, somewhat crinkled but not
+cupped, dark green; pika yellowish; lobes acute and usually overlapping, with
+medium-cut sinus.
+Corm: Flesh white with yellowish fibers; skin white to cream-colored.
+Inflorescence: Peduncle light green; spathe 22 to 25 em. long, the lower
+tubular portion 4 to 5 em. long, light green, the upper portion light
+yellow, rather tightly rolled.
+Origin, and derivation of name: Native variety; M oall,a, meaning "broad" in
+Hawaiian, probably refers to the broad, ovate leaf blades.
+Distribution: A little-known variety, found in home plots on MauL
+Use: Table taro of excellent quality.
+
+35. Akuugawai
+General characteristics: Tall, erect, stocky, maturing within 9 to 12 months,
+producing from 2 to 5 aha; identified by tall, upright, dark green petioles
+with distinct blackish edges, and horizontal leaf blades.
+Petiole: 80 to 9S em. long, very dark green with indistinct, light green streaks,
+often slightly tinged with purple, conspicuously blackish at edge, white
+or greenish-white at base.
+Leaf blade: 35 to 4S em. long, 25 to 30 em. wide, 3S to 40 em. from tip to base
+of sinus, narrowly sagittate, conspicuously concave, horizontal, dark
+green; pika purple; lobes obtuse, overlapping, with narrow sinus.
+Corm: Flesh white with yellowish fibers; skin whitish.
+Inflorescence: Peduncle dark green with brown flecking at base; spathe 26
+to 28 em. long, the lower tubular portion 4 to 4.5 em. long, dark green
+with purple at base and at constriction and sometimes along margins,
+the upper portion dark yellow; spadix 8.5 to 9 em. long, the sterile
+
+Taro Varieties in Hawaii
+
+43
+
+appendage about 1 em. long, orange as contrasted to the yellow stami­
+nate portion.
+Origin, and derivation of name: Introduced from the South Seas by \Vilder;
+the name Akuugawai, under which it was introduced, has been retained.
+Distribution: Little-known variety of limited distribution.
+Use: Good table taro but makes very poor poi.
+Remarks: The rank, erect habit of growth is similar to that of the Lalllaa
+group.
+
+GROUP LAULOA
+
+The group Lauloa is characterized by long petioles and long, sagit­
+tate, usually quite undulate blades: hence the name Lauloa, meaning
+large or long leaf. The varieties within this group are nearly iden­
+tical as to length of petiole and size and shape of the blade. The
+plants are tall with an erect, compact habit of growth and are the
+most vigorous of all the taros. They produce oha sparingly and
+mature usually in from 8 to 12 months. The group is represented
+by seven varieties in the station's plantings, and an eighth has been
+described from previously recorded data.
+The Lauloa taros are planted almost exclusively under upland
+culture, most extensively in Kana, Hawaii, where they make excel­
+lent growth, and also in Puna and Kau. They are comparatively
+nonacrid and, probably for this reason, were used by the early
+Hawaiians for medicinal purposes, chiefly in pulmonary disorders.
+They are now popular principally as table taros a1though they are
+still used to a limited degree for poi.
+The Lauloa group is somewhat unstable, the different forms pro­
+ducing occasional somatic mutations (4).
+36. Lauloa Eleele-omao
+(Lauloa. Eleele, Lauloa H a Eleele)
+General characteristics: Tall, erect, stocky, maturing within 9 to 12 months,
+producing from 5 to 10 aha; recognized by purplish marginal veins on
+leaves and greenish edges of purplish-black petioles.
+Petiole: 100 to 140 em. long, purplish-black with fairly distinct light green
+edge, a dark red ring at base with light pink for 1 to 2 em. above.
+Leaf blade: 40 to 60 em. long, 30 to 40 em. wide, 35 to 45 em. from tip to base
+of sinus, sagittate, slightly concave, dark green; margins with a few large
+updulations, the marginal veins purple; pika small, purplish; lobes obtuse
+with narrow sinus.
+Corm: Flesh white, tinged with pink especially near the apex, with yellowish
+fibers; skin light to brilliant dark pink and occasionally purple along
+leaf-scar rings.
+
+44
+
+Bulletin 84, I-I aWllii Experiment Station
+
+Inflorescence: Peduncle purplish-black; spathe 30 to 35 em. long, usually
+curved and drooping, the lower tubular portion 5.5 to 6 cm. long, dark
+reddish-purple, the upper portion orange with reddish-purple margins,
+usually tightly rolled but sometimes slightly open near constriction.
+Origin, and derivation of name: Native variety; the descriptive name Eleele
+refers to the purplish-black color of the petioles and the suffix 01llUO to the
+light green edges.
+Distribution: Planted fairly extensively in the uplands throughout the
+islands but especially so in KQna, Hawaii.
+Use: Mainly as a table taro.
+Remarks: This variety resembles LauToa Eleele-uTa so closely that at times
+it is practically impossible to distinguish the two. Although the outward
+appearance is almost identical, the quality of poi made from Lauloa Eleele­
+ula is far superior to that from this variety. The two varieties may be
+differentiated by the greenish edge and continuance of the petiole color into
+the leaf veins of Lauloa Eleele-omao in contrast to the more pinkish edge
+and the changing of the dark petiole color to a yetiow green just below the
+apex of LUI/loa El('ele-1I1u..
+
+37. Lauloa Eleele-ula
+(Eleele Lauloa.)
+General characteristics: Tall, ered, stocky, maturing within 9 to 12 months,
+producing from 2 to 5 oha; recognized by purplish-black petioles with
+pinkish edges.
+Petiole: 100 to 140 cm. long, purplish-black with pinkish edge, light green at
+apex, a dark red ring at base with pink for 1 to 2 cm. above.
+Leaf blade: 40 to 60 cm. long, 30 to 40 cm. wide, 35 to 45 cm. from tip to base
+of sinus, sagittate, slightly concave, dark green; margins with a few
+large undulations, the marginal veins purple; pilw small, purplish; lobes
+obtuse with narrow sinus.
+Corm: Flesh white tinged with pink, especially ncar the apex, with yellowish
+fibers; skin light to brilliant dark pink and occasionally purple along
+leaf-scar rings.
+Origin, and derivation of name: Native variety; the suffix ula refers to the
+pinkish color of the edges.
+Distribution: Planted somewhat extensively in the uplands throughout the
+islands, particularly in Kona.
+Use: Grown mainly for home use as poi taro.
+Remarks: Although in vegetative characters this variety is very similar to
+the other Luuloa, and it has occurred as a mutant forlll, in corm texture and
+quality of poi it is more closely related to the Eleele group.
+
+38. Lauloa Palakea-eleele
+(Palakea., Lauloa Pala/zea)
+General characteristics: Tatl, erect, stocky, maturing within 8 to 12 months,
+producing from 5 to 10 aha; the conspicuous black edge is a distinguish­
+ing feature.
+
+Taro Varieties in Hawaii
+
+45
+
+Petiole: 100 to 140 cm. long, dark green heavily suffused with dark reddish­
+purple especially on upper half, dark purplish at apex, white at base, con­
+spicuously blackish at edge.
+Leaf blade: 45 to 65 cm. long, 30 to 40 cm. wide, 35 to 50 cm. from tip to base
+of sinus, sagittate, slightly concave, dark green; margins with a few large
+undulations; piko purplish; veins dark purplish on lower surface of lobes;
+lobes obtuse with narrow sinus.
+Corm: Flesh chalky white with yellowish fibers; skin white or yellowish.
+Inflorescence: Peduncle yellowish-green with faint brownish tinge, often
+reddish-purple at apex; spathe 32 to 37 cm. long, the lower tubular por­
+tion 5 to 6 cm. long, reddish-purple, the upper portion dark yellow with
+reddish-purple margins, bent and drooping, usually tightly folded but
+sometimes slightly open near constriction; spadix about 11 cm. long, the
+sterile appendage conspicuous, about 13 mm. long.
+Origin, and derivation of name: Native variety; four members of the Lauloa
+group have the descriptive name Palallea, which refers to the soft, white
+consistency of the cooked corm. The distinguishing suffix, eleele, indicates
+the black edge of this form of Lauloa Pola/~ea.
+Distribution: Grown quite extensively in Kona, Hawaii, almost exclusively
+as upland taro.
+Use: Used primarily as a table taro, being considered superior to both
+Lallloa Palakea-Ileokeo and Lort/oa Palakea-lIla although the poi is consid­
+ered inferior to that of any of the standard poi taros; highly favored as a
+medicinal taro by the early Hawaiians.
+Remarks: This variety is one of the hardiest of the taros, withstanding ad­
+verse weather conditions under which other varieties will not survive.
+Under favorable conditions it yields well and is con.lparatively early
+maturing. It is less acrid than most taros; hence its popularity for
+medicinal purposes.
+
+39. Lauloa Palakea-ula
+General characteristics: Tall, erect, maturing within 9 to 12 months, pro­
+ducing from 5 to 10 01£0.; characterized by pinkish edge and white base
+of petiole.
+Petiole: 100 to 140 cm. long, dark green heavily suffused with dark reddish­
+purple especially on upper half, purplish at apex, white at base, with
+distinct reddish-pink to almost \vhitish edge.
+Leaf blade: 45 to 65 em. long, 30 to 40 em. wide, 35 to 50 cm. from tip to base
+of sinus, sagittate, slightly concave, dark green; margins with a few largl'
+undulations; piko purplish; veins dark purplish on lower surface of lobes;
+lobes obtuse with narrow sinus.
+Corm: Flesh chalky white with light yellowish fibers; skin yellowish.
+Origin, and derivation of name: Native variety of comparatively recent
+origin, probably arising through somatic mutation from LOIl/oo Palake(l­
+eleele; given the suffix lila because of the distinguishing pink edge.
+Distribution: Found occasionally among plantings of Lall/oa Palokea-elecle.
+It is considered inferior in quality and is usually rogued out.
+Use: Primarily as a table taro.
+
+46
+
+Bulletin 84, Hawaii ExperiHtent Station
+
+40. Lauloa Palakea-papamu
+(Papamu, Lauloa Papaniu)
+General characteristics: Tall, erect, maturing within 9 to 12 months, pro­
+ducing from 5 to 10 oha; closely resembles Lauloa Palakea-elcele and Lall­
+loa Palakea-ltla but differentiated by the pink petiole base.
+Petiole: 100 to 140 em. long, dark green heavily suffused with dark reddish­
+purple to blackish, especially on upper portion, purplish at apex, a
+brilliant pink ring at base, distinctly reddish-pink to almost whitish at
+edge.
+Leaf blade: 45 to 65 em. long, 30 to 40 cm. wide, 35 to 50 em. from tip to base
+of sinus, sagittate, slightly concave, dark green; margins with a few large
+undulations; piko purplish; veins purplish on lower surface of lobes;
+lobes obtuse with narrow sinus.
+Corm: Flesh white except for light pinkish tinge, especially near apex, the
+fibers yellowish; skin pink.
+Inflorescence: Peduncle yellowish, flecked with green and purple; spathe
+20 to 24 em. long, the lower tubular portion about 4 em. long, light
+purplish, the upper portion medium yellow with reddish edge; spadix 8
+to 10 em. long, the sterile appendage 11 mm. long.
+Origin, and derivation of name: Native variety of comparatively recent
+origin, probably originating through somatic mutation; the derivation of
+the descriptive suffix is unknown.
+Distribution: Found only occasionally among the other forms of Lallloa
+Palakea.
+Use: Chiefly as table taro.
+
+41. Lauloa Palakea-keokeo
+(Lauloa Onionio)
+General characteristics: Tall, erect, stocky, maturing within 9 to 12 months,
+producing from 5- to 10 aha; identified by needle-like black streaks 011
+dark green petioles.
+Petiole: 100 to 140 cm. long, dark green with a few short blackish streaks,
+tinged with reddish-purple at apex and often near edge, indistinctly
+reddish at edge, a brilliant pink ring at base with light pink for 2 to
+3 em. above.
+Leaf blade: 45 to 65 cm. long, 30 to 40 cm. wide, 35 to 50 cm. from tip to base
+of sinus, narrowly sagittate, slightly concave, dark green with bluish
+cast; margins with a few large undulations; pika purplish; lobes aClltc
+with narrow sinus.
+Corm: Flesh white with pinkish tinge, especially near apex, and yellowish
+fibers; skin brilliant pink.
+Inflorescence: Peduncle green with black streaks, reddish-purple at apex;
+spathe 30 to 35 cm. long, the lower tubular portion 5.5 to 6 em. long,
+yellowish-green with reddish-purple at constriction, the upper portion
+yellow, curved and drooping, usually tightly rolled bnt sometimes open
+near constriction; spadix 12 em. long, the sterile appendage 12 to 17 nUll.
+long.
+
+Taro Varieties in Hawaii
+
+47
+
+Origin, and derivation of name: Native variety of probably rather recent
+origin produced through somatic mutation; this variety has much lighter
+petioles than the other Lauloa PaIallea-hence the suffix keolleo.
+Distribution: Found exclusively under upland culture, occasionally as a
+mutation from Lauloa Palallea-eleele; it is usually rogued out as it is con­
+sidered inferior.
+Use: Sparingly as a table taro.
+Remarks: Four forms of Lauloa PaIakea are commonly known, all characterized
+by soft, white corms, anei distinguished from each other by some coloring
+on the petioles. Lauloa Palakea-lleokeo is the most easily distinguished,
+as the other three varieties are dark green heavily suffused with reddish­
+purple. The black streaking on the petiole of this variety is extremely
+narrow, most of the streaks being scarcely wider than the thickness of a
+needle and of uniform thickness for their entire length.
+
+42. Lauloa Keokeo
+
+(Lauloa Ha Keoheo)
+Genera.l characteristics: Tall, erect, stocky, maturing within 9 to 12 months,
+producing from 3 to 10 oha; distinguished by practically self-green
+petioles.
+Petiole: 100 to 140 cm. long, medium green slightly tinged with reddish­
+purple at apex, pinkish-red at edge, a red ring at base with light pink
+for 3 to 4 em. above.
+Leaf blade: 45 to 60 cm. long, 30 to 40 em. wide, 35 to 45 em. from tip to base
+of sinus, narrowly sagittate, slightly concave, medium green; margins
+with a few large undulations; piko small, light purplish; lobes obtuse
+with medium-cut to fairly deep sinus.
+Corm: Flesh white with pinkish tinge, especially near apex, and yellowish
+fibers; skin light to dark pink.
+Inflorescence: Peduncle light green; spathe green on lower tubular portion
+with faint purp,Ie areas at base and at constriction, the upper portion
+yellow.
+Origin, and derivation of name: Native variety; this is the lightest colored of
+the Lallloa; hence the name Keolleo.
+Distribution: Widely distributed throughout the islands, almost exclusively
+in the uplands, but especially common in Kana, Puna, and Kau, Hawaii.
+This variety is probably the most important of the Lauloa.
+Use: Used primarily as a table taro.
+GROUP ELEELE
+
+This group, comprising two varieties, is characterized by a blackish
+or reddish-brown petiole with a dark reddish-purple ring at the
+base, a dark lilac-purple area for 3 to 4 cm. above the ring, and by
+the light lilac-purple corm flesh. The varieties in this group consti­
+tuted the so-called "royal black taros" of the early Hawaiians. They
+
+48
+
+Bulletin 84, Hawaii E.1:periment Station
+
+mature usually within 8 months and are fairly high producers. The
+corms must be harvested soon after maturity as they begin to rot
+very quickly. Even the huH deteriorate if held over for any length
+of time after harvesting. They are grown primarily under upland
+culture and are especially popular in Kona where they are made into
+red poi of excellent quality.
+
+43. Eleele Makoko
+(Nohu, M akoko )
+General characteristics: Medium in height, well spreading, maturing within
+8 to 12 months, producing from 5 to 10 oha; characterized by light purplish­
+black petioles shading into yellowish-green at apex and light lilac-purple
+corm flesh.
+Petiole: 60 to 85 em. long, drooping, light purplish-black on lower part
+shading into yellowish-green at apex, with an inconspicuous, narrow
+reddish edge, a dark reddish-purple ring at base with dark lilac-purple
+for 3 to 4 em. above.
+Leaf blade: 35 to 4S em. long, 25 to 3S em. wide, 25 to 35 em. from tip to base
+of sinus, sagittate, medium green; margins undulate; piko light brownish;
+lobes acute with medium-cut sinus.
+Corm: Flesh light lilac-purple; skin light reddish-purple.
+Inflorescence: Peduncle blackish; spathe 22 to 25 cm. long, the lower tubular
+portion 3.5 to 4.5 em. long, yellowish-green tinged with brown, with
+purplish areas at base and at constriction, the upper portion yellowish,
+slightly open at maturity; spadix 7 to 9 cm. long, the sterile appendage
+6 to 7 mm. long.
+Origin, and derivation of name: Native variety; makoko is a reddish fish.
+Distribution: Not planted as widely as Eleele Naioea but its distribution is
+quite general; chiefly under upland culture.
+Use: Makes light red poi of good quality; although not important com­
+mercially, it is grown fairly extensively for home use.
+
+44. Eleele Naioea
+(NtMoea, Eleele)
+General characteristics: Medium in height, well spreading, maturing within
+8 to 12 months, producing from 5 to 10 oha; characterized by blackish
+petioles, similar to those of Kltmu-eleele, Lauloa Eleele-omao, and L01l10a
+Eleele-ula, and by dark purplish-lilac corm flesh.
+Petiole: 65 to 90 em. long, blackish with inconspicuous narrow brownish
+to greenish edge, yellowish-green at apex, a dark reddish-purple ring at
+base with dark lilac-purple for 3 to 4 em. above.
+Leaf blade: 40 to 50 em. long, 25 to 3S CII1. wide, 30 to 40 em. from tip to base
+of sinus, sagittate, drooping, slightly undulate, dark green, often with
+pinkish cast when young; pika inconspicuous, light reddish-brown; lobes
+acute with wide sinus.
+
+48a
+
+Fig. 5.-Upper right: Mal/a U/i1lIi, characterized by branching" parent COrlll allll
+pendant leaf blades; LIpper left: M Ollila, with short, stocky growth alld
+slightly crillkled, horizontal leaf blades; middle left: Pilw Utill/i, one of
+the Ieadillg wetland varieties, with sillus cut to poillt of attachment with the
+petiole; middle right: lI.[lIlJ.ini 1'Ol'c(OI'(!, with slriped petioles; lower left:
+J:lc/1I/.io, a picturesque variely with mottled green and white leaf hlades;
+lower right: /1'1('<'11, one of the few varieties of taro prodllcillg rhizomes.
+Nple the slender rhizomes 011 the foreground.
+
+Taro Varieties in H aWl.lii
+
+49
+
+Corm: Flesh lilac-purple with conspicuous darker purple fibers; skin dark
+reddish-purple.
+Inflorescence: Peduncle black; spathe 24 to 26 cm. long, the lower tubular
+portion 3.5 to 4.5 cm. long, yellowish-green tinged with brown, with purplish
+areas at base and constriction, the upper portion yellow, slightly open at
+maturity; spadix 8 to 9 cm. long, the sterile appendage 6 to 7 mm. long.
+Origin, and derivation of name: Native variety; the derivation of the
+descriptive name is unknown.
+Distribution: Very popular upland taro cultivated extensively in Kona, Kau,
+and Puna, Hawaii.
+Use: The lilac-purple corms produce red poi that is highly prized.
+
+45. Manini-owali
+General characteristics: Medium in height to tall, moderately spreading,
+maturing within 9 to 12 months, producing from 2 to 5 oha; identified
+by yellowish-green to light red stripes on dark purplish background.
+Petiole: 80 to 100 cm. long, broad at base tapering to a narrow, often curved
+apex, dark purple with yellowish green, light red, or sometimes quite
+indistinct stripes, pink to whitish at edge, a brilliant reddish-purple ring
+at base with lilac-pink for 1 to 2 cm. above.
+Leaf blade: SO to 60 cm. long, 35 to 40 cm. wide, 40 to 45 cm. from tip to base
+of sinus, sagittate, firm-chartaceous, dark green with bluish cast; mar­
+gins undulate; pilw purple; veins purple on lower surface; lobes acute
+with deep, narrow sinus.
+Corm: Flesh white with pinkish tinge especially near apex, the fibers yel­
+lowish; skin lilac-pink with purple along leaf scars.
+Inflorescence: Peduncle purplish-black or striped with purplish-black and
+yellowish-green or light red; spathe 26 to 30 em. long, the lower tubular
+portion 4.5 to 5.5 em. long, striped light green and purple with reddish­
+purple at base and constrictiun, the upper portion deep yellow or orange,
+sometimes with purplish margins, tightly rolled, open near constriction
+at maturity; spadix 10 to 11 em. long, the sterile appendage 11 to 12 mm.
+long.
+Origin, and derivation of name: Native variety; mallini is a small striped
+Hawaiian fish, while o'Wuli means weakness.
+Distribution: Comparatively rare; grown under upland or wetland culture.
+Use: Primarily as a table taro.
+
+46. Kumu-eleele
+General characteristics: Medium in height, slender, erect, maturing within
+9 to 12 months, producing from 2 to 5 oha; recognized by its blackish
+petioles with inconspicuous narrow reddish edges.
+Petiole: 70 to 90 cm. long, blackish, with inconspicuous narrow reddish
+edges, greenish at apex, a dark pink ring at base with light pink for
+2 to 3 cm. above.
+
+50
+
+Bulletin 84 Hawaii Expe1'imellt Stati01i
+J
+
+Leaf blade: 45 to 60 em. long, 30 to 40 em. wide, 35 to 45 em. from tip to base
+of sinus, sagittate, drooping, thin in texture, dark green with bluish cast;
+margins slightly undulate; pika small, purple; lobes obtuse to slightly
+acute with medium-cut to deep, narrow sinus.
+Corm: Flesh white with lilac at apex, the fibers yellowish; skin lilac-pink,
+often dark purple along leaf-scar rings.
+Origin, and derivation of name: Native variety; KIt7I1U refers to dark pinkish
+tinge of corm, similar to color of the Hawaiian fish, and eleele refers to
+blackish color of the petioles.
+Distribution: Rare; collected by Dr. E. S. C. Handy from Olowalu, Maui.
+Use: Chiefly as table taro.
+
+47. Nawao
+General characteristics: Short to medium in height, moderately spreading,
+maturing within 9 to 12 months, producing from 5 to 10 oha; charac­
+terized by whitish corm flesh and purplish-black petioles shading into
+yellowish-green at apex, with red edges.
+Petiole: 55 to 75 em. long, purplish-black shading into yellowish-green at
+apex, red at edge, a dark pink ring at base with light pink for 3 to 4 em.
+above.
+Leaf blade: 35 to 45 em. long, 30 to 35 em. wide, 30 to 35 em. from tip to base
+of sinus, subovate, fairly firm in texture, dark green; piko light yellowish
+to light brownish; lobes acute with deep, wide sinus.
+Corm: Flesh white with light pinkish tinge, especially near apex, and yellow­
+ish fibers; skin pink.
+Inflorescence: Peduncle light yellowish-green with brownish flecking at base;
+spathe 18 to 23 em. long, the lower tubular portion 3 to 4 em. long, light
+green tinged with purple at base, loosely rolled and sometimes slightly
+open, the upper portion clear deep yellow, open near constriction.
+Origin, and derivation of name: Native variety; nawao means "that which is
+bad" and may indicate that this variety had a poor reputation as a poi
+taro among the Hawaiians.
+Distribution: Found occasionally under upland culture in Puna, Hawaii.
+Use: A fair table taro.
+
+GROUP ULAULA
+
+This group, comprised of three varieties, is characterized by
+conspicuously red or purplish petioles, comparatively small, ovate
+blades, and reddish-tinged flowers. These taros produce aha rather
+freely. They are grown under either upland or wetland culture and
+are used both for poi and as table taro. Although found in many
+localities, the varieties are grown in small patches, chiefly for home
+consumption, and the group is of very little commercial importance.
+
+Taro Varieties in Hawaii
+
+Sl
+
+48. U1au1a Kumu
+(KU1nu)
+General characteristics: Medium in height to tall, moderately spreading,
+maturing within 8 to 12 months, producing from 5 to 10 aha; identified by
+the brilliant light red petioles.
+Petiole: 75 to 100 cm. long, brilliant light red occasionally faintly diffused
+with yellowish-green, indistinctly dark reddish at edge, a dark red ring
+at base with dark pink for 3 to 5 cm. above.
+Leaf blade: 35 to 45 cm. long, 25 to 35 cm. wide, 25 to 35 cm. from tip to base
+of sinus, ovate, dark glossy green with bluish cast; pika conspicuous,
+purple; veins reddish on lower surface; lobes obtuse, undulate on mar­
+gins, with narrow sinus.
+Corm: Flesh white with pinkish tinge, especially near apex, the fibers yellow­
+ish; skin pinkish-lilac.
+Inflorescence: Peduncle light red; spathe 21 to 23 cm. long, the lower tubular
+portion 3 to 4 cm. long, dark reddish-purple, tightly rolled, the upper
+portion dark yellow with tinge of red throughout, dark red with dark red
+streaks at margins, light red inside, partially open near constriction at
+maturity; spadix about 7 cm. long, the sterile appendage 4 to 5 mm. long,
+not clearly differentiated from staminate portion.
+Origin, and derivation of name: Native variety; named after the brilliant red
+Hawaiian fish, kllmu, because of the brilliant reddish color of the petioles.
+Distribution: Found scattered throughout the islands in small patches under
+both wetland and upland cultures.
+Use: Both as poi and as table taro, principally for home consumption; for­
+merly this variety was used as an offering to the gods.
+Remarks: This is one of the most brilliantly colored of the taros.
+
+49. U1aula Poni
+(Poni Ulaula)
+General characteristics: Medium in height to tall, moderately spreading, ma­
+turing within 8 to 10 months, producing from 5 to 10 aha; recognized by
+the dark reddish-pu;ple petioles, inconspicuously striped with lighter
+color, with bright reddish edges.
+Petiole: 75 to 100 cm. long, dark reddish-purple shading to purplish-lilac on
+upper third, inconspicuously striped with lighter color, distinctly bright
+reddish at edge, a purple ring at base with narrow, bright red area for
+2 to 4 cm. above.
+Leaf blade: 35 to 45 cm. long, 25 to 35 cm. wide, 25 to 35 cm. from tip to base
+of sinus, ovate, dark glossy green with bluish cast; pika conspicuous,
+purple; veins bright reddish on lower surface; lobes obtuse, undulate
+on margins, with narrow sinus.
+Corm: Flesh white with pinkish apex, the fibers yellowish; skin brilliant
+lilac-pink, often dark purple along leaf-scar rings.
+Origin, and derivation of name: Native variety; palli, meaning "purple,"
+refers to the petiole coloring.
+
+52
+
+Bulletin 84, H a'looii Experimellt Station
+
+Distribution: Often found associated with the other Vlallla, usually in the
+uplands.
+Use: Occasionatly as a table taro; in early times a purple pigment was
+extracted from the petioles and used by the natives for dyeing tapa,
+straw hats, etc.
+
+50. Ulaula Moano
+(Ieie, law)
+General characteristics: Medium in height, moderately spreading, maturing
+within 8 to 10 months, producing frol11 5 to 10 aha; characterized by
+reddish-purple petioles with inconspicuous yetlowish-green stripes.
+Petiole: 70 to 95 cm. long, red near base shading to reddish-purple above,
+with inconspicuous yellowish-green stripes especially 011 midsection, in­
+distinctly dark reddish at edge, a dark red ring at base with dark pink
+for 3 to 5 cm. above.
+Leaf blade: 35 to 45 cm. long, 25 to 35 cm. wide, 25 to 35 cm. from tip to base
+of sinus, ovate, dark glossy green with bluish cast; pilw large, distinct,
+purple; primary and marginal veins reddish on lower surface; lobes
+obtuse with narrow sinus.
+Corm: Flesh white with pinkish tinge, especially near apex, the fibers yellow­
+ish; skin pinkish-titac.
+Origin, and derivation of name: Native variety; named after the Hawaiian
+fish, maano, which is reddish to reddish-purple with brownish markings.
+Distribution: Planted in a few scattered localities throughout the islands,
+usuatty under upland culture.
+Use: Both for poi and as table taro, principatly for home consumption.
+
+51. Niue-ulaula
+(Niue)
+General characteristics: Medium in height, well spreading, stocky, maturing
+within 9 to 12 months, producing from 5 to 10 aha; distinguished by its
+deep reddish-brown petioles and white base.
+Petiole: 65 to 80 cm. long, deep reddish-brown slightly diffused with green,
+purplish-red at apex, white at base, with a narrow, dark pinkish edge.
+Leaf blade: 40 to 55 cm. long, 25 to 35 cm. wide, 30 to 45 cm. frolll tip to base
+of sinus, sagittate, dark green with bluish cast; pika large, conspicuous,
+purple; veins distinctly purplish-red Oil lower surface, usuatly purplish
+on upper; lobes acute with narrow sinus.
+Corm: Flesh chalky white with yetlow fibers; skill white to cream-colored.
+Origin, and derivation of name: Introduced from South Seas by Wilder as
+one of two distinct forms named Niue .. the suffix tdaula has been added to
+designate the reddish hue of the petioles.
+Distribution: Limited; grown primarily under upland culture.
+Use: Principally as a table taro.
+Remarks: According to Christophersen (2), Nille is aIJparently the name for
+a group comprising at least three varieties; the writers have not, how­
+
+Taro Varieties in Hawaii
+
+53
+
+ever, been able to ascertain any characters by which the mcmbcrs of thc
+group are linked.
+
+52. Oopukai
+(Kaimoi)
+General characteristics: Medium in height, well spreading, maturing within
+9 to 12 months, producing from 2 to 5 aha; distinguished by lilac-purple
+corm flesh and reddish-purple flecked stripes.
+Petiole: 65 to 90 cm. long, light yellowish-green with dark purplc or rcdrlish­
+purple flecked stripes and blotches, dark red at edge, reddish-purple at
+apex, a dark reddish-purple ring at base with purplish-pink for 3 to 4
+cm. above.
+Leaf blade: 50 to 65 cm. long, 35 to 45 cm. wide, 40 to 50 em. from tip to base
+of sinus, ovate, dark green with bluish cast; margins undulate; pilw
+purple; veins conspicuously reddish-purple over entire lower surface;
+lobes acute with wide sinus.
+Corm: Flesh light lilac-purple with darker purplish fibers; skin dark pinkish­
+lilac.
+Origin, and derivation of name: Native variety; OO!,ukai means "sea guppy,"
+a fish similar in coloring to the petiole of this taro.
+Distribution: Planted fairly extensively in Kona, Hawaii, primarily under
+upland culture, but found only occasionally on the other islands.
+Use: Mainly as table taro; the leaves are often used for luau.
+Remarks: Although good poi can be made from this variety, it cannot be
+stored as long as poi from other taros due to over-rapid fermentation.
+
+GROUP MANINI
+
+This group, named after the common striped fish 1nonini, is distin­
+guished by green and reddish-purple or purplish-black striped petioles,
+white corm flesh, and quite narrow, sagittate leaf blades. Formerly it
+was grown quite extensively under wetland culture, particularly in
+Wahiawa, Kauai, which was noted for its Manini taros. At present
+the varieties are grown under upland culture in a few scattered locali­
+ties for home consumption as table taro. Their popularity has declined
+somewhat, possibly due to susceptibility to disease or to higher yields
+of other varieties.
+
+53. Manini Uliuli
+General characteristics: Medium in height to tall, slender, erect, maturing
+in about 12 months, producing from 2 to 5 aha; characterized by broad
+purplish-black stripes on dark green petioles.
+Petiole: 75 to 90 cm. long, dark green with broad purplish-black stripes
+especially ncar base, with light pink to whitish edge, purplish-red at
+apex, white at base with livid brown for 3 to 4 Clll. above.
+
+54
+
+Bulletin 84, Hawaii Experiment Station
+
+Leaf blade: 3S to 50 cm. long, 25 to 3S cm. wide, 25 to 35 cm. from tip to base
+of sinus, sagittate, thin in texture, dark green; margins slightly undulate;
+pika purple; veins reddish on lower surface of lobes; lobes acute with
+narrow smus.
+Corm: Flesh white with yellowish fibers; skin yellowish with purple leaf scars.
+Origin, and derivation of name: Native variety; derives name from dark
+striping of petioles.
+Distribution: Limited; grown equally well under upland or wetland culture.
+Use: Chiefly as table taro; makes poi of fair quality.
+Remarks: The petiole stripes are less interrupted than in other striped vari­
+eties and very broad, especially at base, often coalescing to form purplish­
+black blotches.
+
+54. Manini Kea
+General characteristics: Medium in height to tall, well spreading, maturing
+in about 12 months, producing from 5 to 10 aha; distinguished by very
+light-colored petioles with indistinct reddish-purple stripes.
+Petiole: 6S to 90 cm. long, shading from light green to yellowish-green toward
+apex with a few indistinct, more or less interrupted reddish-purple stripes
+more prominent toward base, conspicuously reddish-purple at apex, an
+area of white for 3 to 5 cm. above base, with inconspicuous faint pink to
+whitish edge.
+Leaf blade: 40 to 50 cm. long, 30 to 35 em. wide, 30 to 40 cm. from tip to base
+of sinus, sagittate, thin in texture, drooping, dark green with bluish cast;
+pika purple; veins purple on lower surface of lobes; lobes acute with
+narrow sinus.
+Corm: Flesh white with yellowish fibers; skin white to cream-colored.
+Origin, and derivation of name: Native variety; probably called Kea because
+of very light petioles.
+Distribution: Planted in a few scattered localities, under upland or wetland
+culture.
+Use: Makes poi of good quality.
+Remarks: This variety seems to be fairly resistant to soft rot. It is the
+lightest in color of the striped taros, both basically and as to stri})es,
+which are, strictly speaking, minute fleckings arranged in definite, nar­
+row lines.
+
+55. Manini Toretore
+(~oretore)}torefore)
+
+General characteristics: Medium in height to tall, slender, erect, maturing
+within 9 to 12 months, producing from 2 to S oha; differentiated by pro­
+fuse purplish-black stripes on light green background.
+Petiole: 7S to 100 cm. long, light green prominently striped with purplish­
+black nearly throughout, the upper section suffused with reddish-purple
+which runs into primary veins of basal lobes, reddish-purple at apex,
+whitish at base, with indistinct whitish edge.
+
+Taro Varieties in Hawaii
+
+55
+
+Leaf blade: 40 to 55 cm. long, 35 to 45 cm. wide, 30 to 40 cm. from tip to base
+of sinus, ovate, inconspicuously mottled dark and light green with bluish
+cast; pika large, prominent, purple; veins reddish-purple at margins and
+on lower surfaces of lobes; lobes acute with deep, narrow sinus.
+Corm: Flesh chalky white with conspicuous yellow fibers; skin cream-colored.
+Inflorescence: Peduncle striped dark purple and light green; spathe about
+28 cm. long, the lower tubular portion striped like peduncle with deep
+purple at constriction, the upper portion yellow; spadix about 9 cm. long,
+the staminate portion yellow, the sterile appendage orange, about 810m.
+long.
+Origin, and derivation of name: Introduced from South Seas; Taretare is
+the name under which it was introduced but it has been classified under
+the M anini group.
+Distribution: Liitle-known variety of limited distribution.
+Use: A fair table taro.
+
+56. Papakolea-koae
+(Papakolea)
+General characteristics: Short to medium in height, moderately spreading,
+stocky, maturing within 9 to 12 months, producing from 5 to 10 aha; the
+brilliantly red-streaked apex of the petiole is distinctive.
+Petiole: 60 to 80 cm. long, dark green brilliantly streaked with red at apex,
+especially when young, a brilliant deep pink ring at base, the area above
+red with a few broad green stripes, indistinctly pinkish at edge.
+Leaf blade: 40 to 55 cm. long, 30 to 35 cm. wide, 30 to 40 cm. from tip to base
+of sinus, slightly concave, thin in texture, medium green; margins
+slightly undulate; pika light green or tinged with red; veins brilliantly
+reddish on lower surfaces of lobes; lobes acute with wide sinus.
+Corm: Flesh white with pinkish tinge, especially near apex, and yellowish
+fibers; skin a brilliant pink, purple at leaf-scar rings.
+Origin, and derivation of name: Native variety; Papokalea, being the name
+of a land district, and kaae, meaning "the food of," probably indicates that
+this variety was the common food of the district.
+Distribution: Planted exclusively under upland culture in a few scattered
+localities, chiefly in Kona and Puna, Hawaii.
+Use: Primarily as a table taro.
+Remarks: The red coloration near the base of the petioles is often so narrow
+that it may not be noticed.
+
+57. Ula
+General characteristics: Short to medium in height, moderately spreading,
+stocky, maturing within 9 to 12 months, producing from 2 to 5 aha; dis­
+tinguished by a few narrow green stripes on the brilliant pink basal por­
+tion of the petioles.
+Petiole: 60 to 80 cm. long, rather rigid, nearly solid pink at base with narrow
+green stripes, the upper half green, distinctly reddish-pink at edge, a
+white ring at base.
+
+S6
+
+Bulletin 84, Ha'looii Experiment Station
+
+Leaf blade: 40 to 55 em. long, 30 to 40 em. wide, 30 to 40 em. from tip to base
+of sinus, ovate, thin in texture, medium green; margins slightly undulate;
+pika yellowish-green to light green; lobes acute with narrow sinus.
+Corm: Flesh chalky white with large, conspicuous, yellow fibers; skin white
+to cream-colored.
+Origin and derivation of name: Introduced from Samoa by Wilder, ula
+means "red" in Samoan and probably refers to the brilliant pinkish-red
+coloration of the petiole bases.
+Distribution: Upland taro of limited distribution.
+Use: A good table taro.
+Remarks: The similarity between this variety and Papalwlea-lwae is rather
+striking, further indicating the close relationship between certain Hawai­
+ian and South Sea forms.
+
+58. Nihopuu
+General characteristics: Medium in height to tall, moderately spreading,
+maturing within 12 months, producing from S to 10 aha; identified by
+light and dark green-striped petioles and distinct purplish-black edges.
+PetiGle: 75 to 90 em. long, light and dark green-striped, the light green pre­
+dominating, conspicuously purplish-black at edge, white to greenish-white
+at base.
+Leaf blade: 45 to 50 em. long, 30 to 35 em. wide, 35 to 40 em. from tip to base
+of sinus, sagittate, indistinctly light and dark green-mottled; pika purple;
+lobes acute with deep, narrow sinus.
+Corm: Flesh white with yellowish fibers; skin white.
+Origin, and derivation of name: Native variety, collected at Ewa, Oahu;
+the derivation of the name is unknown.
+Distribution: Rare; formerly grown to considerable extent in valleys near
+Schofield Barracks.
+Use: Makes a light-colored poi of good quality.
+Remarks: This variety is said to be susceptible to soft rot soon after matur­
+ity, necessitating early harvesting.
+
+59. Manini-opelu
+General characteristics: Medium in height, well spreading, maturing within
+9 to 12 months, producing from S to 10 alta; distinguished by profuse light
+and dark green striping of the petiole, with reddish tinge on upper third.
+Petiole: 6S to 90 em. long, distinctly and profusely dark and light green­
+striped, strongly tinged with reddish-purple on upper third, white at base,
+light pinkish at edge, curved slightly at apex.
+Leaf blade: 4S to 55 em. long, 30 to 40 em. wide, 40 to 45 em. from tip to base
+of sinus, sagittate, thin in texture, drooping, inconspicuously light and dark
+green-mottled; margins undulate; pika purple; veins reddish-purple on
+lo~er surface; lobes acute with narrow sinus.
+Corm: Flesh white with yellow fibers; skin white to cream-colored.
+Inflorescence: Peduncle green- and white-striped with diffusion of reddish­
+purple; spathe 28 to 32 em. long, the lower tubular portion 4 to 5 em.
+
+Taro Varieties in Hawaii
+
+57
+
+long, tightly convolute, green- and white-striped with conspicuous diffu­
+sion of reddish-purple often nearly obscuring the striping, thc upper
+portion tightly rolled, slightly open near constriction upon maturity,
+yellow, oftcn drooping.
+Origin, and derivation of name: Native variety, the first part of thc namc
+is derived from the striping, and the second may be due to the coloring of
+the petiole or to the use of the corm as fish bait.
+Distribution: Planted in a few scattered localities, ncarly always under
+upland culture.
+Use: Primarily as a table taro.
+
+60. Hinupuaa
+(Manini)
+General characteristics: Medium in height to tall, slender, moderately
+spreading, maturing within 15 to 18 months, producing from 2 to 5 aha;
+readily identified by profuse light and dark green petiole stripes and light
+pinkish edge.
+Petiole: 70 to 100 cm. long, light and dark green-striped throughout length
+of petiole, the dark stripes predominating, slightly tinged with purple on
+upper half, purplish at apex, white to greenish-white at base, light pinkish
+at edge.
+Leaf blade: 35 to 60 cm. long, 30 to 40 cm. wide, 30 to 45 cm. from tip to base
+of sinus, sagittate, thin in texture, slightly mottled dark and light green
+with bluish cast; margins slightly undulate; pilw purple; lobes acute with
+narrow sinus.
+Corm: Flesh white with yellowish fibers; skin white to cream-colored.
+Inflorescence: Peduncle green- and white-striped; spathe about 24 cm. long,
+the lower tubular portion 4 to 5 cm. long, green- and white-striped, the
+upper yellow, tightly rolled or sometimes open near constriction; spadix
+8 cm. long, the sterile appendage 7 mm. long.
+Origin, and derivation of name: Native variety; the name Hinllpuaa is literally
+translatcd "pig grease," and may have referred to the glossy appearance
+of the petiole or the slippery texture of the cooked corm.
+Distribution: Limited; usually grown under upland culture.
+Use: Mai nly as a table taro.
+
+61. NiUe-uliuli
+(Niue)
+General characteristics: Medium in height to tall, moderately spreading,
+maturing within 9 to 12 months, producing from 2 to 5 aha; quite similar
+in coloring to Kai Ulillli except at the edge, which is narrow and reddish
+instead of broad and whitish or yellowish.
+Petiole: 75 to 105 cm. long, dark green slightly shaded with reddish-brown,
+purplish at apex, reddish at edge, a brilliant dark pink ring at base with
+light pink for 3 to 4 cm. above.
+
+58
+
+Bulletin 84, H a'Waii Experi1nent Station
+
+Leaf blade: 45 to 55 COl. long, 30 to 40 COl. wide, 40 to 45 cm. from tip to base
+of sinus, ovate, slightly concave, dark green with bluish cast; margins
+with numerous fine undulations; pika and marginal veins reddish-purple;
+lobes obtuse with wide sinus.
+Corm: Flesh white tinged with pink, especially near apex, with yellowish
+fibers; skin light pink.
+Origin, and derivation of name: Introduced from Samoa by Wilder under
+the name Niue (see also Nille-lIlallla, No. 51); the suffix uliuli given to
+this variety refers to the dark green petioles which are slightly shaded
+with reddish-brown.
+Distribution: Little-known variety of limited distribution.
+Use: Primarily as a table taro.
+
+62. Ohe
+General characteristics: Medium in height, wetl spreading, stocky, maturing
+within 12 to 16 months, producing from 5 to 10 aha; characterized by
+light green petioles with light reddish-brown tinge on lower half.
+Petiole: 60 to 80 cm. long, light green tinged with light reddish-brown on
+lower half, with inconspicuous, narrow, reddish-brown edge, an orange­
+red or dark pink ring at base with light greenish or pinkish area for 3 to
+5 cm. above.
+Leaf blade: 35 to 45 cm. long, 20 to 30 cm. wide, 30 to 35 cm. from tip to base
+of sinus, sagittate, thin in texture, medium green; margins slightly undu­
+late; pika whitish to light brownish; lobes acute with wide sinus.
+Corm: Flesh white with light pinkish tinge, especially near apex, and yel­
+lowish fibers; skin light pink.
+Origin, and derivation of name: Native variety; Ohe is the Hawaiian name
+for bamboo and probably refers to the similarity of the petiole coloring to
+the stem coloring of a certain variety of Hawaiian bamboo.
+Distribution: Very common in Kona, Puna, and Kau on Hawaii, primarily
+under upland culture.
+Use: Makes poi of excellent quality.
+Remarks: This variety is an important upland poi taro, especially well
+adapted to elevations above 1,500 feet.
+
+GROUP LEHUA
+
+This group is distinguished by light green, spreading petioles, very
+smooth, sagittate leaf blades, and lilac-purple corms. The name LeIma
+is derived from the flowers of the lehua tree, which are similar in color­
+ing to the corm flesh. There are four varieties, all of which make red
+poi of excellent quality. All red pois are called {(Lehua poi" for this
+reason. They mature early, usually in from 8 to 12 months, and are
+grown under both wetland and upland cultures. They are known as
+royal taros and were formerly grown for and eaten only by the chiefs.
+
+Taro Varieties in Hawaii
+
+S9
+
+63. Lehua Maoli
+(Lehua)
+General characteristics: Medium in height, well spreading, slender, maturing
+within 8 to 12 months, producing from 5 to 10 aha; identified by yellowish­
+green, widely spreading petioles and light purplish-lilac corm flesh.
+Petiole: 65 to 80 em. long, yellowish-green with pinkish cast, slightly tinged
+with brownish-purple at apex, pinkish-lilac at edge, a dark reddish-purple
+ring at base with light purplish-lilac for 3 to 5 em. above.
+Leaf blade: 40 to 55 em. long, 30 to 40 em. wide, 35 to 45 em. from tip to base
+of sinus, sagittate, very smooth in outline, thin in texture, drooping,
+medium green, often with pinkish tinge when young; pilla small, light
+pinkish; lobes acute with narrow sinus.
+Corm: Flesh light purplish-1ilac with darker purplish fibers; skin dark
+pinkish-lilac.
+Inflorescence: Peduncle pale green with pinkish flush; spathe 14 to 20 em.
+long, the lower tubular portion 2.5 to 3 em. long, olive green with pinkish
+tinge, the upper portion deep yellow, open near constriction only upon
+maturity; spadix 6 to 7 em. long, the sterile appendage 6 to 8 mm. long.
+Origin, and derivation of name: Native variety; l/laoli means "the more com­
+mon" or "ordinary." This variety is commonly known simply as "Le/lUa."
+Distribution: A favorite variety of the Hawaiians, grown throughout the
+islands under both upland and wetland cultnres. It is the most widely
+.distributed of the upland poi taros and is planted extensively in Kana,
+Hawaii.
+Use: The widely advertised "Lchlla red poi," which often commands a pre­
+mium in price, usually comes from this variety.
+
+64. Lehua Keokeo
+(Wm:akea)
+General characteristics: Medium in height, well spreading, maturing within
+8 to 12 months, producing from 5 to 10 aha,. identified by pale green peti­
+oles with broad, purplish-black edges.
+Petiole: 70 to 90 em. long, pale green often tinged with reddish-brown at
+apex, pinkish at base with a reddish-purple ring, the edge conspicuous,
+broad, purplish-black with adjacent dark green blotches.
+Leaf blade: 40 to 55 em. long, 35 to 45 em. wide, 35 to 45 em. from tip to base
+of sinus, broadly sagittate, drooping, medium green with pinkish cast
+when young; margins slightly undulate; pika pinkish; veins reddish on
+lower surface; lobes acute with medium-cut sinus.
+Corm: Flesh pale pinkish with purplish fibers; skin dark pinkish.
+Origin, and derivation of name: An old native variety; the descriptive name
+Keakea is derived from the pale coloring of the petiole.
+Distribution: Grown in a few scattered localitie5, primarily under upland
+culture.
+Use: Makes red poi of good quality.
+
+60
+
+Bulletin 84, Hawaii Experinu?1It Station
+
+Remarks: This variety is reputed to make very luxuriant growth in certain
+sections, rivaling the Lal£laa group.
+
+65. Lehua Eleele
+(Wo.11al10)
+General characteristics: Medium in height to taft, slender, erect, maturing
+within 8 to 12 months, producing from 2 to 5 aha; distinguished by the
+dark green petioles which are shaded with purple, especially near base
+and along margins.
+Petiole: 75 to 100 em. long, dark green with purplish shading especially near
+base and along margins, purple at apex, with a narrow dark reddish to
+purplish-black edge, a dark reddish-purple ring at base with lighter
+reddish-purple for 3 to 5 em. above.
+Leaf blade: 45 to 55 em. long, 30 to 35 em. wide, 35 to 45 em. from tip to base
+of sinus, sagittate, drooping, dark green; pika small, dark purplish; lobes
+acute with deep, narrow sinus.
+Corm: Flesh lilac-purple with darker reddish-purple fibers; skin brilliant
+reddish-purple; roots light reddish-purple.
+Orgin, and derivation of name: Native variety; the name Eleele is probably
+given to this variety because it has much darker colored petioles than
+other Lehua varieties, although the petioles are far from being blackish.
+This variety is known as Wailalla in Kona, Hawaii.
+Distribution: Planted quite extensively in Kona, Hawaii, usually under
+upland culture, but practically none is grown elsewhere.
+Use: Makes a very good red poi.
+Remarks: This is an early-maturing taro of high yielding capacity. It must
+be harvested as soon as it is mature as it rots readily if held in the field
+for any length of time.
+
+66. Lehua Palaii
+(Palaii)
+General characteristics: Short to medium in height, stiffly erect, slender,
+maturing within 12 to 18 months, producing from 5 to 10 aha; distinguished
+by lilac-purple corm flesh and dark green petioles.
+Petiole: 60 to 75 em. long, dark green slightly tinged with reddish-brown at
+apex, a dark purple ring at base with light purplish-lilac for 3 to 4 em.
+above, with a narrow, indistinct, reddish to whitish edge.
+Leaf blade: 40 to 50 em. long, 25 to 35 em. wide, 30 to 40 em. from tip to base
+of sinus, sagittate, drooping, dark green with faint pinkish cast; margins
+slightly undulate; pika light green to faint brownish; lobes acute with
+fairly deep, wide sinus.
+Corm: Flesh lilac-purple with darker purplish fibers; skin light pink.
+Intlorescence: Peduncle dark green; spathe 18 to 23 em. long, the lower
+tubular portion 3 to 4 em. long, dark green, the upper portion clear, deep
+yellow, open near constriction only upon maturity; spadix 7 to 8 em. long,
+the sterile appendage 5 to 8 mm. long.
+
+Taro Varieties in Hawaii
+
+61
+
+Origin, and derivation of name: Native variety; the derivation of the name
+is unknown.
+Distribution: Planted extensively in Kona, Hawaii, where it probably covers
+a greater acreage than any other variety, principally under upland culture.
+Use: An excellent upland poi taro.
+Remarks: This variety is said to be quite hardy and a good yielder.
+
+67. Apowale
+General characteristics: Medium in height, stiffly erect, maturing within 9 to
+12 months, producing from 2 to 5 oha; identified by dark green petioles
+flecked with reddish-brown near basal portion.
+Petiole: 60 to 90 cm. long, dark green flecked with reddish-brown on lower
+portion, with an indistinct, narrow, reddish edge, pink at base.
+Leaf blade: 40 to 6S cm. long, 30 to 50 cm. wide, 35 to 55 cm. from tip to base
+of sinus, sagittate, thin in texture, slightly crinkled, dark green; piko and
+midrib whitish to light brownish; lobes obtuse with shallow, wide sinus.
+Corm: Flesh white with light pinkish tinge, especially ncar apex, and yel­
+lowish fibers; skin dark pink to purplish.
+Origin, and derivation of name: Native variety; apowale means "to seize,"
+and undoubtedly derives from the fact that the variety has a tough root sys­
+tem and must be grasped firmly when pulled.
+Distribution: Grown to a limited extent on Oahu, principally at Waialua,
+usually under wetland culture.
+Use: Chiefly as poi taro.
+
+68. Wehiwa
+(Wehewa, Wewehiwa)
+General characteristics: Medium in height, moderately spreading, maturing
+within 8 to 12 1110nths, producing from 5 to 10 olza; similar to Apowale
+except that the flecking and color of base arc lighter and the petioles are
+reddish at point of juncture with the leaf blade.
+Petiole: 70 to 90 cm. long, dark green with dark purplish tinge on lower por­
+·tion, flecked near base, light reddish-brown at apex, reddish-brown at
+edge, a light pink ring at base.
+Leaf blade: 45 to 55 Cl~l. long, 30 to 40 C111. wide, 35 to 4S cm. from tip to base
+of sinus, sagittate, somewhat concave, dark green; margins slightly undu­
+late; pika light reddish-purple; lobes acute with llarrow sinus.
+Corm: Flesh white with yellowish fibers; skin light to dark purple, the leaf
+scars dark purple.
+Inflorescence: Peduncle dark green with brownish flecking on lower part;
+spathe 22 to 26 em. long, the lower tubular portion 3 to 3.5 em. long, dark
+green with purple at base, the upper portion yellow; spadix about 10 cm.
+long, the sterile appendage 8 to 9 mm. long.
+Origin, and derivation of name: Native variety; the derivation of the name
+is unknown.
+
+62
+
+Bulletin 84, Hawaz:i Ex.perime1lt Station
+
+Distribution: Little-known variety, found only occasionally around Hilo and
+in Puna, Hawaii, under upland culture.
+Use: Good for poi as well as for luau.
+Remarks: Growers state that this variety can be held over in the fields for a
+considerable period after maturity without serious loss from soft rot.
+
+69. Papapueo
+General characteristics: Short to medium in height, moderately spreading,
+maturing within 9 to 12 months, producing from 2 to 5 oha; the dark green
+petiole with conspicuous, broad whitish edge is the chief distinguishing
+character.
+Petiole: 50 to 70 cm. long, dark green with conspicuous, broad whitish edge,
+a brilliant dark pink ring at base with light pink for 3 to 5 cm. above.
+Leaf blade: 35 to 50 em. long, 25 to 40 cm. wide, 30 to 40 cm. from tip to base
+of sinus, ovate, drooping, dark green; margins slightly undulate; pilw
+light green to light brownish; lobes acute with wide sinus.
+Corm: Flesh white with inconspicuous yellowish fibers; skin pale pink.
+Origin, and derivation of name: Native variety; the name Papapul!o may indi­
+cate that this is an old variety in Hawaii, papa meaning "ancient" and
+/mea, "a land secti(;m."
+Distribution: Grown to some extent on Maui, under wetland culture, but very
+little elsewhere.
+Use: Fair poi taro.
+
+70. Kuoho
+General characteristics: Medium in height, moderately spreadillg, m:lturing
+within 9 to 12 months, producing from 5 to 10 aha; distinguished by very
+dark green petioles with indistinct, narrow pinkish edges.
+Petiole: 65 to 80 cm. long, dark green with an indistinct, narrow pinkish
+edge, a dark pink ring at base with light pinkish area for 1 to 3 cm. above.
+Leaf blade: 35 to 45 cm. long, 25 to 30 cm. wide, 25 to 35 cm. from tip to base
+of sinus, narrowly sagittate, dark green; margins slightly undulate;
+piko light yellowish; lobes acute with wide sinus.
+Corm: Flesh white with light pinkish tinge, especially near apex, the fibers
+yellowish; skin light pink, purplish along leaf-scar rings.
+Origin, and derivation of name: Native variety; Iwoho means "fish hook,"
+but the source of the name is unknown.
+Distribution: A great favorite in Puna, Hawaii, but seldom seen elsewhere;
+grown mainly under upland culture.
+Use: Makes smooth, light-colored poi of good quality.
+
+71. Leo
+General characteristics: Medium in height, moderately spreading, maturing
+within 9 to 12 months, producing from 2 to 5 oha; distillguished by some­
+what crinkled leaf blades, whitish petiole bases, and yellowish-green
+blotches adjacent to narrow, reddish petiole edges.
+
+Taro Varieties in. Hawaii
+
+63
+
+Petiole: 65 to 80 ern. long, dark green with dark brown flecked shading on
+lower portion, yellowish at apex, white at base, a narrow reddish edge
+usually with adjacent yellowish-green blotches, especially near base.
+Leaf blade: 40 to 50 ern. long, 35 to 40 ern. wide, 30 to 40 ern. from tip to base
+of sinus, ovate, slightly crinkled, dark green; pika light green to yellow­
+ish; veins conspicuous; lobes obtuse to slightly acute with wide sinus.
+Corm: Flesh white with yellowish fibers; skin cream-colored.
+Inflorescence: Peduncle green; spathe 15 to 17 ern. long, the lower tubular
+portion 2.5 to 3 ern. long, green, the upper portion yellow; spadix 6 to 7
+em. long, the sterile appendage 8 to 11 mm. long.
+Origin, and derivation of name: Native variety; leo, meaning "influence aris­
+ing from station, character, or reputation," indicates that this may have
+been an important variety in the old days.
+Distribution: Little is grown except for some plantings in Puna, Hawaii,
+usually under upland culture.
+Use: Primarily as a table taro.
+
+72. Maea
+General characteristics: Medium in height, well spreading, maturing within
+9 to 12 months, producing from 5 to 10 aha; characterized by dark green
+petioles, whitish at base with reddish-brown flecks immediately above,
+and conspicuous broad whitish edges.
+Petiole: 60 to 80 ern. long, drooping, dark green flecked with reddish-brown,
+the flecking most pronounced near base, with a conspicuous, broad whitish
+edge, often tinged with reddish'-purpleadjacent to the edge, white at base.
+Leaf blade: 35 to 45 em. long, 25 to 30 ern. wide, 30 to 40 ern. from tip to base
+of sinus, narrowly sagittate, dark green; pika yellowish; lobes acute with
+wide sinus.
+Corm: Flesh white with yellowish fibers; skin cream-colored, usually with
+dark purple along leaf-scar rings.
+Origin, and derivation' of name: Native variety; maea means "strong smell­
+ing" or "pungent" in Hawaiian, and probably refers to the odor of the cooked
+corms.
+Distribution: Little-known variety, found occasionally under upland culture
+in Puna, Hawaii.
+Use: Mainly as a table taro.
+
+73. Haokea
+(HaalleGo, H aawikea, Ahakea)
+General characteristics: Medium in height, erect, stocky, maturing within 9
+to 12 months, producing from 10 to 15 aha; distinguished by the light self­
+green petioles and narrowly ovate leaf blades.
+Petiole: 65 to 90 em. long, light green with indistinct greenish edge, white
+at base.
+Leaf blade: 45 to 60 em. long, 35 to 50 em. wide, 35 to 45 em. from tip to base
+of sinus, narrowly ovate, medium green; pika light yellowish-green; veins
+rather conspicuous; lobes obtuse with wide sinus.
+
+64
+
+Bulletin 84, Hawaii Experimellt Station
+
+Corm: Flesh white with yellowish fibers; skin white; roots conspicuously
+white.
+Inflorescence: Peduncle light green; spathe 26 to 37 cm. long, the lower
+tubular portion 4 to 5 cm. long, light green with faint tinge of purple at
+base, rather loosely rolled, the upper portion deep yellow, open near
+constriction and loosely rolled above; spadix 8 to 11 cm. long, the sterile
+appendage 9 to 14 mm. long, clearly constricted from staminate portion.
+Origin, and derivation of name: Native variety; the name is probably derived
+from the firm white corm flesh.
+Distribution: Quite common throughout the islands, under both wetland and
+upland cultures.
+Use: A commercial poi taro in certain areas on Oahu, making a good quality
+poi of grayish color. The young leaves are comparatively nonacrid and
+are used extensively for luau. Formerly, this taro was used as offerings
+to the gods, the luau being highly prized by the kahuna. It was also used
+quite widely for medicinal purposes.
+
+74. Ka1alau
+General characteristics: Short to medium in height, well spreading, maturing
+within 9 to 12 months, producing from 5 to 10 aha; identified by the light
+self-green spreading petioles and sagittate leaf blades.
+Petiole: 5S to 70 cm. tall, light green, inconspicuously greenish at edge, white
+at base.
+Leaf blade: 3S to 50 cm. long, 25 to 3S cm. wide, 30 to 40 cm. from tip to base
+of sinus, sagittate, medium green; margins slightly undulate; pika yel­
+lowish; lobes acute with wide sinus.
+Corm: Flesh chalky white with yellowish fibers; skin whitish.
+Origin, and derivation of name: Native variety; possibly named after Kala­
+lau, a tableland on Mt. Waialeale, KauaL
+Distribution: Planted, quite extensively on Maui, Molokai, and KauaL
+Use: Not very important commercially as it is inclined to rot readily under
+slightly adverse conditions. The luau is relatively nonacrid. Poi of good
+quality may be made from this variety.
+
+65
+
+DESCRIPTIONS OF UNCLASSIFIED
+VARIETIES
+
+66
+
+DESCRIPTIONS OF UNCLASSIFIED
+VARIETIES
+
+67
+
+75. Hapuu
+(Hapuupuu)
+General characteristics: Medium in height, erect, maturing within about 12
+months, producing from 2 to 5 aha; identified by the dark reddish-brown
+to purplish-brown coloration on the lower half of the petioles with reddish­
+flecked area at base.
+Petiole: 60 to 80 cm. long, dark reddish-brown or purplish-brown on lower
+half, sometimes lightly tinged with green, pinkish to whitish at edge, a
+reddish-purple ring at base with lighter reddish-purple, flecked area for
+3 to 5 cm. above.
+Leaf blade: 40 to 50 cm. long, 25 to 35 em. wide, 30 to 40 cm. from tip to base
+of sinus, narrowly ovate; pika whitish to pinkish; lobes obtuse with shallow,
+wide sinus.
+Corm: Flesh white with light pinkish tinge, especially near the apex, the
+fibers yellowish; skin reddish.
+Origin, and derivation of name: Native variety; hapllu means "abounding"
+or "plenteous."
+Distribution: Grown to a limited extent, under both upland and wetland
+cultures; this is an important poi taro in a few scattered localities, the
+vicinity near Hana, Maui having the most .extensive plantings.
+Use: Makes a light-colored poi of good quality; the leaves are considered
+very good for lllau.
+
+76. Laaloa
+General characteristics: Medium in height, well spreading, maturing within
+8 to 12 months, producing from 5 to 10 aha; characterized by white petiole
+bases and reddish-brown shading on the lower half of the petioles.
+Petiole: 65 to 90 em. long, reddish-brown shading to greenish on upper por­
+tion, indistinctly brownish at edge, white at base.
+Leaf blade: 40 to 50 cm. long, 30 to 35 cm. wide, 30 to 40 cm. from tip to base
+of sinus, sagittate, medium green; pilzo light yellowish-green; lobes obtuse
+to slightly acute with wide sinus.
+Corm: Flesh chalky white with yellowish fibers; skin whitish.
+Origin, and derivation of name: Native variety; the derivation of the name
+is unknown.
+Distribution: Most C0l111110n on the island of Hawaii, chiefly under upland
+culture; it thrives best in wet upland forests.
+Use: Mainly as table taro.
+
+77. Lauloa Uliuli
+(Hinapu Lauloa H a Uliuli)
+J
+
+General characteristics: Tall, erect, stocky, maturing within 9 to 12 months,
+producing from 5 to 10 aha; distinguished from other Lalllaa by dark green
+petioles with dark brown tinge on lower portion.
+Petiole: 100 to 140 em. long, dark green tinged with dark brown or reddish­
+brown on lower portion only, pink to whitish at edge, a dark red ring at
+base with light pink for 4 to 6 cm. above.
+
+68
+
+Bulletin 84, Hawaii Experilltellt Station
+
+Leaf blade: 4S to 6S cm. long, 30 to 40 cm. wide, 3S to 50 cm. from tip to base
+of sinus, sagittate, slightly concave, dark green; margins with a few large
+undulations; pika small, light purplish; lobes obtuse with narrow sinus.
+Corm: Flesh white with pinkish tinge, especially near apex, and yellowish
+fibers; skin light pink, occasionally purple along leaf-scar rings.
+Origin, and derivation of name: Native variety; the descriptive name Ulillli
+refers to the dark green petioles with brownish tinge.
+Distribution: Found occasionally among other Lalllaa.
+Use: Mainly as table taro.
+
+78. Lihilihimolina
+General characteristics: Short to medium in height, well spreading, produc­
+ing a few aha; easily identified by the unusual coloring of the corm flesh­
+lilac-purple in the center, surrounded by white. This is the only taro
+having bicolored corm flesh.
+Petiole: 55 to 70 cm. long, rather drooping, yellowish-green flecked with
+reddish-brown near base, a faint, pale pink ring at base with white for
+3 to 5 cm. above.
+Leaf blade: 35 to 45 cm. long, 25 to 35 Clll. wide, 30 to 3S cm. from tip to base
+of sinus, sagittate, thin in texture, smooth and regular in outline; lobes
+acute with wide sinus.
+Corm: Conspicuously lilac-purple at center and white outside; skin white
+with purple along leaf-scar rings.
+Origin, and derivation of name: Native variety; the derivation of the name is
+unknown.
+Distribution: Found only occasionally under upland culture on the island of
+Hawaii.
+Use: Primarily as a table taro.
+
+79. Mana Eleele
+(Polli Mana)
+General characteristics: Medium in height, erect, maturing within 9 to 12
+months, producing two or three branches; readily distinguished from
+other Malia by blackish petioles.
+Petiole: S5 to 85 cm. long, purplish-black, pink to whitish at edge, a dark
+reddish-purple ring at base with lilac pink for 3 to 4 cm. above.
+Leaf blade: 35 to 50 cm. long, 25 to 40 cm. wide, 30 to 40 cm. from tip to base
+of sinus, ovate, dark green; veins purplish on lower surface; lobes acute
+with shallow sinus.
+Corm: Flesh white tinged with lilac ncar apex, with yellowish fibers; skin
+dark purple.
+Origin, and derivation of name: Native variety; the descriptive name Eleele
+refers to the color of petioles.
+Distribution: Limited, confined chiefly to the island of Hawaii; planted almost
+exclusively under upland culture.
+Use: Mainly as table taro for home consumption.
+Remarks: This variety is said to be the most drought-resistant of the Hawaiian
+taros.
+
+Taro Varieties in Hawaii
+
+69
+
+80. Mana Okoa
+General characteristics: Resembles Mana. Keokco except that petioles arc
+decidedly lighter green and leaf blades are sagittate rather than ovate.
+Petiole: 60 to 85 em. long, light green, pinkish-red at edge, white at base.
+Leaf blade: 45 to 55 em. long, 30 to 35 cm. wide, 35 to 40 cm. from tip to base
+of sinus, sagittate, medium green; margins undulate; pilw light greenish;
+lobes acute with narrow sinus.
+Corm: Flesh white with yellowish fibers; skin whitish.
+Origin, and derivation of name: Probably native of Hawaii; as no name
+could be ascertained it has been given the descriptive name of 01.-00,
+meaning "another."
+Distribution: Limited; occurs as a mixture in large plantings of /Ilana Keokeo.
+Use: Fair table taro.
+
+81. Moi
+(Neenee)
+General characteristics: Medium in height, well spreading, maturing within
+9 to 12 months, producing from 5 to 10 aha; characterized by its light
+green petioles with pinkish base.
+Petiole: 60 to 85 cm. long, slender, drooping, light green, indistinctly whitish­
+green at edge, a pink ring at base with lighter pink for 3 to 5 em. above.
+Leaf blade: 40 to 55 em. long, 30 to 45 cm. wide, 30 to 45 em. frol11 tip to base
+of sinus, narrowly ovate, thin in texture, medium green; piko whitish;
+veins conspicuous, light green; lobes acute with shallow, wide sinus.
+Corm: Flesh white with light pinkish tinge, especially near apex, the fibers
+yellow; skin pale pink.
+Origin, and derivation of name: Native variety; probably named after the
+whitish Hawaiian fish, 1/Ioi.
+Distribution: At the present time this variety is one of the lesser-known
+taros but it is quite popular in certain districts, especially on Maui,
+Molokai, and in Puna, Hawaii; grown pri"cipally under upland culture
+but also does well under wetland culture.
+Use: Good poi and table taro.
+
+82. Oene
+(Owene U[aula, Owene)
+General characteristics: Short to medium in height, moderately spreading,
+maturing within 9 to 12 months, producing from 6 to 15 aIm; distinguished
+by the lilac-purple flecked petioles which are almost lacking in green and
+fairly numerous aha.
+Petiole: 60 to 75 cm. long, light lilac-purple flecked, almost lacking in green,
+a dark pink ring at base with lighter pink for 3 to 5 em. above..
+Leaf blade: 35 to 45 cm. long, 25 to 30 cm. wide, 25 to 35 cm. from tip to base
+of sinus, ovate, dark green; pilw purple; lobes obtuse with wide sinus.
+Corm: Flesh white with light pinkish tinge, especially near apex; skin dark
+pink.
+
+70
+
+Bulletin 84, Hawaii Experi1nellt Station
+
+Origin, and derivation of name: Native variety; the derivation of the name
+is unknown.
+Distribution: This variety is rare at the present time, being grown only by
+a few Hawaiians who keep collections of Hawaiian varieties for a hobby.
+It is a wild taro which used to grow fairly abundantly in open woodlands,
+with little care, but was seldom raised under cultivation.
+Use: Not used for food at the present time.
+Remarks: This variety, having the smallest corm of all the taros, was used
+only when other food supplies failed.
+
+83. Pikoele
+General characteristics: Medium in height, moderately spreading, maturing
+within 9 to 12 months, producing from 5 to 10 aha; characterized by unusu­
+ally large, prominent purple pika.
+Petiole: 65 to 90 em. tall, dark green, red at edge, purplish at apex, white or
+greenish-white at base.
+Leaf blade: 45 to 50 em. long, 30 to 35 em. wide, 35 to 40 em. from tip to base
+of sinus, ovate, dark green; pika conspicuous, dark purple; lobes acute
+with narrow sinus.
+Corm: Flesh chalky white with conspicuous yellowish fibers; skin white to
+cream-colored.
+Inflorescence: Peduncle dark green; spathe 18 to 20 cm. long, the lower
+tubular portion about 3 em. long, dark green, the upper portion yellow;
+spadix 6.5 to 7 em. long, the sterile appendage about 9 mm. long.
+Origin, and derivation of name: Native variety; the name Pikaele refers to
+the conspicuous, dark purple pika.
+Distribution: Little-known variety of limited distribution.
+Use: Mainly as table taro.
+Remarks: Because of the similarity in names, this variety is sometimes con­
+fused with Pika Eleele.
+
+84. Pololu
+General characteristics: Medium in height, moderat~ly spreading, maturing
+within 12 to 15 months, producing from 2 to 5 aha; distinguished by the
+white petiole bases and the light reddish-brown petioles, indistinctly
+diffused with yellowish-green.
+Petiole: 60 to 85 em. long, light reddish-brown indistinctly diffused with
+yellowish-green, purplish at apex, indistinctly red at edge, white at base.
+Leaf blade: 35 to 45 em. long, 25 to 35 em. wide, 25 to 40 em. from tip to base
+of sinus, sagiftate, dark green with bluish cast; pika purple; lobes acute
+with shallow, narrow sinus.
+Corm: Flesh chalky white with yellowish fibers; skin whitish.
+Origin, and derivation of name: Native variety; named, no doubt, after Pololu
+Valley in the Kohala district of Hawaii.
+Distribution: Grown to some extent in Kohala, Hawaii, under wetland cul­
+ture, but seldom found elsewhere.
+Use: A fairly good poi taro.
+
+71
+
+APPENDIX
+
+72
+
+73
+
+APPENDIX
+FINDING LISTS
+PETIOLE COLORING
+PRIMARILY RED
+
+Niue-ulaula
+Niuc-uliuli
+Oene
+Pololu
+
+Akado
+Hapuu
+Kai Uliuli
+Kakakura-ula '
+
+Uahiape!e '
+Ulaula Kumu
+Ulaula Moano
+Ulaula Poni
+
+PRIMARILY BLACK
+
+Lauloa Eleele-ula
+Lauloa Palakca-eleele
+Lauloa Palakca-papamu
+Lauloa Palakea-ula
+LeIma Eleele
+
+Eleele Makoko
+Eleele N aioea
+Kumll-eleele
+Laaloa
+Lauloa Eleele-omao
+
+Mana Eleele
+Manini-owali '
+Nawao
+Piko Eleele
+
+STRIPED
+
+Akuugawai
+Elcpaio
+Hillllpuaa
+Kakakura-ula '
+Manini Kea
+Manini-opclu
+
+Manini-owali '
+Manini Torctore
+Manini Uliuli
+NihoPllU
+Oopukai
+Papakolea-koae
+
+Uahiapele'
+Ula
+Ulaula Moan01
+Ulaula Poni '
+
+PRIMARILY LIGHT TO MEDIUM GREEN
+
+Lauloa Palakea-keokeo
+Leima Keokeo
+Lehua Maoli"
+Lihilihimoli nas
+Mana Kukuluhema s
+Mana Okoa
+Mana Opelll"
+Mana Ulu"
+Moi
+
+APll
+Apuwai
+Aweu
+Haokea
+I1iuaua
+KaiAla
+Kai Kca"
+Kalalall
+Lauloa Kcokco"
+1 Douhle-keye,1.
+2 Suffused with
+
+other colors.
+
+8 Flecked with other colors.
+
+Moana
+Ohe"
+Piko Kea
+Piko Keokeo
+Piko Lehua-apei
+Tahitian
+Tsurunoko'
+
+74
+
+Bulletin 84, Hawaii Experi111,ellt Station
+PRIMARILY DARK GREEN
+
+Mana Keokeo
+Mana Lauloa
+Mana Uliuli 2
+Mana Weo
+Manapiko
+Miyako'
+Paakai
+
+Apowale"
+Bun-long!
+Kuoho
+Lauloa Uliuli
+Lehua Palaii 2
+Leo"
+Maea'
+
+Papapueo
+Piialii'
+Pikoele
+Pika Uaua
+Pika Ulaula'
+Pika Uliuli
+Wehiwa 8
+
+CORM COLORING
+FLESH PURPLE AT CENTER, WHITE OUTSIDE
+
+Lihilihimolina
+FLESH WHITE WITH PURPLE FIBERS
+
+Bun-long
+FLESH YELLOW
+
+Mana Opelu
+Mana Uliuli
+
+Mana Ulu
+
+Mana Weo
+
+FLESH PURPLE
+
+Eleele Makoko
+Eleele Naioea
+Leima Eleele
+Leima Keokeo
+
+Lehua Maoli
+Lehua Palaii
+Oopukai
+Piialii
+
+Piko Lehua-apei
+Piko Ulaula
+
+FLESH WHITE WITH YELLOW FIBERS; SKIN WHITE TO CREAM-COLORED
+
+(Makes a gray poi unless otherwise indicated)
+Akuugawai
+Apu
+Apuwai'
+Aweu
+Elepaio
+Haokea'
+Hinupuaa
+KaiAla
+Kakakura-ula
+Kalalau
+Laaloa
+Lauloa Palakea-eleele
+Lauloa Palakea-ula
+
+Leo
+Maea
+Mana Keokeo
+Mana Kukuluhcma
+ManaOkoa
+Manapiko
+Manini Kea
+Manini-opelu
+Manini Toretore
+Manini Uliuli
+Miyaka
+Moana
+Nihopuu
+
+• Suffused wi th other colors.
+• Flecked with other colors.
+• l\f akes a sil very poi.
+
+Niue-ulaula
+Paakai
+Piko Keokeo
+Piko Uaua
+Piko Uliuli
+Pikoele
+Pololu
+Tahitian
+Tsurunoko
+Uahiapele
+Ula
+
+Taro Varieties in Hawaii
+
+75
+
+FLESH WHITE WITH YELLOW FIBERS; SKIN PINKISH TO PURPLISH OR REDDISH
+
+(Makes a gray poi unless otherwise indicated)
+Akado
+Apowale
+Hapuu
+I1iuaua
+Kai Kea"
+Kai Uliulio
+Kumu-eleele
+Kuoho
+Lauloa Eleele-omao
+Lauloa Eleele-ula
+Lauloa Keokeo
+
+Lauloa Palakea-keokeo
+Lauloa Palakea-papamu
+Lauloa Uliuli
+Mana Eleele
+Mana Lauloa
+Mana Ulaula
+Manini-owali
+Moi
+Nawao
+Niue-uliuli
+Oene
+
+Ohe
+Papakolea-koae
+Papapueo
+Piko Eleele
+Piko Kca
+Ulaula Kumu
+Ulaula Moano
+Ulaula Poni
+Wehiwa
+
+OTHER VEGETATIVE CHARACTERS
+TALL PETIOLES
+
+Akuugawai
+
+Lauloa group
+SHORT PETiOLES
+
+Apu
+Apuwai
+
+Moana
+
+Piialii
+
+DIVERGENT PETIOLE SINUS
+
+I1iuaua
+
+Tsurunoko
+CUP-SHAPED LEAF BLADES
+
+Apu
+
+Apuwai
+
+Piialii
+
+CRINKLED LEAP BLADES
+
+Apowale
+Apu
+Apuwai
+
+Leo
+Moana
+Paakai
+
+Piialii
+Piko Lehua-apei
+
+SHAGGY CORM SKIN
+
+Aweu
+SINUS OP LEAP BLADE CUT TO PIKO
+
+Piko group
+" Makes a translucent amber poi.
+• Makes a bluish poi.
+
+76
+
+Bulletin 84, Hawaii Bxperiment Station
+BRANCHING PARENT CORMS
+
+Mana group
+RHIZOME~PRODUCING
+
+Aweu
+
+Kakakura-ula
+
+MOTTLED LEAF BLADES
+
+Elcpaio
+
+Uahiapele
+
+SPLOTCHED PIKO
+
+Mana group
+
+Manapiko
+
+Tahitian
+
+HABITAT OF VARIETIES
+GROWN PRINCIPALLY UNDER UPLAND CULTURE
+
+Akado
+Akullgawai
+Aweu
+Eleele Makoko
+Eleele N aioea
+Elepaio
+Hillupuaa
+I1iuaua
+Kakakura-ula
+Kumu-eleele
+Kuoho
+Laaloa
+Lauloa Eleele-omao
+Lauloa Eleele-ula
+Lauloa Keokeo
+Lallloa Palakea-eleele
+Lauloa Palakea-keokeo
+Lauloa Palakea-papamu
+Lauloa Palakea-ula
+
+Lauloa Uliuli
+Lehua Eleele
+Lehua Keokeo
+LellUa Palaii
+Leo
+Lihilihimolina
+Maea
+Mana Eleele
+Mana Keokeo
+Mana Kukuluhema
+Mana Lauloa
+ManaOkoa
+Mana Opclu
+Manapiko
+Mana Ulaula
+Mana Uliuli
+Mana Ulu
+Mana Weo
+Manini-opelu
+
+Manini Toretore
+Miyako
+Moalla
+Nawao
+Niue-ulaula
+Niue-uliuli
+Oene
+Ohe
+Oopukai
+Paakai
+Papakolea-koae
+Pikoele
+Tahitian
+Tsurunoko
+Ula
+Ulal1la Moallo
+Ulaula POlli
+\Vehiwa
+
+GROWN PRINCIPALLY UNDER \VETLAND CULTURE
+
+Apowale
+Apu
+Apuwai
+KaiAla
+Kai Kea
+
+KaiUliuli
+Kalalal1
+Nihopuu
+Papapueo
+Piialii
+
+Piko Kea
+PikoKeokeo
+Piko Lehua-apei
+Piko Uliuli
+Pololu
+
+77
+
+Taro Val"ieties in Hawaii
+GROWN UNDER BOTH UPLAND AND WETLAND CULTURES
+Bun-long
+Haokea
+Hapuu
+Leima Eleele
+Leima Keokeo
+Lehua Maoli
+
+LeilUa Palaii
+Manini Kea
+Manini-owali
+Manini Uliuli
+Moi
+Piko Eleele
+
+Piko Uaua
+Piko U1aula
+Uahiapele
+Ulaula Kumu
+
+USAGE OF VARIETIES
+
+POI TAROS
+Apowale
+Apuwai'
+Eleele Makoko
+Eleele Naioca'
+Elepaio
+Haokea'
+Hapuu
+Kai Ala'
+Kai Kea'
+Kai U1iuli'
+Kalalau
+Kuoho
+
+Lauloa Eleele-ula
+LeilUa Eleele
+LeIma Keokeo
+Leima Maoli'
+LellUa Palaii'
+Manini Kea
+Moi
+Nihopuu
+Ohe'
+Paakai
+Papapueo
+Piialii'
+
+Piko Eleele
+Piko Kea'
+Piko Keokeo
+Piko Lehua-apei
+Piko Uaua'
+Piko Ulaula
+Piko Uliuli'
+Pololu
+Uahiapele
+Ulaula KlItllu
+Ulallia Moano
+Wehiwa
+
+LUAU TAROS
+Apuwai'
+Aweu
+Bun-long'
+Haokea
+Hapuu
+
+Kalalau
+Lauloa group
+Lauloa Palakea-eleele'
+Mana group
+Mana Keokeo'
+
+Oopukai
+Piko Eleele
+Piko Lehua-apci
+Wehiwa
+
+KULOLO TAROS
+Lauloa group
+
+Mana group
+
+Mana Keokco'
+
+SPROUTS USED AS GREENS
+Akado
+Apuwai
+
+Haokea
+Lauloa group
+
+Miyako
+Tsurunoko
+
+IMPORTANT TABLE TAROS8
+Apuwai
+Bun-long
+Lauloa Keokeo
+Lauloa Palakea-eleele
+
+Mana Keokeo
+Mana Ulu
+Piko Eleele
+Piko Kea
+
+, Inclieates the most important varieties.
+8 All varieties may be used as table taro~.
+
+Piko Uliuli
+Tsurunoko
+
+78
+
+Bulletin 84) Hawaii Experiment Station
+EARLY~ OR LATE~ MATURING VARIETIES
+EARLY~MATURING
+
+Akado
+Apu
+Apuwai
+Eleele Makoko
+Eleele Naioea
+
+KaiAla
+Kai Kea
+Kakakura-ula
+Lehua Eleele
+Lehua Keokeo
+
+LeIma Maoli
+Miyako
+Oopukai
+Piialii
+Tsurunoko
+
+LATE~MATURING
+
+Hinupuaa
+Ohe
+Palaii
+
+Piko Eleele
+PikoKea
+PikoKeokeo
+
+Piko Uaua
+Piko Ulaula
+Piko U1iuli
+
+79
+ILLUSTRATED GLOSSARY OF BOTANICAL TERMS
+
+vein
+"""",,-4I-Piko
+
+Midrib
+Marginal vein
+
+Petiole edqe
+
+Sinus or groove
+
+c
+
+Corm fiber:;
+
+Width
+
+A
+
+Lenq.h-b~se
+
+of sinus to tip
+Lenqth
+
+D
+-Sterile appendaqe
+Upper tubular porl·ion
+
+-Staminate portion
+
+-Sterile portion
+Constriction
+
+Pislill21te podion
+
+Lower tubular podion
+, -Peduncle
+
+E
+
+F
+
+80
+
+81
+
+GLOSSARY OF HAWAIIAN TERMS
+ala. Fragrance; usually refers to the pleasant aroma emitted by the cooked
+corms of certain varieties, notably the varieties belonging to the Kai
+group.
+apei. Crinkled.
+apowale. To seize.
+apu. Refers primarily to the cup, fashioned from a well-ripened coconut shell
+cut longitudinally, used for drinking medicine and other unpleasant liquids
+but not employed for ordinary drinking water.
+ekaeka. Dirty reddish.
+ele. Shortened or condensed form of eleele.
+eleele. Dark-colored; black.
+elepaio. A bird; flycatcher.
+ha. Petiole.
+hao. Cooked soft.
+hinu. Smooth, glossy.
+huH. Planting material consisting of a large central bud cut from the apex
+of the corm, with about % to ~ inch of the corm attached to about 6 to 12
+inches of the basal portion of the petiole.
+ii. Rot.
+iIi. Outer surface.
+kahuna. A native priest, of whom there were several orders.
+kai. Salt water; also the name of a group of taro varieties, possibly so named
+because of tolerance to saline conditions.
+kalalau. Wanderer; name of a valley on KauaL
+kalo. A general term used to designate the whole taro plant; specifically it
+refers to the parent corm. Kala and taro are merely dialectic variations
+of the same word, the former being the original and authentic Hawaiian
+name.
+kea. Light-colored, not necessarily white.
+keokeo. White or whitish, very light-colored.
+kukuluhema. South point.
+kulolo. A Hawaiian pudding prepared principally from grated raw taro and
+coconut milk, steamed underground.
+kumu. A brilliantly red-colored fish.
+lau. Leaf, leaves.
+lehua. Red or reddish; refers to the reddish poi made from certain varieties
+of taro with lilac-purple corms; also the name of a group of taro varieties
+noted for the excellent quality of reddish poi.
+leo. Influence arising from station.
+loa. Long, tall.
+luau. Greens prepared from young, delicate inner leaves of the taro plant.
+Since luau was an essential part of every native feast, the term luau has
+come to be a designation for the feast itself.
+
+82
+
+Bulletin 84, Hawaii EXpe1'i1'l'wlIt Station
+
+maea. Strong or bad smelling.
+makoko. A reddish fish.
+makua. Parent or older one; i.e., kalo-maklla or parent corm.
+mana. Branching; also the name of a group of taro varieties characterized
+by branching of the parent corm at the apex.
+manini. A striped fish living in the coral reefs.
+maoli. Native; genuine.
+moana. Broad.
+moano. A fish.
+moi. A fish.
+nawao. Wild taro; bad.
+oha. Primary lateral corm lets or suckers produced from the parent corm.
+obe. Hawaiian bamboo.
+okoa. Different; another.
+omao. Green.
+oopukai. A fish.
+opelu. A fish (mackerel).
+owali. Weak.
+owene. The first crop of taro.
+paiai. (Pai, a bundle, and ai, food.) A round bundle of pounded taro done
+up in ti leaves (Cord'ylille ter11linalis).
+pake. Chinese.
+pala. Soft; ripe, as fruit; mellow; cooked soft.
+papa. Old; ancient.
+pele. Goddess of the volcano.
+piko. Navel; the upper surface of a leaf blade at the point of junction with
+the petiole. Also the name of a group of taro varieties.
+poi. Pasty mass made by pounding or grinding cooked taro corms, with suffi­
+cient water added after thorough pounding to obtain the proper consist­
+ency, and allowed to ferment for a shorter or longer time before it is
+consumed.
+poIoIu. Spear; a valley on Hawaii.
+poni. Royal; purple.
+puu. Secondary cormlets, too small to cook and not yet producing leaves.
+uaua. Tough, elastic, viscid, glutinous, not easily separated.
+ula. Shortened or condensed form of ulaula.
+uIauia. Red, rosy, reddish.
+uli. Shortened or condensed form of uliuli.
+uliuli. A dark or dusky hue.
+ulu. Breadfruit.
+wai. \Vater.
+
+83
+
+LITERATURE CITED
+1
+
+BARRETT, O. W.
+
+1910. Promising Root Crops for the SOl/th. I.-Yautias, Ta.ros alld
+Dasheens. U. S. Dept. of Agriculture, Bureau of Plant Industry, Bull.
+164, pp. 1-29, illus.
+2
+
+CHRISTOPHERSEN, ERLING
+
+1935. Flowel'illg Plants of Samoa. Bernice P. Bishop Museum Bull. 128,
+221 pp., illus.
+
+3
+
+CRAWFORD, DAVID LIVINGSTON
+
+1937. Hawaii's Crop Parade. Taro, pp. 267-270.
+4
+
+HAWAII AGRICULTURAL EXPERIMENT STATION
+
+1938. Anllual Report, 1937, pp. 17-18.
+
+5
+
+HILL, ALBERT F.
+
+1939. The NOlllellcla.ture of the Taro alld Its Varieties. Harv. Univ. Bot.
+Mus. Leafl. 7(7) : 113-118.
+6
+
+JONES, MARTHA R., LARSEN, NILS P., AND PRITCHARD, GEORI:E P.
+
+1934. Taro and Sweet Potatoes Vel'slls Gmin Foods in Relation to
+Health and Delltal Decay in Hawaii. Dental Cosmos 76 (4): 395-409.
+illlls.
+
+7
+
+KIKUTA, K, WmTN12Y, LEO D., AND PARRIS, G. K.
+
+1938. Seeds alld Seedlings of the Taro, Colocasia esclllenta. American
+Journal of Botany 25 (3) : 186-188, illus.
+
+8
+
+MACCAUGIIEY, VAUGHAN, AND EMERSON, JOSEPH S.
+
+1914. A Revised List of Hawaiian Varietal Names for Kala. The Hawai­
+ian Forester and Agriculturist 11: 338-341.
+
+9
+
+MAGISTAD, O. C., AND FRAZIER, T. O.
+
+1938. Production alld .Marleetillg of Truck Crops in the Territol"j' of
+Hawaii. Hawaii Agr. Expt. Sta. Bull. 78, 46 pp., illlls.
+10
+
+MILLER, CAREY D.
+
+1927. Food Values of Poi, Taro and Limll. Bernice P. Bishop Museum,
+Bull. 37, 25 pp., illus.
+
+84
+
+85
+
+INDEX
+Variety
+No.
+Ahakea (See I-Iaokea)
+73
+Ahapii (See Piialii)
+32
+Akado
+2
+35
+Akuugawai
+Ala (See Kai Ala)
+28
+Ala Kea (See Kai Kea)
+29
+Ala Keokeo (See Kai Ala)
+28
+Ala Pipika (See :Mana Opelu)........ 9
+Apowale
+67
+Apu
+31
+Apuwai
+30
+Araimo (See Tsurunoko).................. 1
+6
+Aweo (See Aweu)
+Aweoweo (See Aweu)...................... 6
+Aweu
+6
+Aweuwetl (See Aweu)
+6
+BUll-long
+5
+Bun-long-woo (See Bun-long)
+5
+Chinese (See Bun-long).................... 5
+Ekacka (See Akado)
+2
+Eleele (See Eleele Naioea)
+44
+Eleele Lauloa
+(See Lauloa Eleele-ula)
+37
+Eleele Makoko
+43
+Eleele Naioca
+44
+Elepaio
+23
+F orcfore (See Manini Toretorc)
+55
+Haakea (See I-Iaokea)
+73
+Haawikea (See Haokea)
+73
+I-Iaehae (See Piko UIiuIi)
+21
+Haehae Eleele (See Piko Eleele)
+22
+Hachae Keokeo (See Piko Keokeo) 19
+Haehae UIaula (See Piko Ulaula) 17
+Haokea
+73
+Hapuu
+7S
+Hapuupuu (See Hapuu)
+75
+Helcmauna (See Piko Eleele)
+22
+lIinapu (See Lauloa UliuIi)
+77
+Hinupuaa
+60
+Hiwa (See Uahiapele)
+24
+Iaia (See UIaula Moano)
+50
+Ieie (See Ulaula Moano)
+50
+I1iuaua
+4
+22
+Ipuolono (See Piko Eleele)
+
+Variety
+No.
+Kai Ala
+28
+Kai Eleele (See Kai Uliuli)
+27
+Kai Kea
+29
+Kaimoi (See Oopukai)
+52
+Kai Uliuli
+27
+Kakakura (See Kakakura-ula)
+7
+Kakakura-ula
+7
+Kalalau
+74
+Kumu (See Ulaula KUllJu)
+48
+Kumu-eleele
+46
+Kuoho
+70
+Laaloa
+76
+Lauloa Eleele
+36
+(See Lauloa Eleele-omao)
+Lauloa Eleele-omao
+36
+Lauloa Eleele-ula
+37
+Lauloa Ha Eleele
+36
+(See Lauloa Eleele-omao)
+Lauloa Ha Keokeo
+(See Lauloa Keokeo)
+42
+Lauloa Ha UIiuli
+(See Lauloa Uliuli)
+77
+Lauloa Keokeo
+42
+Lauloa Onionio
+(See Lauloa Palakea-keokeo)
+41
+Lauloa Palakea
+(See Lauloa Palakea-eleele)
+38
+Lauloa Palakea-eleele
+38
+Lauloa Palakea-keokeo
+41
+Lauloa Palakca-papamu
+40
+Lauloa Palakea-ula
+39
+Lauloa Paparnu
+(See Lauloa Palakea-papamu)
+40
+Lauloa UIiuli
+77
+Launui Paakai (See Paakai)
+33
+Leima (See Lehua Maoli)
+64
+Lehua Apei (See Piko Lehua-apei) 16
+Lehua Eleele
+65
+Lehua Keokeo
+63
+Lehua Maoli
+64
+Lehua Palaii
+66
+Leo
+71
+Lihilihimolina
+78
+Maea
+72
+
+86
+
+Bulletin 84, Hawaii Experim.ent Station
+
+Variety
+Makaopio (See Piko Eleele)
+Makoko (See Eleele Makoko)
+Maauweo (See Aweu)
+Mamauweo (See Aweu)
+Mana Eleele
+Mana Ha Ulaula
+(See Mana Ulaula)
+Mana Kea (See Mana Keokeo)
+Mana Keokeo
+Mana Kukuluhema
+Mana Lauloa
+Mana Okoa
+Mana Opelu
+l1ana Owene (See Mana Ulu)
+Manapiko
+Mana U1aula
+Mana U1iuli
+Mana Ulu
+Mana Weo
+Manini (See HinuJluaa)
+Manini Kca
+Manini-opclu
+Manini-owali
+Manini Toretore
+Manini U1iuli
+Manua (See Mana Kukuluhema)
+Mauna (See Moana)
+Miyako
+Moana
+110i
+
+Moiula (See Piialii)
+Mokohe (See Piialii)
+Naioea (See Eleele Naioea)
+Nawao
+Neenee (See Moi)
+Nihopuu
+Niue (See
+Niue-ulaula, Niue-uliuli)
+Niue-ulaula
+Niue-uliuli
+Nohu (See Eleele Makoko)
+Oapu (Sec Apu)
+Oene
+Ohe
+Oopukai
+Owene (See Oene)
+
+No.
+22
+43
+6
+6
+
+79
+12
+14
+14
+15
+13
+80
+9
+8
+25
+12
+11
+8
+10
+60
+54
+59
+45
+55
+53
+15
+34
+3
+34
+81
+32
+32
+44
+47
+81
+58
+
+51, 61
+51
+61
+43
+31
+82
+62
+52
+82
+
+Variety
+No.
+Owene Ulaula (See Oene)
+82
+Paakai
+33
+Pake (See I1iuaua)
+4
+Palaii (See Lehua Palaii)
+66
+Palakea (See Lauloa
+Palakea-eleele)
+38
+Papakolea (See Papakolea-koae)
+56
+Papakolea-koae
+56
+Papapueo
+69
+Papamu
+(See Lauloa Pa1akea-papamu)
+40
+Pau 0 Hiiaka (See Uahiapele)
+24
+Piialii
+32
+Pikoele
+83
+Piko Eleele
+22
+Piko Kea
+18
+Piko Keokeo
+19
+Piko Lehua-apei
+16
+Piko Uaua
+20
+Piko Ulaula
+17
+Piko Uli (Sec Piko Uliuli)
+21
+Piko Uliuli
+21
+Pololu
+84
+Poni Mana (See Mana Eleele)
+79
+Poni Ulau1a (See U1aula Poni)
+49
+Tahitian
+26
+Toretore (See Manini Toretore)
+55
+Tsurunoko
+1
+24
+Uahiapele
+Uaua Keokeo (See Piko Keokeo) .. 19
+Uaua Piko (See Piko Uaua)
+20
+Ualehu (See Uahiapele)
+24
+Ula
+57
+UJaula Kumu
+48
+Ulaula Moano
+50
+U1aula Poni
+49
+Uwahiapcle (See Uahiapele)
+24
+Waiakea (See Lel1Ua Keokeo)
+63
+Waianae (See Piko Uliuli)
+21
+Wailana (See Lelllla Eleele)
+65
+Wehewa (See Wehiwa)
+68
+Wehiwa
+68
+Weo (See Mana Weo)
+10
+Wewehiwa (See Wehiwa)
+68
+Yellow (See Mana Uliuli)
+11
+
+
