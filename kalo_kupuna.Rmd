@@ -1,0 +1,116 @@
+---
+title: Kalo Kupuna
+
+---
+
+# Japanese
+# Palauan
+# Tongan
+# Samoan
+# Tahitian
+# Chinese
+
+# Hawaiian
+
+GROUP MANA
+GROUP PIKO
+GROUP KAI
+GROUP LAULOA
+GROUP ELEELE
+GROUP ULAULA
+GROUP MANINI
+GROUP LEHUA
+
+Group     Reported Extant
+Māna                 16 5
+Lauloa               13 5
+Lehua                11 4
+Kāī/ʻAla             12 4
+Manini                9 5
+Piko/Haehae/Uaua      7 6
+Hā-o-kea              6 1
+Hāpuʻu(puʻu)          6 1
+Kūmū/ʻUlaʻula         6 3
+Naioea/Nohu/ʻEleʻele  6 2
+
+Asian
+Kāʻī
+Palauan
+Mana
+ʻUlaʻula
+Lauloa-Manini
+
+
+
+
+Accession No. Traditional classification Revised classification Geographic Origin
+‘Iliuaua (“Pake”) 4 — Asian ?
+Bun-long 5 — Asian China
+‘Āweu (“wild taro”) 6 — — Hawai‘i
+Kakakura 7 — ‘Ula‘ula South Pacific
+Mana ‘Ulu 8 Mana Mana Hawai‘i
+Mana ‘Ōpelu 9 Mana Mana Hawai‘i
+Mana Uliuli 11 Mana Mana South Pacific
+Mana ‘Ula‘ula 12 Mana Mana Hawai‘i
+Mana Lauloa 13 Mana Mana Hawai‘i
+Mana Ke‘oke‘o 14 Mana Mana Hawai‘i
+Piko Lehua Apei 16 Piko Mana Hawai‘i
+Piko Kea 18 Piko Lehua Hawai‘i
+Piko Ke‘oke‘o 19 Piko Lehua Hawai‘i
+Piko Uaua 20 Piko Lehua Hawai‘i
+Piko Uliuli 21 Piko Lehua Hawai‘i
+Piko ‘Ele‘ele 22 Piko Lauloa-Manini Hawai‘i
+‘Elepaio Hā Kea 23 — Lehua Hawai‘i
+Uahiapele 24 — Lauloa-Manini Hawai‘i
+Manapiko 25 — Mana Hawai‘i
+Tahitian 26 — Mana South Pacific
+Kāī Uliuli 27 Kāī Kāī Hawai‘i
+Kāī Kea 29 Kāī Kāī Hawai‘i
+‘Apuwai 30 — Lehua Hawai‘i
+Pi‘i‘ali‘i 32 — Lehua Hawai‘i
+Pa‘akai 33 — Lehua Hawai‘i
+Moana 34 — Lehua Hawai‘i
+Akuugawai 35 — Lauloa-Manini South Pacific
+Lauloa ‘Ele‘ele ‘Ōma‘o 36 Lauloa Lauloa-Manini Hawai‘i
+Lauloa ‘Ele‘ele ‘Ula 37 Lauloa Lauloa-Manini Hawai‘i
+Lauloa Palakea ‘Ele‘ele 38 Lauloa Lauloa-Manini Hawai‘i
+Lauloa Palakea ‘Ula 39 Lauloa Lauloa-Manini Hawai‘i
+Lauloa Palakea Papamū 40 Lauloa Lauloa-Manini Hawai‘i
+Lauloa Palakea Ke‘oke‘o 41 Lauloa Lehua Hawai‘i
+Lauloa Ke‘oke‘o 42 Lauloa Lehua Hawai‘i
+‘Ele‘ele Mākoko 43 ‘Ele‘ele Lehua Hawai‘i
+‘Ele‘ele Naioea 44 ‘Ele‘ele Lehua Hawai‘i
+Manini ‘Ōwali 45 — Lauloa-Manini Hawai‘i
+Kūmū ‘Ele‘ele 46 — Lauloa-Manini Hawai‘i
+Nāwao 47 — Lehua Hawai‘i
+‘Ula‘ula Kūmū 48 ‘Ula‘ula ‘Ula‘ula Hawai‘i
+‘Ula‘ula Poni 49 ‘Ula‘ula ‘Ula‘ula Hawai‘i
+‘Ula‘ula Moano 50 ‘Ula‘ula ‘Ula‘ula Hawai‘i
+Niue ‘Ula‘ula 51 — ‘Ula‘ula South Pacific
+‘O‘opukai 52 — ‘Ula‘ula Hawai‘i
+Manini Uliuli 53 Manini Lauloa-Manini Hawai‘i
+Manini Kea 54 Manini Lauloa-Manini Hawai‘i
+Pāpākolea Koa‘e 56 — Lehua Hawai‘i
+Nihopu‘u 58 — Lauloa-Manini Hawai‘i
+Manini ‘Ōpelu 59 — Lauloa-Manini Hawai‘i
+Lehua Ke‘oke‘o 64 Lehua Lehua Hawai‘i
+Lehua ‘Ele‘ele 65 Lehua Lehua Hawai‘i
+Lehua Pala‘i‘i 66 Lehua Lehua Hawai‘i
+‘Apowale 67 — Lehua Hawai‘i
+Wehiwa 68 — Lehua Hawai‘i
+Papapueo 69 — Lehua Hawai‘i
+Kū‘oho 70 — Lehua Hawai‘i
+Māea 72 — Lehua Hawai‘i
+Haokea 73 — Lehua Hawai‘i
+Hāpu‘u 75 — Lehua Hawai‘i
+False Lihilihimōlina 78 — — Hawai‘i
+Mana ‘Oko‘a 80 — Mana Hawai‘i
+Moi 81 — Lehua Hawai‘i
+Pololū 84 — Lehua Hawai‘i
+Moi ‘Ula‘ula n/a n/a Lehua Hawai‘i
+Makalau (Moloka‘i) n/a n/a Mana Hawai‘i
+Ngesuas (P-1) n/a n/a Palauan Palau
+Ochelochel (P-7) n/a n/a Palauan Palau
+Ngeruuch (P-10) n/a n/a Palauan Palau
+Merii (P-12) n/a n/a Palauan Palau
+Dirratengadik (P-20) n/a n/a Palauan Palau
