@@ -1,0 +1,78 @@
+Data from: Phylogenetic relationships, breeding implications, and cultivation history of Hawaiian taro (Colocasia
+esculenta) through genome-wide SNP genotyping
+
+https://datadryad.org/stash/dataset/doi:10.5061/dryad.r35kr
+
+Helmkampf, Martin, Humanities Iowa 
+Wolfgruber, Thomas K., Humanities Iowa 
+Bellinger, M. Renee, Humanities Iowa 
+Paudel, Roshan, Humanities Iowa 
+Kantar, Michael B., Humanities Iowa 
+Miyasaka, Susan C., Humanities Iowa 
+Kimball, Heather, Humanities Iowa 
+Brown, Ashley, Quidel Corporation (United States) 
+Veillet, Anne, Humanities Iowa 
+Read, Andrew, Cornell University 
+Shintaku, Michael, Humanities Iowa 
+Published Aug 08, 2017 on Dryad. https://doi.org/10.5061/dryad.r35kr 
+
+Cite this dataset
+
+Submit 
+
+Helmkampf, Martin et al. (2017). Data from: Phylogenetic relationships, breeding implications, and cultivation
+history of Hawaiian taro (Colocasia esculenta) through genome-wide SNP genotyping [Dataset]. Dryad.
+https://doi.org/10.5061/dryad.r35kr
+
+Abstract
+
+Taro, Colocasia esculenta, is one of the world’s oldest root crops and of particular economic and cultural
+significance in Hawai‘i, where historically more than 150 different landraces were grown. We developed a
+genome-wide set of more than 2400 high-quality single nucleotide polymorphism (SNP) markers from 70 taro
+accessions of Hawaiian, South Pacific, Palauan, and mainland Asian origins, with several objectives: (a) uncover
+the phylogenetic relationships between Hawaiian and other Pacific landraces, (b) shed light on the history of taro
+cultivation in Hawai‘i, and (c) develop a tool to discriminate among Hawaiian and other taros. We found that
+almost all existing Hawaiian landraces fall into five monophyletic groups that are largely consistent with the
+traditional Hawaiian classification based on morphological characters, e.g., leaf shape and petiole color. Genetic
+diversity was low within these clades but considerably higher between them. Population structure analyses further
+indicated that the diversification of taro in Hawai‘i most likely occurred by a combination of frequent somatic
+mutation and occasional hybridization. Unexpectedly, the South Pacific accessions were found nested within the
+clades mainly composed of Hawaiian accessions, rather than paraphyletic to them. This suggests that the origin of
+clades identified here preceded the colonization of Hawai‘i, and that early Polynesian settlers brought taro
+landraces from different clades with them. In the absence of a sequenced genome, this marker set provides a
+valuable resource towards obtaining a genetic linkage map, and to study the genetic basis of phenotypic traits of
+interest to taro breeding such as disease resistance. 
+
+Usage notes
+
+HawaiianTaro_SNP.vcf
+
+Zip archive of eight SNP datasets in VCF format, obtained by four SNP calling methods: GBS+RAD, GBS subset,
+transcriptome, and UNEAK (see Materials and methods). Each was filtered by minor allele count ≥ 2 (mac2) and minor
+allele frequency ≥ 0.1 (maf10). The primary dataset was based on GBS+RAD and mac2.
+
+HawaiianTaro_SNP.fas
+
+ZIP archive of two SNP datasets used for phylogenetic analyses in FASTA format, homozygous positions only
+(nomenclature see VCF files).
+
+Funding
+
+National Science Foundation, Award: 1345247 
+
+Location
+
+Pacific
+
+Data files
+
+
+Download dataset 
+
+ 
+Aug 08, 2017 
+
+* HawaiianTar...NP.fas.zip 
+ 68.48 KB
+* HawaiianTar...NP.vcf.zip 
+ 2.49 MB
