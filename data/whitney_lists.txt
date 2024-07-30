@@ -1,0 +1,544 @@
+# FINDING LISTS
+
+## PETIOLE COLORING
+
+### PRIMARILY RED
+
+Niue-ulaula
+Niuc-uliuli
+Oene
+Pololu
+
+Akado
+Hapuu
+Kai Uliuli
+Kakakura-ula (!)
+
+Uahiapele (!)
+Ulaula Kumu
+Ulaula Moano
+Ulaula Poni
+
+### PRIMARILY BLACK
+
+Lauloa Eleele-ula
+Lauloa Palakca-eleele
+Lauloa Palakca-papamu
+Lauloa Palakea-ula
+LeIma Eleele
+
+Eleele Makoko
+Eleele N aioea
+Kumll-eleele
+Laaloa
+Lauloa Eleele-omao
+
+Mana Eleele
+Manini-owali (!)
+Nawao
+Piko Eleele
+
+## STRIPED
+
+Akuugawai
+Elcpaio
+Hillllpuaa
+Kakakura-ula (!)
+Manini Kea
+Manini-opelu
+
+Manini-owali (!)
+Manini Torctore
+Manini Uliuli
+Nihopu‘u
+Oopukai
+Papakolea-koae
+
+Uahiapele (!)
+Ula
+Ulaula Moano (!)
+Ulaula Poni (!)
+
+## PRIMARILY LIGHT TO MEDIUM GREEN
+
+Lauloa Palakea-keokeo
+Leima Keokeo
+Lehua Maoli (suffused with other colors)
+Lihilihimolina (flecked with other colors)
+Mana Kukuluhema (flecked with other colors)
+Mana Okoa
+Mana Opelu (flecked with other colors)
+Mana Ulu (suffused with other colors)
+Moi
+
+Apu
+Apuwai
+Aweu
+Haokea
+I1iuaua
+KaiAla
+Kai Kea (flecked with other colors)
+Kalalalu
+Lauloa Keokeo (flecked with other colors)
+
+Moana
+Ohe (flecked with other colors)
+Piko Kea
+Piko Keokeo
+Piko Lehua-apei
+Tahitian
+Tsurunoko (flecked with other colors)
+
+PRIMARILY DARK GREEN
+
+Mana Keokeo
+Mana Lauloa
+Mana Uliuli (flecked with other colors)
+Mana Weo
+Manapiko
+Miyako (flecked with other colors)
+Paakai
+
+Apowale (flecked with other colors)
+Bun-long (flecked with other colors)
+Kuoho
+Lauloa Uliuli
+Lehua Palaii (flecked with other colors)
+Leo (suffused with other colors)
+Maea (suffused with other colors)
+
+Papapueo
+Piialii (flecked with other colors)
+Pikoele
+Pika Uaua
+Pika Ulaula (flecked with other colors)
+Pika Uliuli
+Wehiwa (suffused with other colors)
+
+#### EDITING MARK ####
+### changes made up to this mark ###
+
+CORM COLORING
+FLESH PURPLE AT CENTER, WHITE OUTSIDE
+
+Lihilihimolina
+FLESH WHITE WITH PURPLE FIBERS
+
+Bun-long
+FLESH YELLOW
+
+Mana Opelu
+Mana Uliuli
+
+Mana Ulu
+
+Mana Weo
+
+FLESH PURPLE
+
+Eleele Makoko
+Eleele Naioea
+Leima Eleele
+Leima Keokeo
+
+Lehua Maoli
+Lehua Palaii
+Oopukai
+Piialii
+
+Piko Lehua-apei
+Piko Ulaula
+
+FLESH WHITE WITH YELLOW FIBERS; SKIN WHITE TO CREAM-COLORED
+
+(Makes a gray poi unless otherwise indicated)
+Akuugawai
+Apu
+Apuwai'
+Aweu
+Elepaio
+Haokea'
+Hinupuaa
+KaiAla
+Kakakura-ula
+Kalalau
+Laaloa
+Lauloa Palakea-eleele
+Lauloa Palakea-ula
+
+Leo
+Maea
+Mana Keokeo
+Mana Kukuluhcma
+ManaOkoa
+Manapiko
+Manini Kea
+Manini-opelu
+Manini Toretore
+Manini Uliuli
+Miyaka
+Moana
+Nihopuu
+
+• Suffused wi th other colors.
+• Flecked with other colors.
+• l\f akes a sil very poi.
+
+Niue-ulaula
+Paakai
+Piko Keokeo
+Piko Uaua
+Piko Uliuli
+Pikoele
+Pololu
+Tahitian
+Tsurunoko
+Uahiapele 
+Ula
+
+FLESH WHITE WITH YELLOW FIBERS; SKIN PINKISH TO PURPLISH OR REDDISH
+
+(Makes a gray poi unless otherwise indicated)
+Akado
+Apowale
+Hapuu
+I1iuaua
+Kai Kea"
+Kai Uliulio
+Kumu-eleele
+Kuoho
+Lauloa Eleele-omao
+Lauloa Eleele-ula
+Lauloa Keokeo
+
+Lauloa Palakea-keokeo
+Lauloa Palakea-papamu
+Lauloa Uliuli
+Mana Eleele
+Mana Lauloa
+Mana Ulaula
+Manini-owali
+Moi
+Nawao
+Niue-uliuli
+Oene
+
+Ohe
+Papakolea-koae
+Papapueo
+Piko Eleele
+Piko Kca
+Ulaula Kumu
+Ulaula Moano
+Ulaula Poni
+Wehiwa
+
+OTHER VEGETATIVE CHARACTERS
+TALL PETIOLES
+
+Akuugawai
+
+Lauloa group
+SHORT PETiOLES
+
+Apu
+Apuwai
+
+Moana
+
+Piialii
+
+DIVERGENT PETIOLE SINUS
+
+I1iuaua
+
+Tsurunoko
+CUP-SHAPED LEAF BLADES
+
+Apu
+
+Apuwai
+
+Piialii
+
+CRINKLED LEAP BLADES
+
+Apowale
+Apu
+Apuwai
+
+Leo
+Moana
+Paakai
+
+Piialii
+Piko Lehua-apei
+
+SHAGGY CORM SKIN
+
+Aweu
+SINUS OP LEAP BLADE CUT TO PIKO
+
+Piko group
+" Makes a translucent amber poi.
+• Makes a bluish poi.
+
+76
+
+Bulletin 84, Hawaii Bxperiment Station
+BRANCHING PARENT CORMS
+
+Mana group
+RHIZOME~PRODUCING
+
+Aweu
+
+Kakakura-ula
+
+MOTTLED LEAF BLADES
+
+Elcpaio
+
+Uahiapele
+
+SPLOTCHED PIKO
+
+Mana group
+
+Manapiko
+
+Tahitian
+
+HABITAT OF VARIETIES
+GROWN PRINCIPALLY UNDER UPLAND CULTURE
+
+Akado
+Akullgawai
+Aweu
+Eleele Makoko
+Eleele N aioea
+Elepaio
+Hillupuaa
+I1iuaua
+Kakakura-ula
+Kumu-eleele
+Kuoho
+Laaloa
+Lauloa Eleele-omao
+Lauloa Eleele-ula
+Lauloa Keokeo
+Lallloa Palakea-eleele
+Lauloa Palakea-keokeo
+Lauloa Palakea-papamu
+Lauloa Palakea-ula
+
+Lauloa Uliuli
+Lehua Eleele
+Lehua Keokeo
+LellUa Palaii
+Leo
+Lihilihimolina
+Maea
+Mana Eleele
+Mana Keokeo
+Mana Kukuluhema
+Mana Lauloa
+ManaOkoa
+Mana Opclu
+Manapiko
+Mana Ulaula
+Mana Uliuli
+Mana Ulu
+Mana Weo
+Manini-opelu
+
+Manini Toretore
+Miyako
+Moalla
+Nawao
+Niue-ulaula
+Niue-uliuli
+Oene
+Ohe
+Oopukai
+Paakai
+Papakolea-koae
+Pikoele
+Tahitian
+Tsurunoko
+Ula
+Ulal1la Moallo
+Ulaula POlli
+\Vehiwa
+
+GROWN PRINCIPALLY UNDER \VETLAND CULTURE
+
+Apowale
+Apu
+Apuwai
+KaiAla
+Kai Kea
+
+KaiUliuli
+Kalalal1
+Nihopuu
+Papapueo
+Piialii
+
+Piko Kea
+PikoKeokeo
+Piko Lehua-apei
+Piko Uliuli
+Pololu
+
+GROWN UNDER BOTH UPLAND AND WETLAND CULTURES
+Bun-long
+Haokea
+Hapuu
+Leima Eleele
+Leima Keokeo
+Lehua Maoli
+
+LeilUa Palaii
+Manini Kea
+Manini-owali
+Manini Uliuli
+Moi
+Piko Eleele
+
+Piko Uaua
+Piko U1aula
+Uahiapele
+Ulaula Kumu
+
+USAGE OF VARIETIES
+
+POI TAROS
+Apowale
+Apuwai'
+Eleele Makoko
+Eleele Naioca'
+Elepaio
+Haokea'
+Hapuu
+Kai Ala'
+Kai Kea'
+Kai U1iuli'
+Kalalau
+Kuoho
+
+Lauloa Eleele-ula
+LeilUa Eleele
+LeIma Keokeo
+Leima Maoli'
+LellUa Palaii'
+Manini Kea
+Moi
+Nihopuu
+Ohe'
+Paakai
+Papapueo
+Piialii'
+
+Piko Eleele
+Piko Kea'
+Piko Keokeo
+Piko Lehua-apei
+Piko Uaua'
+Piko Ulaula
+Piko Uliuli'
+Pololu
+Uahiapele
+Ulaula KlItllu
+Ulallia Moano
+Wehiwa
+
+LUAU TAROS
+Apuwai'
+Aweu
+Bun-long'
+Haokea
+Hapuu
+
+Kalalau
+Lauloa group
+Lauloa Palakea-eleele'
+Mana group
+Mana Keokeo'
+
+Oopukai
+Piko Eleele
+Piko Lehua-apci
+Wehiwa
+
+KULOLO TAROS
+Lauloa group
+
+Mana group
+
+Mana Keokco'
+
+SPROUTS USED AS GREENS
+Akado
+Apuwai
+
+Haokea
+Lauloa group
+
+Miyako
+Tsurunoko
+
+IMPORTANT TABLE TAROS8
+Apuwai
+Bun-long
+Lauloa Keokeo
+Lauloa Palakea-eleele
+
+Mana Keokeo
+Mana Ulu
+Piko Eleele
+Piko Kea
+
+, Inclieates the most important varieties.
+8 All varieties may be used as table taro~.
+
+Piko Uliuli
+Tsurunoko
+
+78
+
+Bulletin 84) Hawaii Experiment Station
+EARLY~ OR LATE~ MATURING VARIETIES
+EARLY~MATURING
+
+Akado
+Apu
+Apuwai
+Eleele Makoko
+Eleele Naioea
+
+KaiAla
+Kai Kea
+Kakakura-ula
+Lehua Eleele
+Lehua Keokeo
+
+LeIma Maoli
+Miyako
+Oopukai
+Piialii
+Tsurunoko
+
+LATE~MATURING
+
+Hinupuaa
+Ohe
+Palaii
+
+Piko Eleele
+PikoKea
+PikoKeokeo
+
+Piko Uaua
+Piko Ulaula
+Piko U1iuli

@@ -3,6 +3,37 @@ title: Kalo Kupuna
 
 ---
 
+# Kalo Kupuna -- Group Key
+
+1a. Leaves undulating [2]
+1b. Leaves without distinct undulations [3]
+
+2a. Mature leaves ovate, often concave [Kai]
+2b. Mature leaves saggitate and long relative to width  [Lauloa]
+
+3a. Leaf sinus connecting to piko, distinct inner petiole ridge [Piko]
+3b. Leaf sinus shallow and/or no distince petiolar ridge [4]
+
+4a. Petioles green, no distinct patterning, leaves saggitate [Lehua] 
+4b. Petioles with mixed colors or patterned or with dark shades,
+especially red [5]
+
+5a. Petioles striped either red-purple on green or green on
+red-purple, leaves narrow/sagittate [Manini]
+5b. Petioles not green-red/purple striped or not sagittate leaves [6]
+
+6a. Petioles red to purple becoming lighter red/pink near kohina,
+leaves narrow and small relative to petiole  [Ulaula]
+6b. Colors light or leaves larger and/or wider and/or petioles with
+darker colors and distinct pattern near kohina [7]
+
+7a. Color lighter (not black, red-purple, red-brown), leaves small and
+verticle, corms branching [Mana]
+7b. Petioles black to red-purple and/or red-brown with distinct distinct
+lilac-red rings 3-4 cm above kohina [Eleele]
+
+
+
 # Japanese
 # Palauan
 # Tongan

@@ -1,0 +1,149 @@
+# Kalo Groups - Major Characteristics
+
+## GROUP KAI 
+
+- Concave, pendant blades 
+- Finely undulating margins
+- Generally wetland
+- Alkaline tolerant
+- Stagnant water tolerant
+- Tolerant of deep or soft patches
+- Possibly resistant to soft rot
+- Cooking is often twice as long as for other varieties
+- Rubbery texture of the cooked corms
+- Fragrant odor (ala) is usually emitted when the corms are cooked
+- High pa‘ai yield
+
+
+## GROUP MANA
+
+- Branching (generally rare except in mature corms)
+- Generally upright petioles
+- Petioles curved at apex
+- Leaf hangs nearly vertically
+- Narrow blades
+- Piko splotching, extending to midrib and veins
+- Generally early maturing (7-9 mo)
+- Corms yellow
+- Corms are dry, mealy, flaky
+
+## GROUP ULAULA
+
+- Red or purplish petioles
+- Comparatively small, ovate blades
+- Reddish-tinged flowers
+- High ‘oha proudction 
+- Wetland or upland
+
+## GROUP LAULOA
+
+- Long petioles
+- Long leaves
+- Sagittate leaves
+- Undulating margins
+- High consistancy of leaf and petiole size among varieties
+- Erect, compact habit
+- Sparing ‘oha production
+- Average matruation (8-12 mo)
+- Generally upland
+- Generally nonacrid
+- Used for medicinal purposes (pulmonary)
+- Somatic mutations common
+
+
+## GROUP MANINI
+
+- Green and reddish-purple or purplish-black striped petioles
+- Quite narrow, sagittate leaf blades
+- White corm flesh
+- Wetland and upland
+- Possible disease susceptibility
+- Generally low yield
+
+
+## GROUP PIKO
+
+- Group likely not monophyletic
+- Piko trait likely evolved multiple times
+- Deep sinus connecting to the piko
+- Persistent ridge on the inner surface of the petiole above sinus
+- Erect petioles
+- Generally horizontal leaf blades
+- Generally ovate leaves
+- Usually wetland, cooler
+- Relatively more ‘oha per plant
+- Late maturing (12-15 mo)
+- Good poi
+
+## GROUP LEHUA
+
+- Light green petioles
+- Spreading petioles
+- Smooth, sagittate leaf blades
+- Upland and wetland
+- Lilac-purple corms
+- Red poi 
+- Average matruation (8-12 mo)
+- Kalo ali‘i 
+
+## GROUP ELEELE
+
+- Blackish or reddish-brown petiole 
+- Dark reddish-purple basal ring 
+- Dark lilac-purple area for 3 to 4 cm above the ring
+- Light lilac-purple corm flesh
+- Fast maturing, high production (~8 mo)
+- Rot quickly
+- Fast huli degeneration
+- Generally upland 
+- Red poi
+
+
+## Notes for Key
+
+-[x] Leaves pendant, leaves concave, leaves finely undulating [Kai]
+-[x] Corms branching, petioles upright, leaves vertical, leaves small and
+  narrow [Mana]
+- Petioles red to purple/red, leaves ovate, leaves small [Ulaula]
+-[x] Petioles and leaves long, sagittate leaves, undulating margins,
+  compact and erect [Lauloa]
+-[x] Leaves narrow, saggitate, petioles green with red/purple or
+  purple-black stripes or red/purple with dark and light green
+  stripes, white corm [Manini]
+-[x] Sinus deep, connecting to piko, persistent ridge on inner surface of
+  petiole above the sinus [Piko] 
+-[x] Petioles light green, spreading, leaves sagittate [Lehua]
+-[x] Petiole black-ish or reddish-brown, basal ring above kohina dark
+  red-purple, dark lilac-purple ring 3-4 cm above ring, corm light
+  lilac-purple [Eleele]
+
+## Group Key
+
+1a. Leaves undulating [2]
+1b. Leaves without distinct undulations [3]
+
+2a. Mature leaves ovate, often concave [Kai]
+2b. Mature leaves saggitate and long relative to width  [Lauloa]
+
+3a. Leaf sinus connecting to piko, distinct inner petiole ridge [Piko]
+3b. Leaf sinus shallow and/or no distince petiolar ridge [4]
+
+4a. Petioles green, no distinct patterning, leaves saggitate [Lehua] 
+4b. Petioles with mixed colors or patterned or with dark shades,
+especially red [5]
+
+5a. Petioles striped either red-purple on green or green on
+red-purple, leaves narrow/sagittate [Manini]
+5b. Petioles not green-red/purple striped or not sagittate leaves [6]
+
+6a. Petioles red to purple becoming lighter red/pink near kohina,
+leaves narrow and small relative to petiole  [Ulaula]
+6b. Colors light or leaves larger and/or wider and/or petioles with
+darker colors and distinct pattern near kohina [7]
+
+7a. Color lighter (not black, red-purple, red-brown), leaves small and
+verticle, corms branching [Mana]
+7b. Petioles black to red-purple and/or red-brown with distinct distinct
+lilac-red rings 3-4 cm above kohina [Eleele]
+
+
