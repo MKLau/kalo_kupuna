@@ -21,17 +21,18 @@ GROUP ULAULA
 GROUP MANINI
 GROUP LEHUA
 
-Group     Reported Extant
-Māna                 16 5
-Lauloa               13 5
-Lehua                11 4
-Kāī/ʻAla             12 4
-Manini                9 5
-Piko/Haehae/Uaua      7 6
-Hā-o-kea              6 1
-Hāpuʻu(puʻu)          6 1
-Kūmū/ʻUlaʻula         6 3
-Naioea/Nohu/ʻEleʻele  6 2
+Group      Reported  Extant
+Māna                  16  5
+Lauloa                13  5
+Lehua                 11  4
+Kāī/ʻAla              12  4
+Manini                 9  5
+Piko/Haehae/Uaua       7  6
+Hā-o-kea               6  1
+Hāpuʻu(puʻu)           6  1
+Kūmū/ʻUlaʻula          6  3
+Naioea/Nohu/ʻEleʻele   6  2
+Total                 92 46
 
 Asian
 Kāʻī
@@ -39,8 +40,6 @@ Palauan
 Mana
 ʻUlaʻula
 Lauloa-Manini
-
-
 
 
 Accession No. Traditional classification Revised classification Geographic Origin
