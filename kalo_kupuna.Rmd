@@ -5,8 +5,8 @@ title: Kalo Kupuna
 
 # Kalo Kupuna -- Group Key
 
-- 1a. Leaves undulating [**2**]
-- 1b. Leaves without distinct undulations [**3**]
+- 1a. Leaf margine undulating [**2**]
+- 1b. Leaf margine without distinct undulations [**3**]
 - 2a. Mature leaves ovate, often concave [**Kai**]
 - 2b. Mature leaves saggitate and long relative to width  [**Lauloa**]
 - 3a. Leaf sinus connecting to piko, distinct inner petiole ridge [**Piko**]
