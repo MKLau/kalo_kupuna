@@ -3,6 +3,116 @@ title: Kalo Kupuna
 
 ---
 
+# Web Scrape Kupuna Kalo Website
+
+```{r ws-kk, eval = TRUE, echo = TRUE, cache = TRUE}
+
+library(pacman)
+p_load(rvest)
+
+p_load(rvest, magrittr, wordcloud, RColorBrewer)
+
+extract_var_info <- function(x){
+    x <- x[[8]]
+    x <- strsplit(x, "\n\n")[[1]]
+    main <- c(x[1], x[2])
+    main[1] <- gsub("\n001\n\\*", "", main[1])
+    x <- x[-1:-2]
+    headers <- c("USE AS FOOD", "DISTRIBUTION", "GENERAL CHARACTERISTICS", 
+                 "HA (PETIOLE)", "LAU OR LU'AU(LEAF BLADE)", "I'O KALO (CORM)'", 
+                 "PUA (FLOWER)", "REMARKS")
+    ## fix missing sections
+    fix.section <- sapply(headers, function(h, s, x) 
+        x[which(x == h) + 1] %in% s,
+        s = sections, x = x)
+    fix.section <- match(names(fix.section[fix.section]), x)
+    for (i in seq_along(fix.section)){
+        x <- c(x[1:fix.section[i]], "NA", x[(fix.section[i] + 1):length(x)])
+    }
+    x <- x[!(grepl("no items found", x, ignore.case = TRUE))]
+    x <- x[!(grepl("bulletin 84 system", x, ignore.case = TRUE))]
+    info <- x[(1:length(x)) %% 2 == 0]
+    if (length(info) < length(headers)){
+        info <- c(info, rep("NA", length(headers) - length(info)))
+    }
+    out <- data.frame(sections = headers, 
+                      info = info)
+    return(out)
+}
+
+
+html <- read_html("https://www.kupunakalo.com/kalo-varieties")
+txt <- html %>% html_elements("div") %>% html_text2()
+var <- strsplit(txt[[14]], "\n") %>% unlist()
+var <- var[!(grepl("choose", var, ignore.case = TRUE))]
+var <- tolower(var)
+var <- sapply(var, function(str) gsub("^‘", "", str)) 
+var <- sapply(var, function(str) gsub("[^[:alnum:] ]", "-", str)) 
+var <- iconv(var, from="UTF-8", to="ASCII//TRANSLIT")
+var <- gsub(" ", "-", var)
+var <- gsub("--", "-", var)
+url <- paste0("https://www.kupunakalo.com/kalo-variety/", 
+              var)
+html.var <- lapply(url, read_html)
+txt.var <- lapply(html.var, function(html) html %>% html_elements("div") %>% html_text2())
+info.var <- lapply(txt.var, extract_var_info)
+
+ike.kk <- do.call(rbind, lapply(info.var, function(x) x[, 2]))
+colnames(ike.kk) <- info.var[[1]][, 1]
+
+```
+
+```{r wc-foodways, eval = TRUE, echo = TRUE}
+
+info.fw <- paste(ike.kk[, "USE AS FOOD"], collapse = " ")
+info.fw <- tolower(info.fw)
+info.fw <- gsub("\\.", "", info.fw)
+info.fw <- gsub(",", "", info.fw)
+info.fw <- gsub("-", "", info.fw)
+info.fw <- gsub(";", "", info.fw)
+info.fw <- gsub(":", "", info.fw)
+info.fw <- gsub("\\(", "", info.fw)
+info.fw <- gsub("\\)", "", info.fw)
+info.fw <- strsplit(info.fw, split = " ")[[1]]
+info.fw <- info.fw[is.na(match(info.fw, c("by", "from", "to", "or", "also", "the", 
+                 "for", "in", "on", "as", "a", "an", "it", 
+                 "are", "is", "and", "of")))]
+tab.fw <- table(info.fw)
+
+pal <- brewer.pal(6,"Dark2")
+pal <- pal[-(1)]
+wordcloud(names(tab.fw), tab.fw, colors = pal,
+                     vfont=c("gothic english","plain"))
+
+```
+
+```{r lehua, eval = TRUE, echo = TRUE}
+
+srch.red <- (grepl("red", tolower(ike.kk[, "USE AS FOOD"])) | 
+             grepl("lehua", tolower(ike.kk[, "USE AS FOOD"])))
+var[srch.red]
+
+```
+
+```{r ala, eval = TRUE, echo = TRUE}
+
+srch.ala <- (grepl("ala", tolower(ike.kk[, "USE AS FOOD"])) | 
+             grepl("‘ala", tolower(ike.kk[, "USE AS FOOD"])) | 
+             grepl("‘āla", tolower(ike.kk[, "USE AS FOOD"])) | 
+             grepl("āla", tolower(ike.kk[, "USE AS FOOD"])))
+var[srch.ala]
+
+```
+
+```{r ulika, eval = TRUE, echo = TRUE}
+
+srch.ulika <- (grepl("ulika", tolower(ike.kk[, "USE AS FOOD"])) | 
+             grepl("gummy", tolower(ike.kk[, "USE AS FOOD"])))
+var[srch.ulika]
+
+```
+
+
 # Kalo Kupuna -- Group Key
 
 - 1a. Leaf margine undulating [**2**]
@@ -28,14 +138,14 @@ lilac-red rings 3-4 cm above kohina [**Eleele**]
 
 
 
-# Japanese
-# Palauan
-# Tongan
-# Samoan
-# Tahitian
-# Chinese
+## Japanese
+## Palauan
+## Tongan
+## Samoan
+## Tahitian
+## Chinese
 
-# Hawaiian
+## Hawaiian
 
 GROUP MANA
 GROUP PIKO
