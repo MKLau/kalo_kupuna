@@ -7,6 +7,8 @@ title: Kalo Kupuna
 
 ```{r results = "hide"}
 
+### Make sure to run the Google Sheet code first to authenticate.
+
 if (!("pacman" %in% installed.packages()[, 1])) {
     
   install.packages("pacman")
@@ -61,8 +63,6 @@ plot(factor(huli[, "Huli Variety"]), huli[, "Basal Diameter (mm)"], ylab = "Basa
 ### compare the beds
 
 
-
-
 ```
 
 ```{r huli-tabs, results = "asis", echo = FALSE}
@@ -102,7 +102,7 @@ aov(huli[, "Basal Diameter (mm)"]~factor(huli[, "Huli Variety"])) %>%
 
 
 
-```{r ws-kk, eval = TRUE, echo = TRUE, cache = TRUE}
+```{r ws-kk, eval = FALSE, echo = TRUE, cache = TRUE}
 
 extract_var_info <- function(x){
     x <- x[[8]]
@@ -154,7 +154,7 @@ colnames(ike.kk) <- info.var[[1]][, 1]
 
 ```
 
-```{r wc-foodways, eval = TRUE, echo = TRUE}
+```{r wc-foodways, eval = FALSE, echo = TRUE}
 
 info.fw <- paste(ike.kk[, "USE AS FOOD"], collapse = " ")
 info.fw <- tolower(info.fw)
@@ -178,7 +178,7 @@ wordcloud(names(tab.fw), tab.fw, colors = pal,
 
 ```
 
-```{r lehua, eval = TRUE, echo = TRUE}
+```{r lehua, eval = FALSE, echo = TRUE}
 
 srch.red <- (grepl("red", tolower(ike.kk[, "USE AS FOOD"])) | 
              grepl("lehua", tolower(ike.kk[, "USE AS FOOD"])))
@@ -186,7 +186,7 @@ var[srch.red]
 
 ```
 
-```{r ala, eval = TRUE, echo = TRUE}
+```{r ala, eval = FALSE, echo = TRUE}
 
 srch.ala <- (grepl("ala", tolower(ike.kk[, "USE AS FOOD"])) | 
              grepl("‘ala", tolower(ike.kk[, "USE AS FOOD"])) | 
@@ -196,7 +196,7 @@ var[srch.ala]
 
 ```
 
-```{r ulika, eval = TRUE, echo = TRUE}
+```{r ulika, eval = FALSE, echo = TRUE}
 
 srch.ulika <- (grepl("ulika", tolower(ike.kk[, "USE AS FOOD"])) | 
              grepl("gummy", tolower(ike.kk[, "USE AS FOOD"])))
