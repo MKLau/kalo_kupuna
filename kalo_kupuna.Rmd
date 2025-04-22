@@ -34,10 +34,18 @@ if (!("pacman" %in% installed.packages()[, 1])) {
 
 huli <- googlesheets4::read_sheet("https://docs.google.com/spreadsheets/d/1D-wsqwNw047RnKB9IdbYE79z8s3aIzrMrcgKNxE9kzQ/", 
                                   sheet = "28Mar2025")
+map <- googlesheets4::read_sheet("https://docs.google.com/spreadsheets/d/1D-wsqwNw047RnKB9IdbYE79z8s3aIzrMrcgKNxE9kzQ/", 
+                                  sheet = "Map")
 
 huli <- as.data.frame(huli)
-head(huli)
 huli[grepl("-0.8", huli[, "Notes"]), "Basal Diameter (mm)"] <- huli[grepl("-0.8", huli[, "Notes"]), "Basal Diameter (mm)"] - 0.8
+
+map <- as.data.frame(map)
+map <- map[match(huli[, "Huli ID"], map[, "Huli ID"]), ]
+
+all(huli[, "Huli ID"] == map[, "Huli ID"])
+
+huli <- data.frame(map[, c("Bed", "Row", "Column")], huli)
 
 ```
 
@@ -45,57 +53,72 @@ huli[grepl("-0.8", huli[, "Notes"]), "Basal Diameter (mm)"] <- huli[grepl("-0.8"
 ```{r huli-figs, fig.width = 10, fig.height = 3.75, echo = FALSE}
 
 par(mfrow = c(1, 3))
-plot(huli[, "Huli Mass (g)"], huli[, "Basal Diameter (mm)"], 
-     xlab = "Mass (g)", ylab = "Basal Diameter (mm)")
-abline(lm(huli[, "Basal Diameter (mm)"]~huli[, "Huli Mass (g)"]))
-plot(huli[, "Huli Mass (g)"], huli[, "Length to Node Apex (cm)"], 
-     xlab = "Mass (g)", ylab = "Length to Node Apex (cm)")
-abline(lm(huli[, "Length to Node Apex (cm)"]~huli[, "Huli Mass (g)"]))
-plot(huli[, "Length to Node Apex (cm)"], huli[, "Basal Diameter (mm)"], 
-     xlab = "Length to Node Apex (cm)", ylab = "Basal Diameter (mm)")
-abline(lm(huli[, "Basal Diameter (mm)"]~huli[, "Length to Node Apex (cm)"]))
+plot(huli[, "Huli.Mass..g."], huli[, "Basal.Diameter..mm."], 
+     xlab = "Mass (g)", ylab = "Basal.Diameter (mm)")
+abline(lm(huli[, "Basal.Diameter..mm."]~huli[, "Huli.Mass..g."]))
+plot(huli[, "Huli.Mass..g."], huli[, "Length.to.Node.Apex..cm."], 
+     xlab = "Mass (g)", ylab = "Length.to.Node.Apex..cm.")
+abline(lm(huli[, "Length.to.Node.Apex..cm."]~huli[, "Huli.Mass..g."]))
+plot(huli[, "Length.to.Node.Apex..cm."], huli[, "Basal.Diameter..mm."], 
+     xlab = "Length.to.Node.Apex..cm.", ylab = "Basal.Diameter..mm.")
+abline(lm(huli[, "Basal.Diameter..mm."]~huli[, "Length.to.Node.Apex..cm."]))
 
 par(mfrow = c(1, 3))
-plot(factor(huli[, "Huli Variety"]), huli[, "Huli Mass (g)"], ylab = "Huli Mass (g)")
-plot(factor(huli[, "Huli Variety"]), huli[, "Length to Node Apex (cm)"], ylab = "Length to Node Apex (cm)")
-plot(factor(huli[, "Huli Variety"]), huli[, "Basal Diameter (mm)"], ylab = "Basal Diameter (mm)")
+plot(factor(huli[, "Huli.Variety"]), huli[, "Huli.Mass..g."], xlab = "Variety", ylab = "Huli.Mass..g.")
+plot(factor(huli[, "Huli.Variety"]), huli[, "Length.to.Node.Apex..cm."], xlab = "Variety", ylab = "Length.to.Node.Apex..cm.")
+plot(factor(huli[, "Huli.Variety"]), huli[, "Basal.Diameter..mm."], xlab = "Variety", ylab = "Basal.Diameter..mm.")
 
-### compare the beds
+par(mfrow = c(1, 3))
+plot(factor(huli[, "Bed"]), huli[, "Huli.Mass..g."], xlab = "Bed", ylab = "Huli.Mass..g.")
+plot(factor(huli[, "Bed"]), huli[, "Length.to.Node.Apex..cm."], xlab = "Bed", ylab = "Length.to.Node.Apex..cm.")
+plot(factor(huli[, "Bed"]), huli[, "Basal.Diameter..mm."], xlab = "Bed", ylab = "Basal.Diameter..mm.")
 
 
 ```
 
 ```{r huli-tabs, results = "asis", echo = FALSE}
 
-lm(huli[, "Basal Diameter (mm)"]~huli[, "Huli Mass (g)"]) %>%
+lm(huli[, "Basal.Diameter..mm."]~huli[, "Huli.Mass..g."]) %>%
     summary() %>%
     xtable() %>%
     kable()
-lm(huli[, "Length to Node Apex (cm)"]~huli[, "Huli Mass (g)"]) %>%
+lm(huli[, "Length.to.Node.Apex..cm."]~huli[, "Huli.Mass..g."]) %>%
     summary() %>%
     xtable() %>%
     kable()
-lm(huli[, "Basal Diameter (mm)"]~huli[, "Length to Node Apex (cm)"])  %>%
+lm(huli[, "Basal.Diameter..mm."]~huli[, "Length.to.Node.Apex..cm."])  %>%
     summary() %>%
     xtable() %>%
     kable()
 
-aov(huli[, "Huli Mass (g)"]~factor(huli[, "Huli Variety"])) %>%
+aov(huli[, "Huli.Mass..g."]~factor(huli[, "Huli.Variety"])) %>%
     summary() %>%
     xtable() %>%
     kable()
-aov(huli[, "Length to Node Apex (cm)"]~factor(huli[, "Huli Variety"])) %>%
+aov(huli[, "Length.to.Node.Apex..cm."]~factor(huli[, "Huli.Variety"])) %>%
     summary() %>%
     xtable() %>%
     kable()
-aov(huli[, "Basal Diameter (mm)"]~factor(huli[, "Huli Variety"])) %>%
+aov(huli[, "Basal.Diameter..mm."]~factor(huli[, "Huli.Variety"])) %>%
     summary() %>%
     xtable() %>%
     kable()
+
+aov(huli[, "Huli.Mass..g."]~factor(huli[, "Bed"])) %>%
+    summary() %>%
+    xtable() %>%
+    kable()
+aov(huli[, "Length.to.Node.Apex..cm."]~factor(huli[, "Bed"])) %>%
+    summary() %>%
+    xtable() %>%
+    kable()
+aov(huli[, "Basal.Diameter..mm."]~factor(huli[, "Bed"])) %>%
+    summary() %>%
+    xtable() %>%
+    kable()
+
 
 ```
-
-
 
 
 # Web Scrape Kupuna Kalo Website
