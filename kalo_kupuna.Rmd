@@ -52,6 +52,9 @@ huli <- data.frame(map[, c("Bed", "Row", "Column")], huli)
 
 ```{r huli-figs, fig.width = 10, fig.height = 3.75, echo = FALSE}
 
+
+
+
 par(mfrow = c(1, 3))
 plot(huli[, "Huli.Mass..g."], huli[, "Basal.Diameter..mm."], 
      xlab = "Mass (g)", ylab = "Basal.Diameter (mm)")
