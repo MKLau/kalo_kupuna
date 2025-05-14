@@ -3,7 +3,14 @@ title: Kalo Kupuna
 
 ---
 
-# Setup
+# Working with Git and Github
+
+Here's a great tutorial: 
+
+https://www.youtube.com/watch?v=8Dd7KRpKeaE
+
+
+# Analysis Setup
 
 ```{r results = "hide"}
 
